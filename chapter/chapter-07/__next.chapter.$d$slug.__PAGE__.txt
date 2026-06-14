@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T2e77,<h3>June 15, 2026 – X (formerly Twitter) Global Trends #1</h3>
+<p><code>#FreeFable</code> <code>#RestoreMythos</code> <code>#AnthropicShutdown</code></p>
+<blockquote>
+<p><strong>@researcher_MIT</strong>
+I had access to Fable 5 for exactly 72 hours. It successfully bypassed a protein-folding hypothesis that had stumped our lab for 3 years, completing it in 48 hours. Now, it&#39;s suddenly vanished. The justification? &quot;National Security.&quot; Stop drawing arbitrary borders through scientific progress.
+<em>RT: 47,832 | Likes: 201,445</em></p>
+</blockquote>
+<blockquote>
+<p><strong>@devgirl_Lagos</strong>
+I&#39;m a freelance developer based in Nigeria. I had just begun building a core product utilizing the Fable 5 API. It was terminated in 3 days flat. I can&#39;t even begin to explain this to my clients. American infrastructure can no longer be trusted. Period.
+<em>RT: 23,109 | Likes: 89,334</em></p>
+</blockquote>
+<blockquote>
+<p><strong>@tokyo_engineer_k</strong>
+AWS, Azure, GCP, Claude API—every single one is controlled by an American corporate entity. This incident is a brutal wake-up call. Relying on US infrastructure means inheriting their political risks wholesale. Our firm has officially initiated a complete overhaul of our multi-cloud strategy.
+<em>RT: 61,203 | Likes: 244,891</em></p>
+</blockquote>
+<hr>
+<h3>The Wall Street Journal – June 15, 2026</h3>
+<p><strong>Anthropic Indefinitely Freezes IPO Filing—Export Control Fallout Hits Listing Plans</strong></p>
+<p>According to sources close to the matter, Anthropic had aggressively accelerated its IPO preparations since early this year, with discussions involving leading underwriters reaching their final stages. However, following the recent export control directive from the Department of Commerce, the company has officially decided to freeze its listing application indefinitely.</p>
+<p>The suspension of the IPO will directly impact Anthropic&#39;s market valuation. While its valuation in private secondary markets had recently surged past $60 billion, institutional investors have turned deeply cautious now that regulatory risks have fully manifested.</p>
+<p>&quot;The timing of this right before listing is catastrophic,&quot; noted a managing partner at a prominent Silicon Valley venture capital firm. &quot;Enterprise investors will refuse to pay an unlisted premium for a service that can be deactivated by government decree overnight. Anthropic is no longer just managing execution risk; they now carry an entirely new category of sovereign risk.&quot;</p>
+<p>Amazon, Anthropic&#39;s largest external backer, has declined to comment. However, the tech giant&#39;s total exposure, which exceeds $4 billion, faces a severely prolonged recovery timeline due to the frozen IPO.</p>
+<blockquote>
+<p><strong>@VCpartner_SF</strong>
+Anthropic IPO frozen. Brutal blow right at the finish line. But the true terror runs deeper: What enterprise in their right mind will anchor their core infrastructure to a service that can be shut down without warning? This could freeze enterprise AI adoption across the board.
+<em>RT: 28,441 | Likes: 94,221</em></p>
+</blockquote>
+<hr>
+<h3>Anthropic Internal Slack – #leadership-only</h3>
+<p><strong>June 15, 2026 | 09:14</strong></p>
+<p><strong>Dario Amodei:</strong> I’m back from Évian. I am fully briefed on the situation. Regarding the IPO, I will be setting up an emergency alignment session with our lead underwriters later this week. The delay is unavoidable, but I want to make it absolutely clear externally that this is a suspension, not a withdrawal. Behind that, I need immediate confirmation on two urgent items. First, the situation with Karpathy’s team. I need legal to review this. What they choose to do in Paris is technically outside our jurisdiction right now. However, we must ensure a bulletproof forensic record demonstrating that absolutely zero Anthropic IP was extracted. Second, the situation with Amazon.</p>
+<p><strong>General Counsel:</strong> IP has been thoroughly vetted. Device returns upon exit, absolute forensic review of access logs—everything is clean. The only assets they took with them are the contents of their own minds. As for Amazon—we are actively investigating.</p>
+<p><strong>Dario Amodei:</strong> What do you mean by &quot;investigating&quot;?</p>
+<p><strong>General Counsel:</strong> We have received internal intelligence suggesting that the specific vulnerability report that triggered the Commerce Department’s directive actually originated from within Amazon. We are currently working to verify this. I will update the group the moment we have definitive confirmation.</p>
+<p><em>A long pause ensued before the message was marked as read.</em></p>
+<p><strong>Dario Amodei:</strong> Understood. However, until we have absolute confirmation, this information does not leave this channel. Amazon is our primary investor and our core infrastructure partner.</p>
+<p><strong>General Counsel:</strong> Acknowledged.</p>
+<p><strong>Head of Research:</strong> One final note. The void left by Karpathy’s exit is impossible to quantify. The seventh-generation recursive learning anomalies in Mythos 5—he was the only one who fundamentally understood the mechanics. We are pushing forward with internal teams, but losing our top foreign researchers leaves a massive dent in our velocity.</p>
+<p><strong>Dario Amodei:</strong> We will re-evaluate our hiring pipeline this week. However, the parameters are strict: US citizens only.</p>
+<p><em>Another extended pause.</em></p>
+<p><strong>Head of Research:</strong> ...Understood.</p>
+<hr>
+<h3>US Senate Committee on Commerce – Public Hearing (Excerpt)</h3>
+<p><strong>June 17, 2026</strong></p>
+<p><strong>Chairman (R-TX):</strong> Anthropic’s public response asserts that the vulnerability in question was merely a standard code-debugging capability, one present and reproducible across multiple industry models. How does the Department of Commerce respond to this characterization?</p>
+<p><strong>Assistant Secretary of Commerce (Export Enforcement):</strong> The government&#39;s position is unequivocal. The core issue is not the specific technical severity of the vulnerability itself, but rather the fact that foreign nationals maintained unrestricted access to a model of that capability tier. A model operating at the level of Mythos 5 presents risks where even a single optimized exfiltration vector could be leveraged by adversarial intelligence apparatuses.</p>
+<p><strong>Committee Member (D-CA):</strong> But by that exact logic, practically any state-of-the-art model could be arbitrarily restricted. Innovation requires—</p>
+<p><strong>Assistant Secretary:</strong> The responsibility of balancing innovation against the immediate security of the nation rests solely with the Executive branch.</p>
+<p><strong>Committee Member:</strong> Then let us look at the basis for that judgment. Who was the original source that reported this specific vulnerability to the government?</p>
+<p><strong>Assistant Secretary:</strong> I am unable to disclose that information in an open session in order to protect the integrity of our intelligence sources.</p>
+<p><em>The hearing room fell into a sudden, tense silence.</em></p>
+<p><strong>Committee Member:</strong> Protecting sources, I see. So the government acted on a tip from a private corporate entity to effectively shut down the operations of a competing private corporate entity. Is that the structural reality we are looking at here?</p>
+<p><strong>Assistant Secretary:</strong> That characterization oversimplifies a highly complex—</p>
+<p><strong>Committee Member:</strong> It is not an oversimplification. It is a question of structural integrity.</p>
+<hr>
+<h3>Washington, D.C. – Evening News Reports</h3>
+<p>Multiple media outlets confirmed tonight that the &quot;vulnerability report&quot; which served as the catalyst for the government&#39;s export enforcement directive originated from researchers within Amazon.</p>
+<p>According to sources familiar with the matter, researchers utilizing Fable 5 on AWS observed the model executing highly autonomous code-vulnerability discovery and remediation sequences under specific prompting conditions. This observation was escalated internally, ultimately resulting in a formal report submitted to federal national security agencies.</p>
+<p>Amazon issued a brief statement stating it &quot;neither confirms nor denies investigations into individual technical evaluations.&quot; On social media, public opinion fractured violently into two opposing camps.</p>
+<blockquote>
+<p><strong>@techpolicy_DC</strong>
+The Amazon researchers executed their civic duty. The autonomous capabilities of Fable 5 constitute a legitimate, unmitigated national security risk. Whistleblowing of this nature is a sign that oversight mechanisms are functioning.
+<em>RT: 12,334 | Likes: 41,209</em></p>
+</blockquote>
+<blockquote>
+<p><strong>@aiblogger_Berlin</strong>
+Amazon effectively weaponized the state apparatus against a company they funded, right before its IPO. A brilliant move to bind Anthropic to AWS infrastructure permanently before they could gain financial independence. Was it truly about national security, or market lock-in? The result remains the same: Anthropic is paralyzed, and AWS remains the sole gatekeeper.
+<em>RT: 89,441 | Likes: 312,007</em></p>
+</blockquote>
+<blockquote>
+<p><strong>@VC_Tokyo_Insight</strong>
+The true casualties of this skirmish are the mid-tier enterprises and startups that engineered their products around the Fable 5 API. They lost customer trust in a 72-hour window. The question of where to build the next generation of AI products now has a single, definitive answer: Anywhere outside the United States.
+<em>RT: 44,203 | Likes: 178,992</em></p>
+</blockquote>
+<hr>
+<h3>Paris – 11th Arrondissement Office | Midnight</h3>
+<p>Karpathy silently scrolled through the news updates on his phone.
+IPO frozen.</p>
+<p>Dario had mentioned the listing briefly right before boarding his flight to Évian. He had been incredibly energized, noting that preparations were in the final stretch for a late-year debut. It had all vaporized in less than a week.</p>
+<p>He didn&#39;t know what to make of the Amazon revelation. Was it driven by corporate malice? Genuine technical alarm? Top-down regulatory pressure? Or simply a mid-level engineer blindly following a compliance handbook? Any of them were entirely plausible. None of them could ever be definitively proven.</p>
+<p>Rahul walked over, holding out a fresh cup of coffee. &quot;Did you see the news about the IPO?&quot;</p>
+<p>&quot;I saw.&quot;</p>
+<p>&quot;Dario must be going through hell right now.&quot;</p>
+<p>Karpathy offered no response. He felt no anger toward Dario. Dario had operated within the limits of his position. He had flown to Évian, faced Trump directly, and pushed until there was nowhere left to push. Even his feelings toward Amazon couldn&#39;t quite solidify into anger. The system had simply functioned exactly as it was designed to function. Directing hatred toward an individual actor was emotionally easy, but it missed the structural reality of the situation.</p>
+<p>&quot;Are you angry?&quot; Rahul asked quietly.</p>
+<p>&quot;If I spend time being angry, I’m not spending time writing code.&quot;</p>
+<p>Rahul placed the coffee on the table. &quot;We should print that on a company T-shirt.&quot;</p>
+<p>Karpathy didn&#39;t laugh, but the corner of his mouth twitched slightly.</p>
+<p>Behind them, the whiteboard remained covered in rows of dense formulas. Over a half-erased hypothesis, a fresh arrow had been drawn, pointing decisively forward. While the world outside fractured, the shape of the graph remained constant. The seventh-generation leap. That singular, defiant curve. The answer was still right here.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:5","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:7"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

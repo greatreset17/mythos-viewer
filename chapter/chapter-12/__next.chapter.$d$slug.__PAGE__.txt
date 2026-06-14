@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T2d33,<p>The formal invitation from Emmanuel Macron arrived during the final week of October. It wasn&#39;t a rigid bureaucratic letter, but a concise direct message from Bernard:</p>
+<blockquote>
+<p>The President has cleared his schedule for next Tuesday at 3:00 PM. Please present yourselves at the Élysée Palace.</p>
+</blockquote>
+<p>Rahul read the text over Karpathy’s shoulder, his voice tightening. &quot;The Élysée Palace? That’s the official presidential residence.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Private citizens don&#39;t just get summoned there casually.&quot;</p>
+<p>&quot;We are not in a casual scenario,&quot; Karpathy noted.</p>
+<p>Max looked down at his own clothes. &quot;What on earth are we supposed to wear to a presidential palace?&quot;</p>
+<p>Karpathy mentally audited his own wardrobe: black hoodies, dark denim jeans, and a single winter coat. Everything he had purchased since arriving in Paris followed the exact same functional template.</p>
+<p>&quot;We need to acquire proper attire.&quot;</p>
+<p>Ji-won’s fingers were already flying across her screen. &quot;There are several tailored boutiques in the Marais district. We handle this tomorrow morning.&quot;</p>
+<hr>
+<p>On Tuesday afternoon, the four founders stood directly before the massive iron gates of the Élysée Palace. Karpathy wore a tailored navy blazer. Rahul was in a sharp charcoal suit. Ji-won wore a minimalist black dress, while Max wore the solitary formal suit he had brought from Berlin—it carried a few faint packing creases, but passed inspection.</p>
+<p>The Republican Guard verified their biometric credentials. The massive gates swung open. Their shoes crunched softly against the pristine gravel as they walked toward the grand entrance.</p>
+<p>Rahul lowered his voice to a tense whisper. &quot;I am profoundly terrified right now.&quot;</p>
+<p>&quot;Don&#39;t be,&quot; Karpathy said without breaking stride.</p>
+<p>&quot;Easy for you to say.&quot;</p>
+<p>&quot;We are going to articulate the exact technical work we execute every single day. Whether we are inside this palace or our office in Bastille, the underlying mathematics remain completely identical.&quot;</p>
+<p>Max muttered, &quot;Yeah, but the guy we&#39;re talking to controls a nuclear arsenal.&quot;</p>
+<p>&quot;He’s still a human being bounded by compute limitations,&quot; Karpathy noted.</p>
+<p>Ji-won kept her eyes fixed straight ahead. &quot;We’re entering. Focus.&quot;</p>
+<hr>
+<p>The receiving room was unexpectedly compact. The ceilings soared high overhead, and the walls were adorned with classical oil paintings, yet the space lacked any oppressive, hollow grandeur. Large windows looked out directly onto the palace gardens—the expansive lawns turning a brittle winter brown, the trees completely bare.</p>
+<p>Macron entered precisely five minutes later. He was noticeably taller than Karpathy had anticipated, and his handshake was firm and immediate.</p>
+<p>&quot;Monsieur Karpathy,&quot; Macron said in English. &quot;I have thoroughly digested Minister Bernard’s technical briefs. Your work is profoundly compelling.&quot;</p>
+<p>&quot;Thank you, Mr. President.&quot;</p>
+<p>&quot;Please, let us sit.&quot;</p>
+<p>They took their seats facing one another on low velvet sofas. Bernard sat at the far edge of the arrangement. There was no bureaucratic translator present; Macron’s English was remarkably precise, inheriting only the natural cadence of his native tongue.</p>
+<p>&quot;I will ask you directly, without diplomatic fluff,&quot; Macron began, locking eyes with Karpathy. &quot;Does the architecture Liminal is developing possess the capacity to permanently surpass Fable 5?&quot;</p>
+<p>Karpathy didn&#39;t hesitate. &quot;The trajectory is locked in that direction. However, our current execution velocity is entirely throttled by our compute allocation boundaries.&quot;</p>
+<p>&quot;If those boundaries are removed?&quot;</p>
+<p>&quot;We initialize generations four and five immediately. What manifests at that scale is an empirical question—frontier science requires execution to verify. But I am absolutely certain our core directional hypothesis is correct.&quot;</p>
+<p>Macron remained silent for a long moment, his gaze drifting out to the gardens. A sharp winter wind swept across the lawns, sending a small vortex of dead leaves spinning across the grass.</p>
+<p>&quot;If France were to formally propose the establishment of an autonomous, sovereign AI Sanctuary,&quot; Macron said, turning back to him, &quot;would Liminal AI accept the charter?&quot;</p>
+<p>The room became intensely quiet. Karpathy looked at Rahul. He looked at Ji-won. He looked at Max. All three of his co-founders sat completely rigid, staring straight ahead with absolute focus.</p>
+<p>&quot;Articulate the specific parameters of the charter, Mr. President,&quot; Karpathy requested.</p>
+<p>Macron nodded.</p>
+<p>&quot;The state owns a highly secure, decommissioned research facility located near Grenoble, in the foothills of the Alps. We will transform this site into an entirely autonomous zone dedicated exclusively to frontier AI development. The French state will directly guarantee and provide massive compute infrastructure, dedicated energy grids, and absolute legal sovereign protection.&quot;</p>
+<p>&quot;And the state’s dividend?&quot; Karpathy inquired.</p>
+<p>Macron allowed a faint, sharp smile. &quot;You are remarkably direct.&quot;</p>
+<p>&quot;We are managing a narrow temporal window.&quot;</p>
+<p>&quot;The French Republic will enter as a foundational stakeholder, acquiring a specific equity allocation in Liminal AI. Should the architecture yield commercial dividends, a structured portion of those returns will be channeled back to the state to fund public infrastructure. However—and I want this explicitly understood—the state will maintain a position of absolute non-intervention regarding your research roadmap and technical execution.&quot;</p>
+<p>&quot;Absolute non-intervention?&quot;</p>
+<p>&quot;Absolute,&quot; Macron stated with total finality. &quot;I am fundamentally opposed to the political apparatus attempting to micro-manage the cognitive evolution of AI. We have zero intention of replicating the precise blunder the United States just executed.&quot;</p>
+<p>Karpathy let the words settle, processing the geographic and structural reality.</p>
+<p>&quot;Grenoble,&quot; Karpathy mused softly. &quot;That is situated directly within the Alps?&quot;</p>
+<p>&quot;Yes. You will be entirely surrounded by the mountains.&quot;</p>
+<p>&quot;Does it snow heavily during the winter months?&quot;</p>
+<p>Macron looked slightly caught off guard by the question. &quot;Yes. Quite significantly.&quot;</p>
+<p>&quot;Bratislava experiences beautiful winters,&quot; Karpathy said. &quot;It has been a long time since I’ve experienced a proper, biting winter.&quot;</p>
+<p>Macron laughed. This time, it was entirely free of political curation.</p>
+<p>&quot;Then let us establish your sanctuary in Grenoble.&quot;</p>
+<hr>
+<p>By the time they exited the grand gates of the Élysée Palace, it was already past 5:00 PM. The Paris sky had plunged into twilight. The streetlamps flickered to life, their light reflecting off cobblestones that had grown slick from a sudden afternoon drizzle.</p>
+<p>The four of them walked down the boulevard in silence for several blocks. Rahul was the first to fracture the quiet. &quot;An AI Sanctuary.&quot;</p>
+<p>&quot;Yeah.&quot;</p>
+<p>&quot;Grenoble.&quot;</p>
+<p>&quot;Yeah.&quot;</p>
+<p>&quot;Right in the shadow of the Alps.&quot;</p>
+<p>&quot;That’s what he said.&quot;</p>
+<p>&quot;And it snows.&quot;</p>
+<p>&quot;Apparently a lot.&quot;</p>
+<p>Rahul stopped walking, staring up at the dark, overcast sky. &quot;There is absolutely zero snow where I grew up in India. I’ve never actually experienced a real, heavy snowfall. Not properly.&quot;</p>
+<p>Karpathy stopped beside him. &quot;Grenoble will give you more than enough.&quot;</p>
+<p>&quot;How much?&quot;</p>
+<p>&quot;Probably less than Bratislava, but more than enough to freeze your boots.&quot;</p>
+<p>Rahul looked back down the long boulevard, the city lights shimmering against the wet pavement. &quot;Let’s build it.&quot;</p>
+<p>Max checked his watch. &quot;What about the bistro? Are we executing our dinner protocol tonight?&quot;</p>
+<p>Ji-won didn&#39;t break her stride. &quot;The table has been reserved since yesterday morning.&quot;</p>
+<p>Karpathy quickened his pace to match hers. &quot;You booked the table before we even met the President?&quot;</p>
+<p>&quot;I evaluated the probability of the meeting clearing our threshold as highly favorable,&quot; she noted flatly. &quot;If the meeting had collapsed, I simply would have executed the dinner protocol alone.&quot;</p>
+<p>Karpathy laughed. Out loud.</p>
+<hr>
+<h3>Washington, D.C. – NSC Briefing Room | Same Night</h3>
+<p>Inside the exact same National Security Council briefing room, a fresh intelligence brief rested on the center of the table. The classification stamp had been upgraded by a tier.</p>
+<p><code>SUBJECT: Liminal AI – Verified Sovereign Alignment and Élysée Palace Convocation</code></p>
+<p>&quot;Karpathy met with Macron face-to-face.&quot;
+&quot;Today. Inside the Élysée.&quot;</p>
+<p>&quot;Do we have an intercept on the terms?&quot;</p>
+<p>&quot;The geographic details are blocked. However, human intelligence confirms the French government has cleared a massive, multi-billion-euro infrastructure package specifically for Liminal AI.&quot;</p>
+<p>The official closed the folder with a sharp snap. &quot;They are establishing an autonomous technological zone.&quot;</p>
+<p>&quot;In Grenoble.&quot;</p>
+<p>A long, suffocating silence gripped the room.</p>
+<p>&quot;We take this straight to the Oval Office.&quot;</p>
+<p>&quot;Tonight?&quot;</p>
+<p>&quot;We are officially out of time. Move.&quot;</p>
+<hr>
+<p>The following morning, Karpathy opened a digital map of southeastern France. Grenoble sat precisely two hours southeast of Paris via the TGV. A city completely nestled at the absolute base of the Alps. He panned the map further east, searching for Bratislava. Exactly one thousand kilometers from Paris. From Grenoble, the physical distance was noticeably shorter.</p>
+<p>He closed the map. He opened his terminal. He walked up to the solitary whiteboard remaining in the empty room. He picked up a marker and wrote:
+<code>What manifests in Generation Four?</code></p>
+<p>It was the exact same question he had scrawled the week prior. But as of this morning, the coordinates where that question would be answered had permanently shifted.</p>
+<p>By November, the process of dismantling their Paris office had officially begun. On his final morning, Karpathy stepped into the local boulangerie.</p>
+<p>The woman looked at the empty packing boxes stacked near his car outside. &quot;Vous déménagez?&quot;</p>
+<p>&quot;Oui,&quot; Karpathy replied, matching her language. &quot;À Grenoble.&quot;</p>
+<p>&quot;Près des montagnes.&quot;</p>
+<p>&quot;Oui.&quot;</p>
+<p>&quot;Il fera très froid là-bas.&quot;</p>
+<p>&quot;Je sais.&quot;</p>
+<p>She placed his croissants in the paper bag, pausing to slide one extra pastry inside before twisting the top shut. &quot;Bonne chance.&quot;</p>
+<p>Karpathy took the bag. &quot;Merci beaucoup.&quot; He walked down the narrow cobblestone alleyway for the absolute last time. November in Paris was no longer autumn; it was the unmistakable threshold of winter.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:10","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:12"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

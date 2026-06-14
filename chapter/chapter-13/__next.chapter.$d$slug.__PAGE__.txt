@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T529e,<p>Grenoble was a city entirely besieged by stone. To the east loomed the massive peaks of the Belledonne range; to the north, the jagged walls of the Chartreuse; to the west, the immense plateaus of the Vercors. The entire urban footprint sat tightly compressed inside a deep alpine basin carved out by the elements.</p>
+<p>In the middle of November, the four founders boarded the TGV from Paris. Karpathy kept his eyes fixed on the window as the landscape underwent a total transformation. The flat, slate-gray blocks of the Parisian suburbs vanished, replaced by the rolling hills of Burgundy. Once they bypassed Lyon, the very quality of the light shifted. He had always assumed heading south would bring a wider, more expansive sky, but as the train neared Grenoble, the mountains simply rose up to swallow the horizon.</p>
+<p>The moment they stepped onto the platform, Rahul pointed toward the horizon, his breath catching. &quot;Look at that.&quot;</p>
+<p>The absolute peaks of the surrounding ranges were stark white. The valley floor remained clear, but the air was fundamentally altered from Paris—it felt incredibly thin, razor-sharp, and piercingly cold.</p>
+<p>&quot;This is a real winter,&quot; Rahul noted, his face lighting up with pure excitement.</p>
+<p>Our new research facility was situated on the eastern edge of the city, right along the mountain pass leading into the Belledonne range. The structure was a massive, brutalist complex constructed entirely out of reinforced concrete. It had originally served as a state-run particle physics laboratory before a portion of the campus was decommissioned two decades prior. It possessed expansive, highly secure grounds, immense structural loading capacity, and—crucially—a massive subterranean electrical substation. For an advanced AI compute cluster, the site felt as though it had been custom-designed from inception.</p>
+<p>Bernard was already waiting for them inside the primary hangar.</p>
+<p>&quot;Does the facility clear your operational thresholds, Monsieur Karpathy?&quot; he inquired, looking up at the high concrete rafters.</p>
+<p>&quot;It used to be a particle physics lab,&quot; Karpathy noted, running his hand along the raw wall.</p>
+<p>&quot;Yes. High-energy experimental physics. They were interrogating the fundamental structural mechanics of the universe here.&quot;</p>
+<p>&quot;It’s a perfect location.&quot;</p>
+<p>&quot;Why is that?&quot;</p>
+<p>&quot;We are going to use a space built for analyzing the baseline structure of reality to engineer the next baseline structure of intelligence.&quot;</p>
+<p>Bernard allowed a subtle, highly refined smile. &quot;Remarkably poetic.&quot;</p>
+<p>&quot;It’s a functional optimization of space,&quot; Karpathy corrected.</p>
+<hr>
+<p>The initial two weeks vanished entirely into foundational infrastructure deployment. The sheer scale of the operation bore absolutely zero resemblance to their modest setup in Paris. AMD clusters were delivered in massive, continuous convoys—an allocation ten times larger than their Parisian environment. It required a complete overhaul of the primary high-voltage lines, the installation of custom closed-loop liquid cooling arrays, and a total reconfiguration of the network backplanes. A dedicated team of five senior Mistral infrastructure engineers relocated to Grenoble permanently to assist. Guillaume Fontaine was among them.</p>
+<p>Every morning, Karpathy would execute a solitary perimeter walk around the compound. The proximity of the mountains was stunning. The jagged ridges of the Belledonne would catch the very first rays of dawn, turning a deep, burning orange while the valley below remained plunged in shadow. It was a visual experience completely unavailable in Paris.</p>
+<p>Rahul experienced his very first interaction with actual snow at the end of November. A sudden storm had blanketed the region overnight, leaving the facility&#39;s primary parking lot covered in a thick, undisturbed white sheet. Rahul stood in the center of the lot, completely motionless.</p>
+<p>Karpathy walked up beside him. &quot;Well?&quot;</p>
+<p>&quot;It’s remarkably cold,&quot; Rahul said, looking down. &quot;But...&quot;</p>
+<p>&quot;But?&quot;</p>
+<p>&quot;It’s stunningly pristine.&quot;</p>
+<p>Karpathy looked up at the peaks. The Belledonne range was entirely caked in white.</p>
+<p>&quot;The winters in Bratislava were significantly darker,&quot; Karpathy recalled softly. &quot;The sky hung incredibly low, and the snow always looked a dull gray. But here, the light is brilliant. It must be the angle of the peaks.&quot;</p>
+<p>Rahul took a cautious step, watching his boot leave a deep impression in the crust. &quot;Can I take a photo to send to my parents in India?&quot;</p>
+<p>&quot;Take it.&quot;</p>
+<p>Rahul retrieved his phone, framing the white expanse against the sharp concrete of the facility and the towering mountains behind it. He took a second photo focused entirely on his own lone footprint.</p>
+<p>&quot;Thank you,&quot; Rahul said quietly. He didn&#39;t seem to be thanking Karpathy for the permission, but rather for something far more expansive.</p>
+<p>Karpathy made no reply.</p>
+<p>From inside the primary hangar, Max’s voice echoed loudly through the concrete bay: &quot;The core cluster backplane is fully initialized! Telemetry is live!&quot;</p>
+<hr>
+<p>By December, the development of their fourth-generation architecture was officially launched. The alpine winter settled in with absolute force. Glacial winds roared down from the peaks, aggressively rattling the heavy reinforced glass windows of the lab. Even at midday, the ambient temperature consistently hovered well below zero.</p>
+<p>Yet, inside the primary cluster room, the environment was intensely warm. The sheer thermal output generated by thousands of high-end accelerators meant the space required zero artificial heating; the machines themselves kept the room perfectly comfortable.</p>
+<p>Karpathy’s alarm routinely fired at 5:00 AM. The single structural disruption to his routine was the complete absence of his morning croissant. There wasn&#39;t a single commercial boulangerie located within walking distance of the isolated physics compound. Instead, Max had configured a heavy-duty German espresso machine at the edge of the lab, brewing a pitch-black pot every single morning.</p>
+<p>&quot;Does this successfully offset the loss of the pastry?&quot; Rahul joked one morning, handing him a mug.</p>
+<p>&quot;It does not,&quot; Karpathy stated flatly.</p>
+<p>&quot;There must be an artisanal bakery somewhere down in the valley floor,&quot; Ji-won noted without looking up from her terminal. &quot;We will locate one during our scheduled downtime.&quot;</p>
+<p>&quot;We do not possess scheduled downtime,&quot; Karpathy reminded her.</p>
+<p>&quot;We do,&quot; she countered calmly. &quot;Sundays. It’s a non-negotiable operational constraint.&quot;</p>
+<p>Karpathy offered no logical rebuttal.</p>
+<p>The following Sunday afternoon, Ji-won returned to the compound having successfully audited a bakery in the lower district. She didn&#39;t bring back standard croissants; instead, she presented a dense, traditional <em>Pain aux Noix de Grenoble</em>—a regional bread heavily packed with local walnuts. Karpathy bit off a piece and chewed. &quot;Acceptable.&quot; The walnut bread was officially integrated into their weekly operational protocol.</p>
+<hr>
+<p>The architectural layout for Generation Four represented a complete departure from everything they had built up to their third-generation models. The previous versions were designed simply to validate the core mechanics of the Anticipation module. Generation Four was their very first attempt to fully couple that mechanism directly into the heart of a closed-loop, recursive self-improvement engine.</p>
+<p>The core underlying question was remarkably elegant: When the model is executing a real-time modification of its own underlying weights, can it leverage the Anticipation module to project and evaluate the latent structural consequences of that specific weight modification before the update is committed?</p>
+<p>If the architecture could successfully execute that sequence, the velocity of its self-improvement loop would accelerate exponentially. It would no longer be bounded by the latency of learning from documented failures; it avoid the failure state entirely.</p>
+<p>However, a massive structural vulnerability remained.</p>
+<p>&quot;What happens if the internal premonition is flawed?&quot; Rahul pointed out during their evening design review. &quot;The model will execute an automated self-correction based on a corrupted signal.&quot;</p>
+<p>&quot;Correct,&quot; Karpathy agreed.</p>
+<p>&quot;And if it executes a series of self-corrections based on sequential flawed premonitions, it will trigger an irreversible cognitive degradation cascade.&quot;</p>
+<p>&quot;In the worst-case evaluation scenario, yes. Total catastrophic collapse.&quot;</p>
+<p>&quot;How do we construct a structural barrier against that?&quot;</p>
+<p>Karpathy stepped to the board and sketched out a multi-layered verification node:
+<code>Premonition Accuracy Evaluation Array</code></p>
+<p>&quot;The Anticipation module generates the structural premonition. A completely decoupled, specialized verification layer evaluates the statistical validity of that premonition. If the validation metric falls below a strict threshold, the projected weight update is discarded. If it clears, the self-correction sequence is committed. It is an internal vetting apparatus.&quot;</p>
+<p>&quot;But how does that verification layer acquire its own optimization signal?&quot; Max challenged. &quot;At initialization, we possess zero historical data regarding the validity of these specific premonitions.&quot;</p>
+<p>&quot;At initialization, we don&#39;t,&quot; Karpathy conceded openly. &quot;Which means during the first few training cycles, the verification layer’s accuracy will be remarkably low. But as the loops compile, the system stores the delta between the premonition and the actual realized gradient state. The verification layer optimizes itself on that delta. A highly optimized verification layer selects increasingly accurate premonitions. Highly accurate premonitions yield cleaner, safer weight modifications, which in turn provides higher-fidelity training data back to the verification layer.&quot;</p>
+<p>&quot;A closed, self-reinforcing optimization loop,&quot; Ji-won articulated, her eyes tracking the recursive path on the board.</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Does this not risk a runaway positive feedback loop?&quot; Max pressed.</p>
+<p>&quot;We introduce a strict mathematical dampening coefficient,&quot; Karpathy explained. &quot;We enforce an absolute boundary constraint on the maximum permissible weight delta per individual optimization cycle. We block sudden, volatile shifts. The model evolves gradually, but with absolute structural certainty.&quot;</p>
+<p>Rahul slowly leaned back, his eyes rolling toward the concrete ceiling. &quot;My prefrontal cortex is throbbing.&quot;</p>
+<p>&quot;An excellent metric,&quot; Karpathy noted. &quot;You said the exact same thing in Paris.&quot;</p>
+<p>&quot;Because the structural topology of the problem remains identical.&quot;</p>
+<hr>
+<p>During the third week of December, they officially launched the very first execution run of Generation Four. It was exactly 10:00 PM. Through the reinforced glass partitioning of the lab, the rows of compute racks blinked with a steady, intense blue light. The Grenoble night outside was profoundly quiet—the massive stone walls of the surrounding mountains seemed to absorb every trace of ambient sound from the valley.</p>
+<p>The four of them sat perfectly still in front of the master terminal. Guillaume Fontaine sat right behind them.</p>
+<p>&quot;Mind if I track the live execution telemetry?&quot; Guillaume asked softly.</p>
+<p>&quot;Please,&quot; Karpathy invited.</p>
+<p>The test task was identical to their previous evaluation: the execution of a highly complex, multi-tiered mathematical proof. However, for Generation Four, they introduced a severe operational disruption. Midway through the execution sequence, the system would dynamically alter one of the core underlying axiomatic premises of the proof. The goal was to evaluate how the model adapted to a sudden structural shift in reality.</p>
+<p>A standard transformer model encountering a mutated premise will either completely collapse into hallucination or be forced to purge its context and restart execution from zero.</p>
+<p>Liminal&#39;s Generation Four build initialized. Then, the token stream resumed. The model did not purge its context. It did not restart from zero. It executed a localized, incredibly precise modification of its existing logical chain. It preserved every single historical step that remained structurally valid under the new axiom, isolated the specific nodes that had been invalidated, and dynamically re-engineered the proof path to accommodate the shift.</p>
+<p>&quot;That was completely surgical,&quot; Guillaume whispered, his eyes wide.</p>
+<p>&quot;The Anticipation layer had already mapped the potential variance of the underlying premises before the mutation was even introduced,&quot; Ji-won analyzed, her voice trembling slightly. &quot;The model maintained a latent internal representation of the axiom&#39;s mutability. It didn&#39;t react to the change; it was already structured to receive it.&quot;</p>
+<p>&quot;It wasn&#39;t predicting the specific change,&quot; Karpathy clarified. &quot;But it had maintained an internal readiness state for structural variance. That readiness is what eliminated the re-learning latency.&quot;</p>
+<p>Max leaned in, his face illuminated by the terminal&#39;s glow. &quot;This has massive implications for general optimization velocity.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;The model no longer needs to rebuild its entire cognitive framework when encountering a novel distribution shift. It adapts dynamically while retaining its core structural foundations.&quot;</p>
+<p>&quot;It’s an artificial approximation of how a human mind actually acquires deep expertise,&quot; Rahul noted.</p>
+<p>&quot;An approximation, yes,&quot; Karpathy agreed. &quot;The underlying mathematics are distinct, but the functional topology is identical.&quot;</p>
+<p>Guillaume turned slowly to look at Karpathy. &quot;Andrej... do you actually comprehend the sheer magnitude of what you just executed here?&quot;</p>
+<p>Karpathy looked at the whiteboard, then back to the monitor. &quot;We have barely scratched the surface.&quot;</p>
+<p>&quot;Are we going to draft a formal paper on this?&quot;</p>
+<p>&quot;Not yet,&quot; Karpathy stated firmly.</p>
+<p>&quot;Why wait?&quot;</p>
+<p>&quot;I want to see what manifests in Generation Five first,&quot; Karpathy said. &quot;Generation Four is simply the validation of the mechanism. We collect the full empirical data at scale before we reveal the architecture to the world.&quot;</p>
+<p>Guillaume nodded once, his expression deeply serious. &quot;Understood. Mistral will fully back that execution strategy.&quot;</p>
+<hr>
+<p>On Christmas Eve, a massive snowfall completely blanketed the compound. The city of Grenoble below was utterly dark and quiet. A European winter holiday bore absolutely zero resemblance to the commercialized spectacles of San Francisco; it was characterized by deeply private, quiet evenings spent inside thick stone walls.</p>
+<p>Rahul spent an hour on a video call with his family in India. He stood outside on the covered concrete porch of the lab, holding his phone out to capture the snow drifting through the floodlights, trying to convey the reality of an alpine winter across the screen. Max had departed for a brief two-day trip back to Berlin. Ji-won chose to remain at the compound. Leveraging the time difference with Seoul, she concluded her family calls early, then immediately booted up her terminal to resume logging the cluster’s verification telemetry.</p>
+<p>Late that evening, Karpathy walked out into the snow alone. The flakes fell in absolute silence, completely vertical through the dead air. The surrounding mountains had vanished entirely into the dark storm, their massive presence completely obscured by the snow. Yet, he could feel their weight out there in the dark.</p>
+<p>He pulled out his phone. He looked toward the east, mentally tracing the coordinates of Bratislava. Across the Alps, past Vienna, following the dark line of the Danube. His father had celebrated his seventy-second birthday two months prior.</p>
+<p>Karpathy dialed the number. They spoke for a long time, using their native Slovak. It was the longest conversation they had shared in nearly a year.</p>
+<p>&quot;How is Paris treating you?&quot; his father inquired near the end of the call.</p>
+<p>&quot;I relocated to Grenoble a few weeks ago,&quot; Karpathy replied.</p>
+<p>&quot;Deep in the mountains?&quot;</p>
+<p>&quot;Yes. They surround us on all sides.&quot;</p>
+<p>&quot;Does it remind you of Bratislava?&quot;</p>
+<p>Karpathy looked up into the dark sky, watching the white flakes drift down toward his face. &quot;The peaks are significantly closer here. They feel much bigger. But the cold is exactly the same.&quot;</p>
+<p>His father laughed softly across the line. &quot;Good,&quot; he said. &quot;You always possessed a strange fondness for the mountains when you were a boy.&quot;</p>
+<p>Karpathy had absolutely zero memory of that preference. But if his father remembered it, he accepted it as true.</p>
+<p>&quot;Perhaps I did.&quot;</p>
+<p>The snow continued to fall, quietly blanketing the concrete compound in a thick, unbroken white sheet.</p>
+<hr>
+<p>The year turned. 2027 had officially arrived.
+January in Grenoble brought the absolute nadir of winter.</p>
+<p>The facility&#39;s primary entrance road was routinely choked with snow, forcing Rahul and Max to establish a daily morning manual clearance rotation. Rahul, who had never handled a snow shovel in his life prior to November, had transformed into an incredibly efficient operator within three weeks.</p>
+<p>&quot;This is an operational task I can confidently say was missing from my IIT curriculum,&quot; Rahul remarked, throwing a heavy scoop of snow over the embankment.</p>
+<p>&quot;It builds structural character,&quot; Karpathy noted from the porch.</p>
+<p>&quot;Character for what?&quot;</p>
+<p>&quot;For navigating high-dimensional entropy.&quot;</p>
+<p>Rahul paused, resting his hands on the shovel handle as he looked up at him. &quot;Is that a technical analogy for our architecture, or a philosophical reflection on our lives?&quot;</p>
+<p>&quot;It’s both,&quot; Karpathy said flatly.</p>
+<p>Rahul laughed, then immediately dug his shovel back into the white crust.</p>
+<hr>
+<p>During the second week of January, the first structural movement from Washington finally manifested. A priority encrypted transmission arrived from Bernard:</p>
+<blockquote>
+<p>The United States Department of State has officially issued a formal diplomatic inquiry to the French Ministry of Foreign Affairs. They are demanding a detailed disclosure regarding Liminal AI’s current research parameters and the exact structural nature of the French state’s infrastructure involvement.</p>
+</blockquote>
+<p>Karpathy read through the brief text.</p>
+<p>&quot;How does the Ministry intend to respond?&quot; Karpathy queried via the secure channel.</p>
+<p>&quot;President Macron intends to treat this as an unambiguous matter of national sovereignty,&quot; Bernard’s reply arrived a moment later. &quot;The state will offer zero technical disclosures. However, I deemed it a critical operational necessity to ensure you were fully briefed on the pressure.&quot;</p>
+<p>Karpathy forwarded the transcript directly to Rahul. Rahul’s response was immediate:</p>
+<blockquote>
+<p><strong>Rahul:</strong> The storm is moving in.
+<strong>Karpathy:</strong> Yes.
+<strong>Rahul:</strong> What’s our counter-protocol?
+<strong>Karpathy:</strong> We accelerate Generation Five.</p>
+</blockquote>
+<p>A long pause before Rahul&#39;s final text appeared:</p>
+<blockquote>
+<p><strong>Rahul:</strong> Understood. I’m initializing the cluster optimization passes now. No one goes home tonight.
+<strong>Karpathy:</strong> We already live here.
+<strong>Rahul:</strong> Emotional alignment, Andrej. Emotional alignment.</p>
+</blockquote>
+<p>Karpathy set his phone down on his desk. He walked up to the master whiteboard. The massive expanse stood completely clean, a massive white canvas waiting for their next paradigm. He picked up a fresh black marker. He touched the tip to the surface and began to sketch out the foundational mathematics of Generation Five.</p>
+<p>Outside his windows, the alpine winter raged on in absolute silence. The mountains were completely choked with snow, entirely invisible through the whiteout storm. But they were out there. They weren&#39;t going anywhere.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:11","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:13"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

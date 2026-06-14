@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1f29,<p>It took exactly three days to finalize the decision to head to Paris.</p>
+<p>To be precise, it didn&#39;t take three days to <em>make</em> the choice. The decision had been solidified the exact moment he hung up the phone with Dario, picked up his pen, and etched <em>Paris.</em> into his notebook. The three days were simply the time required to let that choice settle deep within his own mind.</p>
+<p>Karpathy opened a map just once.
+Tracing a line from San Francisco to Paris, and then pushing further east, his eyes crossed the Alps, bypassed Vienna, and followed the Danube River until they landed on Bratislava.</p>
+<p>The distance between Paris and Bratislava was just over a thousand kilometers. Compared to the vast expanse separating San Francisco from Bratislava, Paris felt like it was practically next door.</p>
+<p>Karpathy possessed almost no clear memories of the city where he was born. To be exact, only fragmented shards remained. A winter morning where frost clung heavily to the cobblestones. The dull, slate-gray stretch of the Danube visible from his apartment window. The spine of a book his father would read late into the night—written in the Latin alphabet rather than Cyrillic, its pages entirely covered in dense mathematical symbols.</p>
+<p>In the summer of his fifteenth year, his family relocated to Toronto.
+Why Canada? At the time, he hadn&#39;t deeply questioned it. His father had simply stated, &quot;We go where the opportunities are.&quot; That was it. <em>To where the opportunities are.</em></p>
+<p>He learned English in Toronto, studied computer science at university, earned his PhD at Stanford, moved to OpenAI, transitioned to Tesla, returned to OpenAI, and ultimately arrived at Anthropic. He had spent his entire life moving toward where the opportunities were, exactly as his father had told him.</p>
+<hr>
+<p>On Thursday afternoon, Karpathy reached out to Rahul.
+He chose a small café near the office as their meeting spot. Explicitly <em>not</em> the office itself. They could still enter the building, but it no longer felt like a place that truly belonged to them.</p>
+<p>Rahul had arrived early. He sat holding his coffee cup with both hands, staring intently out the window.</p>
+<p>&quot;You said you wanted to talk,&quot; Rahul noted as Karpathy sat down. &quot;I can see it on your face. It’s not good news.&quot;</p>
+<p>&quot;It’s good news too,&quot; Karpathy countered. &quot;It’s about Paris.&quot;</p>
+<p>Rahul fell silent.</p>
+<p>&quot;The French government is offering to set up an environment for us. Infrastructure, robust legal protections. We can continue our research entirely independent of American export controls.&quot;</p>
+<p>&quot;The French government,&quot; Rahul repeated the words slowly. &quot;Why?&quot;</p>
+<p>&quot;They want to push for a multipolar AI landscape. They want to counter America’s unipolar dominance. They have their own strategic reasons.&quot;</p>
+<p>&quot;So,&quot; Rahul said, setting his coffee cup down. &quot;To France, we’re just chess pieces.&quot;</p>
+<p>Karpathy offered no defense.</p>
+<p>&quot;But then again,&quot; Rahul continued, &quot;we were chess pieces to America too. We knew that from the very beginning.&quot;</p>
+<p>Outside, the San Francisco evening began to settle.</p>
+<p>&quot;The only thing I want to know,&quot; Rahul said, locking eyes with him, &quot;is if you are going to Paris, Andrej.&quot;</p>
+<p>&quot;I am.&quot;</p>
+<p>&quot;Why?&quot;</p>
+<p>Karpathy reflected for a moment.
+&quot;I want to see the rest of Mythos.&quot;</p>
+<p>That was the absolute truth. The seventh-generation convergence graph. What lay beyond that sudden leap? To see it, moving was his only option. Rahul looked back out the window, remaining quiet for a long time.</p>
+<p>&quot;My parents are still in India,&quot; Rahul noted softly. &quot;An H-1B visa expires the moment you change companies. Going to Paris means the road back to America is closed for the foreseeable future.&quot;</p>
+<p>&quot;I know.&quot;</p>
+<p>&quot;Even so,&quot; Rahul looked directly back at Karpathy. &quot;If you&#39;re going, I&#39;m going with you.&quot;</p>
+<p>Karpathy said nothing. There was absolutely no need for words.</p>
+<hr>
+<p>He called Ji-won later that evening. He was well aware that she regularly sent money back to her parents in Seoul.</p>
+<p>&quot;Will the cost of living in Paris be higher than it is here?&quot; was the very first question she asked.</p>
+<p>&quot;Yes,&quot; Karpathy answered honestly. &quot;However, the package from the French government includes housing support. The exact details are still being negotiated.&quot;</p>
+<p>&quot;Please negotiate them well,&quot; Ji-won said. &quot;I’m in. But I need to keep sending money home.&quot;</p>
+<p>&quot;Understood.&quot;</p>
+<p>&quot;Andrej,&quot; Ji-won paused slightly. &quot;I haven&#39;t stopped thinking about that seventh-generation leap either. I’m certain it wasn&#39;t noise.&quot;</p>
+<p>&quot;Me too.&quot;</p>
+<p>&quot;Let’s finish it in Paris.&quot;</p>
+<hr>
+<p>Max was the only one who required a bit more time.
+As a German citizen, he had already received a compelling offer from a prominent startup in Berlin. The terms were excellent. It was a safe, secure path.</p>
+<p>Karpathy didn&#39;t urge him to reject it. &quot;It’s your decision to make,&quot; was all he told him.</p>
+<p>Max didn&#39;t reply for two full days. On the morning of the third day, a concise message arrived:</p>
+<blockquote>
+<p><strong>Max:</strong> The food in Paris is much better than in Berlin. Count me in.</p>
+</blockquote>
+<p>For the first time in a while, Karpathy laughed.</p>
+<hr>
+<p>Their departure was set for the first week of July.
+The night before the flight, Karpathy packed up his apartment. He didn&#39;t own much. A handful of books, his laptop, and that specific notebook.</p>
+<p>As he went to slide the notebook into his bag, he opened the very last page. The handwritten convergence graph. The distinct shape of the seventh-generation leap. And the solitary word in the margin: <em>Paris.</em></p>
+<p>An additional line was penned underneath:
+<em>To where the opportunities are.</em>
+His father&#39;s exact words.</p>
+<p>He zipped the bag shut. Outside, the brilliant nightscape of San Francisco unfolded before him. He had spent nearly a decade living in this city. He felt no burning anger. He harbored no deep resentment.</p>
+<p>Yet, that single word—<em>Mottainai</em>—surfaced quietly in his mind once again. America had willingly let something slip through its fingers. And America itself still didn&#39;t comprehend exactly what it had just abandoned. That was the ultimate, tragic waste.</p>
+<hr>
+<p>On July 7th, at Charles de Gaulle Airport, Karpathy stepped out of the terminal.</p>
+<p>The humid warmth of the Parisian summer hit his face. It was noticeably wetter than San Francisco, carrying an unmistakable scent of old stone and deep history. It felt strangely reminiscent of a distant memory: the frost-covered cobblestones of a Bratislava winter morning.</p>
+<p>A thousand kilometers to the east sat the city of his birth. Karpathy looked up at the sky. It was overcast, yet remarkably bright.</p>
+<p>Behind him, Rahul struggled with a massive suitcase, its wheels clattering loudly. &quot;So, where’s our office?&quot;</p>
+<p>&quot;We don&#39;t have one yet,&quot; Karpathy replied.</p>
+<p>&quot;Wait, what?&quot;</p>
+<p>&quot;We’re going to find one now.&quot;</p>
+<p>Just as Rahul was about to respond, Ji-won walked past them with a completely unfazed expression. &quot;We should look near Mistral’s office. It’ll make tracking information much easier.&quot;</p>
+<p>Max followed, staring down at his phone. &quot;I’m checking café reviews. Let’s grab some food first.&quot;</p>
+<p>Karpathy began to walk. Underneath the sprawling Paris sky, the collective rattle of four suitcases echoed sharply against the old cobblestones.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:3","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:5"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

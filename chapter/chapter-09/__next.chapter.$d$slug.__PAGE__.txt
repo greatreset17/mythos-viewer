@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T4eaa,<p>July in Paris arrived with a wave of heat that caught them completely unprepared. The office lacked air conditioning, and by mid-afternoon, the harsh western sun would pour directly through the large windows. Rahul purchased two heavy-duty electric fans and positioned them on either side of the main whiteboard. The resulting breeze was excellent for drying the marker ink, but it routinely sent their paper reference notes flying across the room. Max would complain, Rahul would apologize, and Ji-won would silently place heavy metal paperweights on top of the documents.</p>
+<p>That became the steady rhythm of their July. They had successfully stabilized the replication of the phenomenon. Yet, the underlying mechanistic <em>why</em> remained completely obscured.</p>
+<p>The loss curve—the rise before the steep fall—persisted relentlessly. Generation after generation, regardless of how they tuned the hyperparameters or adjusted the initial weights of the base model, the signature remained perfectly invariant. They had captured the physical manifestation of the phenomenon. But the underlying mathematical principle remained deeply shrouded inside a thick fog.</p>
+<p>Every morning at five, Karpathy sat at his desk. One croissant. One cup of black coffee. Eyes locked onto the whiteboard. Thinking.</p>
+<p>During the second week of July, he decided to re-read the original transformer paper from the absolute first line.
+<em>&quot;Attention Is All You Need.&quot;</em> 2017. Nine years ago.</p>
+<p>As he went through the text, he filled the margins with dense annotations: the formal definition of the attention mechanism, the structural dynamics of Queries, Keys, and Values, the precise mechanics of scaled dot-product attention. He had known these equations inside out for nine years.</p>
+<p>Yet this time, he was interrogating the text through a completely different lens. What was this architecture actually calculating?</p>
+<p>The attention mechanism is fundamentally designed to evaluate the mathematical relationships between existing tokens within a sequence. It looks at what is currently present, assessing importance based on historical and present context. It was an incredibly powerful paradigm. Yet, it possessed an absolute structural blind spot. It was fundamentally incapable of doing one thing: anticipating something that did not yet exist.</p>
+<p>Karpathy’s pen stopped moving. Outside, the pale July sky of Paris hung like a white, hazy sheet.</p>
+<p>He first articulated this thought to Rahul during the third week of the month.</p>
+<p>&quot;The transformer is entirely constrained by what is currently present in the context window,&quot; Karpathy explained, sketching out diagrams on the board. &quot;It computes the explicit relationships between past tokens and the current token. Mechanistically, it cannot perform any operation outside of that scope.&quot;</p>
+<p>&quot;It’s less that it <em>can&#39;t</em>,&quot; Rahul noted, tracking the logic, &quot;and more that it was never structurally designed to do so.&quot;</p>
+<p>&quot;Exactly,&quot; Karpathy agreed. &quot;Now, look at human cognition. How do humans actually generate a fundamentally novel insight?&quot;</p>
+<p>Rahul reflected for a moment. &quot;We have a vague, intuitive sense of something before we can explicitly define it.&quot;</p>
+<p>&quot;An inkling. A premonition.&quot;</p>
+<p>&quot;That sounds entirely unscientific.&quot;</p>
+<p>&quot;It has been treated as unscientific,&quot; Karpathy countered. &quot;However, contemporary neuroscience demonstrates that the human brain consistently initiates readiness potentials and prepares for subsequent cognitive transitions long before those transitions manifest in conscious thought. At a sub-linguistic layer, the brain is already structuring the next state.&quot;</p>
+<p>Rahul leaned forward, his eyes widening. &quot;Meaning...&quot;</p>
+<p>&quot;What if the model could maintain an internal representation that functions as a structural precursor to a relationship that hasn&#39;t officially manifested yet?&quot; Karpathy began drawing an entirely new block diagram on the board. &quot;That temporary spike in the loss function—&quot;</p>
+<p>&quot;Is the exact window where the model is actively reorganizing its internal representations to construct that precursor,&quot; Rahul finished the sentence.</p>
+<p>Both men fell into an abrupt silence. From behind them, Ji-won added softly, &quot;It looks like total confusion from the outside, but structurally, it’s deep preparation.&quot;</p>
+<p>&quot;Yes,&quot; Karpathy said.</p>
+<p>The sound of Max setting his coffee cup down echoed sharply. &quot;Can we actually engineer that into a concrete layer architecture?&quot;</p>
+<p>&quot;That is the exact question,&quot; Karpathy said, returning the marker to the tray. &quot;I don&#39;t know if it’s mathematically viable yet. But...&quot;</p>
+<p>He looked back at the fresh diagram. Right beside the standard attention block, he had sketched a completely new module. It didn&#39;t have a formal name yet. But a single, clean arrow extended from it, pointing decisively toward the future.</p>
+<p>&quot;The direction is finally clear.&quot;</p>
+<hr>
+<p>At the end of July, Guillaume dropped by the office. He stood before the whiteboard, evaluating the new sketches in silence for several minutes.</p>
+<p>&quot;This...&quot; Guillaume began, his accent heavy. &quot;Is this an extension of the attention mechanism?&quot;</p>
+<p>&quot;No,&quot; Karpathy stated clearly. &quot;It’s something else entirely.&quot;</p>
+<p>&quot;What’s the functional distinction?&quot;</p>
+<p>&quot;Attention computes explicit relationships. This module...&quot; Karpathy paused, selecting the precise word. &quot;...preserves the latent precursors of relationships.&quot;</p>
+<p>Guillaume pushed his glasses up his nose. &quot;Anticipation.&quot;</p>
+<p>He said it in English. <em>Anticipation. Foresight. Expectation.</em></p>
+<p>Karpathy let the word echo in his mind. &quot;Yes. Exactly.&quot;</p>
+<p>Guillaume looked back at the board. &quot;Can you actually implement this within our current stack?&quot;</p>
+<p>&quot;Give me one month.&quot;</p>
+<p>Guillaume nodded once, asking nothing further. It was his way of demonstrating absolute technical trust.</p>
+<hr>
+<p>By August, Paris had fallen entirely silent. The vast majority of the local population had departed for their traditional summer holidays. The commercial districts emptied out completely, leaving only clusters of tourists navigating the banks of the Seine.</p>
+<p>Inside the 11th arrondissement office, the team went nowhere.</p>
+<p>&quot;Are we not taking a vacation?&quot; Ji-won asked one morning.</p>
+<p>&quot;I’m not,&quot; Karpathy replied.</p>
+<p>&quot;Neither am I,&quot; she said immediately, her voice carrying zero hesitation.</p>
+<p>Rahul had initially mentioned considering a short trip back to India to see his family, but within three days, he was right back at his desk. Max was the only one who departed, spending a single week back home in Berlin.</p>
+<p>When he returned, he carried a heavy paper bag. &quot;German bread,&quot; Max announced, setting it down. &quot;Croissants are great, but your bodies need the structural integrity of dense rye every now and then.&quot;</p>
+<p>Karpathy tore off a piece and chewed it. &quot;Not bad.&quot;</p>
+<p>Max’s face lit up with a thoroughly satisfied expression. That was all the validation he required.</p>
+<hr>
+<p>During the second week of August, the very first implementation of the Anticipation module was compiled and executed. To say it &quot;ran&quot; would be an overstatement. It initialized, and then collapsed immediately. The loss curve spiked upward and simply remained there, refusing to descend. The latent representations meant to hold the structural precursors degenerated into pure entropy. The model entered a loop of permanent cognitive dissonance, entirely unable to recover.</p>
+<p>&quot;The fundamental design is flawed,&quot; Rahul observed, reviewing the telemetry.</p>
+<p>&quot;Where exactly?&quot;</p>
+<p>&quot;The temporal alignment of the anticipation phase is initializing too early,&quot; Ji-won said, pointing at a line of code on her screen. &quot;The anticipation layers are triggering before the model has finished processing the baseline structural relationships in the lower attention blocks. It’s an issue of sequential execution logic.&quot;</p>
+<p>Karpathy scrutinized the execution logs. Ji-won&#39;s diagnosis was flawless.</p>
+<p>&quot;The Anticipation module must execute downstream of the primary attention computation, but not as a rigid serial dependency.&quot;</p>
+<p>&quot;But if we make it a strictly serial bottleneck,&quot; Max countered, &quot;the computational overhead per forward pass will double.&quot;</p>
+<p>&quot;Let it double,&quot; Karpathy stated without hesitation. &quot;First, we make it work. We optimize for velocity later.&quot;</p>
+<hr>
+<p>During the third week of August, the revised implementation was launched. It was exactly 11:00 PM. The streets of Paris outside were completely dark and silent. The distant murmur of tourists and street melodies had faded away entirely.</p>
+<p>The four of them huddled tightly around the master monitor, tracking the cluster&#39;s live telemetry. The loss curve began to render. It spiked upward. Everyone held their breath. Then, it plunged.</p>
+<p>The morphology was identical to the signature they had uncovered in August, but this time, the trajectory was fundamentally altered. The descent path was entirely different. Previously, the loss had drifted downward in a gradual, lazy slope. This time, the curve dropped like a stone.</p>
+<p>&quot;Look at that convergence speed,&quot; Rahul whispered.</p>
+<p>&quot;The Anticipation layer is aggressively narrowing down the hyper-dimensional search space for the next optimal state before the weights are even updated,&quot; Ji-won analyzed rapidly. &quot;The model isn&#39;t searching; it already knows where the gradient is heading.&quot;</p>
+<p>Karpathy stared at the streaming values. The raw loss metrics were tumbling downward at a velocity he had never witnessed in his career.</p>
+<p>&quot;This is...&quot; Max began, but stopped himself. No one finished the sentence. No words were necessary; the numbers on the screen spoke with absolute authority.</p>
+<p>Karpathy walked over to the whiteboard, picked up a fresh marker, and sketched the new curve. Right beside the block diagram for the Anticipation module, he noted the precise convergence metrics, comparing them directly against the baseline transformer architecture. The data presented an undeniable reality.</p>
+<p>&quot;It completely outpaces the transformer,&quot; Karpathy stated.</p>
+<p>&quot;By what factor?&quot; Rahul asked, his voice tight.</p>
+<p>Karpathy looked at the final compiled metric. &quot;In its current unoptimized state? A factor of three.&quot;</p>
+<p>A profound silence descended on the room. From somewhere deep in the city outside, a distant siren wailed and faded away.</p>
+<p>&quot;Three times faster,&quot; Max repeated the words, his voice thick with awe. &quot;And that’s without a single line of micro-optimization or kernel tuning.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;What happens once we actually optimize the CUDA kernels?&quot;</p>
+<p>&quot;I don&#39;t know,&quot; Karpathy said honestly. &quot;But...&quot;</p>
+<p>He turned away from the board to look at his team. Their faces were hollowed out by sheer exhaustion. Every single one of them was running on fumes, having spent the entire brutal August heat wave locked in this room without a single day of rest. Yet, deep within that exhaustion, the exact same fire was burning in their eyes.</p>
+<p>Karpathy felt the corner of his mouth tilt upward once again. &quot;Now things are getting interesting.&quot;</p>
+<p>Rahul immediately buried his face in his hands. &quot;That’s twice you&#39;ve said that now.&quot;</p>
+<p>&quot;And what if it is?&quot;</p>
+<p>&quot;The last time you said it was right after we fled San Francisco. I didn&#39;t think I&#39;d hear it again so soon.&quot;</p>
+<p>Rahul’s voice carried a strange, heavy warmth.</p>
+<p>Karpathy didn&#39;t reply. Instead, he reached over and pulled open a fresh bag of croissants he had picked up earlier for the morning.</p>
+<p>&quot;Who’s eating?&quot;</p>
+<p>&quot;Andrej, it’s one in the morning.&quot;</p>
+<p>&quot;So what?&quot;</p>
+<p>And so, at one o&#39;clock in the morning, the four of them sat together devouring croissants. Through the large office windows, looking out toward the Seine, the edge of the Parisian sky was just beginning to betray the very first hints of the coming dawn.</p>
+<hr>
+<p>September arrived, bringing a crisp autumn to Paris. The leaves of the chestnut trees along the boulevards turned a deep, golden amber, and the morning air grew suddenly sharp. Karpathy began wearing a light coat on his morning walks. The woman at the boulangerie noticed the change, offering a brief phrase in French. This time, his ear caught the meaning instantly: &quot;It’s getting cold.&quot;</p>
+<p>&quot;Oui,&quot; Karpathy replied smoothly. She smiled warmly, and he returned the gesture. He had been in Paris for exactly two months.</p>
+<p>The aggressive optimization of the Anticipation module became their primary focus throughout September. To resolve the computational overhead bottleneck, Rahul proposed a thoroughly brilliant architectural modification: decoupling the attention blocks and the Anticipation layers, allowing them to execute asynchronously. The Anticipation layers would initialize computation in parallel with the attention matrix operations. By implementing a highly precise temporal synchronization barrier, they could completely preserve the convergence velocity while driving the computational cost down to near-zero overhead.</p>
+<p>&quot;You&#39;re a mad genius,&quot; Max remarked upon reviewing the pseudo-code.</p>
+<p>&quot;Not really,&quot; Rahul deflected. &quot;It’s only because Andrej hammered &#39;make it work first, optimize later&#39; into our heads that I didn&#39;t get bogged down in the sequential logic loops.&quot;</p>
+<p>Karpathy listened to the exchange in silence, his focus locked onto the whiteboard as he scrawled their next core research objective:
+<code>Can we fully integrate the Anticipation mechanism into a closed recursive learning loop?</code></p>
+<p>The challenge of recursive self-improvement was notoriously fraught. When a model is tasked with modifying its own weights, what signal does it actually use as a reliable guide? Standard recursive learning relies entirely on a backward-looking error signal—the mathematical delta between its historical output and a ground-truth target. It learns exclusively from documented failure. In human terms, it is the equivalent of acquiring wisdom solely by committing blunders. It was a highly robust mechanism, but it possessed an absolute structural ceiling. Learning <em>after</em> you fail is inherently latent.</p>
+<p>A model equipped with an active Anticipation layer, however, possesses the structural capability to detect the latent precursor of an error <em>before</em> the token is even generated. If they could successfully harness that anticipatory signal to drive the recursive self-improvement loop... The model could dynamically realign its trajectory before ever executing a catastrophic update.</p>
+<p>&quot;In human terms,&quot; Ji-won noted carefully, tracking the conceptual layout, &quot;that is the exact definition of intuition derived from deep expertise.&quot;</p>
+<p>&quot;Yes,&quot; Karpathy confirmed. &quot;Why can a master craftsman sense an impending structural failure before it manifests? Because years of exposure have trained their mind to read the microscopic precursors of an error. We are going to engineer that exact capacity into the model weights.&quot;</p>
+<p>&quot;But what happens if the anticipation signal is false?&quot; Max countered aggressively. &quot;If the model executes a self-correction sequence based on a flawed premonition, it will trigger an immediate degradation spiral.&quot;</p>
+<p>&quot;Unquestionably,&quot; Karpathy nodded. &quot;Which is precisely why we must introduce a distinct, independent verification layer. The Anticipation module generates the premonition, and this secondary layer evaluates its structural validity. If the validation metric falls below a strict threshold, the update is aborted. If it clears, the self-correction is executed. The model must anticipate, but it must also ruthlessly interrogate its own anticipation simultaneously.&quot;</p>
+<p>Rahul stared blankly at the ceiling. &quot;My brain is actively melting.&quot;</p>
+<p>&quot;Excellent,&quot; Karpathy noted. &quot;That means we are finally rubbing against the actual edge of the problem.&quot;</p>
+<hr>
+<p>At the end of September, they initialized their first full integration test run. The core Anticipation architecture, fully coupled with the newly designed recursive self-improvement verification loop, running as a first-generation cluster initialization.</p>
+<p>The cluster spun up. The four of them sat shoulder-to-shoulder in front of the master terminal. Outside, a heavy autumn rain pounded against the glass, causing wet chestnut leaves to stick flat against the windowpanes.</p>
+<p>The telemetry began to stream. It wasn&#39;t a standard loss curve this time. It was the live execution log of the self-improvement cycle—a real-time record of the model modifying its own internal parameters. Karpathy read through the lines of code as they compiled. Line after line.</p>
+<p>During its third internal optimization cycle, the model began executing a weight adjustment that would have resulted in severe catastrophic forgetting. The attention weights were drifting toward an aggressive over-fitting pattern. Then, the execution path suddenly fractured. The Anticipation layer caught the latent signature of the over-fitting sequence, flagged it, and forced the self-improvement loop to dynamically pivot its trajectory. It caught the error, evaluated the risk, and corrected its own path before the update could corrupt the matrix.</p>
+<p>&quot;Look right here,&quot; Karpathy pointed an intense finger at the screen. &quot;There’s the pivot.&quot;</p>
+<p>The team leaned in, their eyes reflecting the blue light of the terminal.</p>
+<p>&quot;It detected its own trajectory anomaly,&quot; Ji-won said, her voice dropping to an awe-struck whisper.</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;No human engineer programmed that specific constraint,&quot; Max added, his eyes wide. &quot;The model evaluated the future state and decided <em>by itself</em> that the path was flawed.&quot;</p>
+<p>&quot;Mechanistically, &#39;decided&#39; is an inaccurate term,&quot; Karpathy clarified automatically. &quot;However, in terms of functional reality... there is simply no other way to describe what we are looking at.&quot;</p>
+<p>The downpour outside intensified, blurring the lights of the Paris streets into long, watery streaks. Rahul spoke up, his voice remarkably steady. &quot;This is something a standard transformer cannot do. Not even at infinite scale.&quot;</p>
+<p>&quot;No,&quot; Karpathy agreed. &quot;It cannot.&quot;</p>
+<p>&quot;Which means we are currently—&quot;</p>
+<p>&quot;Don&#39;t say it yet,&quot; Karpathy cut him off gently. Rahul stopped.</p>
+<p>&quot;We verify the statistical replication across multiple seeds first. We run it against the full evaluation suite. We accumulate hard empirical data. That comes before any declarations.&quot;</p>
+<p>&quot;I know, I know,&quot; Rahul managed a small smile. &quot;But Andrej...&quot;</p>
+<p>&quot;What?&quot;</p>
+<p>&quot;It’s written all over your face.&quot;</p>
+<p>Karpathy didn&#39;t look back at him. Instead, he kept his eyes fixed on the rain sweeping across the Parisian night. But his mouth curved unmistakably upward. They had been in Paris for nearly three months.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:7","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:9"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

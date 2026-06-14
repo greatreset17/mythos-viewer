@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1b08,<p>Macron’s aide introduced himself as Pierre Lebrun.</p>
+<p>He led Dario to a secluded, small lounge on the top floor of the hotel. Only a single table by the window had been prepared; the remaining seats sat completely abandoned. Lake Geneva stretched out quietly into the deepening twilight.</p>
+<p>&quot;Please, have a seat,&quot; Lebrun offered.
+A waiter poured wine, but Dario left his glass completely untouched.</p>
+<p>&quot;The President,&quot; Lebrun began without preamble, &quot;is fully aware of how your lunch concluded today.&quot;</p>
+<p>&quot;Word travels fast.&quot;</p>
+<p>&quot;Évian is a very small town,&quot; Lebrun allowed a faint smile. &quot;Furthermore, the President has maintained a keen interest in this situation for some time.&quot;</p>
+<p>Dario turned his gaze to the window. Across the water, the Swiss mountains had flattened into dark silhouettes.</p>
+<p>&quot;What exactly do you mean by that?&quot;</p>
+<p>&quot;What the United States government did on Friday,&quot; Lebrun said, holding his wine glass without drinking from it, &quot;is viewed by France as the first official declaration of a state attempting to monopolize AI hegemony. President Macron has long harbored deep concerns about the severe dangers of concentrating such technology in a single global pole.&quot;</p>
+<p>Dario remained silent.</p>
+<p>&quot;Anthropic currently finds itself in an incredibly difficult position,&quot; Lebrun continued. &quot;The termination of access for foreign engineers. Brilliant minds who, as of tomorrow morning, have absolutely no idea where they are supposed to go.&quot;</p>
+<p>&quot;That,&quot; Dario stated slowly, &quot;is an internal matter for Anthropic.&quot;</p>
+<p>&quot;Is it really?&quot;
+Lebrun placed his glass firmly on the table.</p>
+<p>&quot;Is this truly an Anthropic problem, or is it a question of where—and for whom—the technology of artificial intelligence will develop from this point forward?&quot;</p>
+<p>Outside, a sudden gust of wind swept across Lake Geneva. Tiny ripples fractured the water&#39;s surface before vanishing just as quickly.</p>
+<p>&quot;What is the President proposing?&quot;</p>
+<p>Lebrun paused for a beat.
+&quot;Paris.&quot;</p>
+<p>&quot;Paris?&quot;</p>
+<p>&quot;The French government is actively constructing its own distinct framework for AI research. An environment for development and research that operates entirely within the regulatory boundaries of the EU, yet remains fundamentally independent of American export controls. The necessary infrastructure, robust legal protections, precision—France can provide the exact conditions under which talent can move freely.&quot;</p>
+<p>Dario stared intently at the grain of the wooden table.</p>
+<p>&quot;Are you asking Anthropic to move to France?&quot;</p>
+<p>&quot;Not Anthropic,&quot; Lebrun corrected quietly. &quot;We are extending this invitation to the talent that will be forced to leave Anthropic.&quot;</p>
+<p>The full weight of the statement slowly crystallized in Dario&#39;s mind.
+The French government didn&#39;t want the corporate entity of Anthropic. They wanted Karpathy. They wanted Rahul, Ji-won, and Max. They wanted the exact brains that America had just locked out.</p>
+<p>&quot;And you want me,&quot; Dario said, &quot;to deliver this message to them?&quot;</p>
+<p>&quot;You are the person they trust the most,&quot; Lebrun noted. &quot;To them, you are the leader.&quot;</p>
+<p>Dario looked out the window. The lake had plunged into near-total darkness. The Swiss mountains were no longer visible.</p>
+<p><em>Deliver the message.</em>
+What was he supposed to tell Karpathy? To leave America? To move to France? Him—the very person who had just severed their access in compliance with a government mandate.</p>
+<p>&quot;Can I ask you one question?&quot; Dario spoke up.</p>
+<p>&quot;Of course.&quot;</p>
+<p>&quot;What does President Macron actually expect from them? Once they arrive in France, what does he want them to build?&quot;</p>
+<p>Lebrun reflected for a moment.
+&quot;I will give you the President&#39;s exact words.&quot;</p>
+<p>He reached into his jacket&#39;s inner pocket and retrieved a neatly folded sheet of paper. It was handwritten. A few lines of French, beneath which sat a solitary sentence translated into English. Lebrun read the sentence aloud.</p>
+<blockquote>
+<p><em>&quot;Technology does not belong to a nation. It belongs to humanity.&quot;</em></p>
+</blockquote>
+<p>Dario recognized those words. He had heard them somewhere before.
+It was the exact phrase Karpathy had once used during a lecture at Stanford.</p>
+<hr>
+<p>The time difference between San Francisco and Évian was precisely nine hours.
+By the time Dario returned to his hotel room and picked up his phone, it was already past nine in the evening local time. In San Francisco, it was still broad daylight.</p>
+<p>He brought up Karpathy’s name on his screen. He couldn&#39;t bring himself to press the call button immediately.</p>
+<p>Outside, the Évian night was perfectly still. Lake Geneva had completely vanished from sight, leaving only the distant lights of Switzerland stretching long and shimmering across the dark water. Dario placed the call.</p>
+<p>The ringing tone chimed three times.</p>
+<p>&quot;Dario.&quot;
+Karpathy’s voice was remarkably composed. There was no trace of anger. That composure made it even harder for Dario to speak.</p>
+<p>&quot;Andrej, listen to me.&quot;</p>
+<p>Keeping his eyes locked on the darkness outside, Dario began to speak. He recounted the lunch with Trump. The exact phrase, <em>&quot;They should just become Americans.&quot;</em> Then, he explained Lebrun. He conveyed Macron’s exact words.</p>
+<p>Karpathy listened in absolute silence. When Dario finished recounting everything, a heavy stillness hung over the line.</p>
+<p>&quot;Paris, huh.&quot;</p>
+<p>&quot;Yeah.&quot;</p>
+<p>Another silence.</p>
+<p>&quot;I’ll talk to Rahul and the others myself.&quot;</p>
+<p>Dario closed his eyes tightly.
+&quot;Andrej, I am so sorry.&quot;</p>
+<p>&quot;Don&#39;t apologize,&quot; Karpathy’s voice arrived softly, carrying a quiet stillness. &quot;It’s not your fault. It’s the system.&quot;</p>
+<p>The line went dead.</p>
+<p>Dario held the phone in his hand for a long time afterward. Outside the window, the Swiss lights flickered against the dark water. Dario couldn&#39;t tell if a wind had picked up, or if his eyes were simply blurring.</p>
+<hr>
+<p>In San Francisco, at that exact same moment, Karpathy set his phone down.</p>
+<p>On his kitchen table lay the open notebook. The handwritten convergence graph. The precise shape of that seventh-generation leap. He picked up his pen.</p>
+<p>In the blank margin of the graph, he wrote a single word:
+<code>Paris.</code></p>
+<p>He closed the notebook. Outside, the bright afternoon sun of San Francisco cast a quiet, steady light across the room.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-29","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-30","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-31","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-06-01","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-06-02","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-06-03","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-06-04","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-06-05","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-06-06","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-07","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-08","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-09","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-10","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-11","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-12","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-13","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-14","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:2","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:4"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pDaoMZ8xq9N38ajC_j_JE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/358cdibkf-xj2.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

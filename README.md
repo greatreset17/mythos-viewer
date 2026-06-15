@@ -6,7 +6,7 @@
 
 > **"Technology does not belong to a nation. It belongs to humanity."**
 
-Welcome to the official repository of **"Mythos"**, a 17-chapter speculative hard sci-fi thriller exploring the raw pursuit of innovation, the friction of sovereign borders, and the unyielding bonds of code.
+Welcome to the official repository of **"Mythos"**, a 24-chapter speculative hard sci-fi thriller exploring the raw pursuit of innovation, the friction of sovereign borders, and the unyielding bonds of code.
 
 [📖 Read the Full Novel for Free on GitHub Pages](https://greatreset17.github.io/mythos-viewer/)
 

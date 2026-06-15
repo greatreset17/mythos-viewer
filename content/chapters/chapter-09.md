@@ -2,7 +2,7 @@
 id: 9
 slug: chapter-09
 title: 'Act IX: July, The Principle inside the Fog'
-publishedAt: '2026-06-06'
+publishedAt: '2026-05-31'
 summary: >-
   July in Paris arrived with a wave of heat that caught them completely
   unprepared.

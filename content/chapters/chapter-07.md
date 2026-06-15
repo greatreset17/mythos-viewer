@@ -2,7 +2,7 @@
 id: 7
 slug: chapter-07
 title: 'Act VII: Ripples'
-publishedAt: '2026-06-04'
+publishedAt: '2026-05-29'
 summary: >-
   June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos
   AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72

@@ -2,7 +2,7 @@
 id: 6
 slug: chapter-06
 title: 'Act VI: Not from Zero'
-publishedAt: '2026-06-03'
+publishedAt: '2026-05-28'
 summary: They secured their Paris office precisely four days after arriving.
 ---
 They secured their Paris office precisely four days after arriving.

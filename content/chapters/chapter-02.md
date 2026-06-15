@@ -2,7 +2,7 @@
 id: 2
 slug: chapter-02
 title: 'Act II: Access Denied'
-publishedAt: '2026-05-30'
+publishedAt: '2026-05-24'
 summary: 'On Saturday morning, Karpathy woke up at his usual time.'
 ---
 On Saturday morning, Karpathy woke up at his usual time.

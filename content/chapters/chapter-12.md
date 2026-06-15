@@ -2,7 +2,7 @@
 id: 12
 slug: chapter-12
 title: 'Act XII: The Élysée Palace'
-publishedAt: '2026-06-09'
+publishedAt: '2026-06-03'
 summary: >-
   The formal invitation from Emmanuel Macron arrived during the final week of
   October.

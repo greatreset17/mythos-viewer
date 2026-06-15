@@ -2,7 +2,7 @@
 id: 10
 slug: chapter-10
 title: 'Act X: Liminal AI'
-publishedAt: '2026-06-07'
+publishedAt: '2026-06-01'
 summary: 'By October, winter had effectively laid siege to Paris.'
 ---
 By October, winter had effectively laid siege to Paris. The golden leaves of the chestnut trees now coated the wet cobblestones, and the morning air grew so biting that a light coat was no longer sufficient. Karpathy added a thick wool scarf to his daily attire. The woman at the boulangerie would mutter, "Il fait froid," and he would reply with a steady, "Oui." It became the permanent opening sequence of his days.

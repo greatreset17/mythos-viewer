@@ -2,7 +2,7 @@
 id: 15
 slug: chapter-15
 title: 'Act XV: Before the Storm'
-publishedAt: '2026-06-12'
+publishedAt: '2026-06-06'
 summary: >-
   During the third week of March, the global technological landscape officially
   learned the name Liminal AI.

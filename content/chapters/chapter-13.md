@@ -2,7 +2,7 @@
 id: 13
 slug: chapter-13
 title: 'Act XIII: Grenoble, Winter'
-publishedAt: '2026-06-10'
+publishedAt: '2026-06-04'
 summary: Grenoble was a city entirely besieged by stone.
 ---
 Grenoble was a city entirely besieged by stone. To the east loomed the massive peaks of the Belledonne range; to the north, the jagged walls of the Chartreuse; to the west, the immense plateaus of the Vercors. The entire urban footprint sat tightly compressed inside a deep alpine basin carved out by the elements.

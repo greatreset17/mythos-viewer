@@ -2,7 +2,7 @@
 id: 8
 slug: chapter-08
 title: 'Act VIII: The 3:00 AM Discovery'
-publishedAt: '2026-06-05'
+publishedAt: '2026-05-30'
 summary: Three weeks had passed since their arrival in Paris.
 ---
 Three weeks had passed since their arrival in Paris.

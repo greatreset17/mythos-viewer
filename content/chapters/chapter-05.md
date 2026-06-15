@@ -2,7 +2,7 @@
 id: 5
 slug: chapter-05
 title: 'Act V: Memories of Bratislava'
-publishedAt: '2026-06-02'
+publishedAt: '2026-05-27'
 summary: It took exactly three days to finalize the decision to head to Paris.
 ---
 It took exactly three days to finalize the decision to head to Paris.

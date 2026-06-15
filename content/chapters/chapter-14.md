@@ -2,7 +2,7 @@
 id: 14
 slug: chapter-14
 title: 'Act XIV: Generation Five'
-publishedAt: '2026-06-11'
+publishedAt: '2026-06-05'
 summary: 'At the end of January, Grenoble was hit by a record-breaking alpine blizzard.'
 ---
 At the end of January, Grenoble was hit by a record-breaking alpine blizzard. The storm dumped eighty centimeters of dense snow in less than twelve hours, completely sealing off the facility’s primary access roads. The compound was entirely isolated until state-run snowplows finally cleared a single lane late the following afternoon.

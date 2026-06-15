@@ -2,7 +2,7 @@
 id: 11
 slug: chapter-11
 title: 'Act XI: The Presentation'
-publishedAt: '2026-06-08'
+publishedAt: '2026-06-02'
 summary: 'During the third week of October, Guillaume arrived at the office.'
 ---
 During the third week of October, Guillaume arrived at the office. He wasn't wearing his customary, thoroughly frayed hoodie. Instead, he wore a crisp, collared shirt. That single visual detail signaled to the entire room that today was entirely distinct from their standard routine.

@@ -14,9 +14,9 @@ const fileContents = fs.readFileSync(inputPath, 'utf8');
 // Parse global frontmatter
 const { data: globalMeta, content: bodyContent } = matter(fileContents);
 
-// Split on Act headings
-const parts = bodyContent.split(/(?=^## Act )/m).filter(p => p.trim().length > 0);
-const validParts = parts.filter(part => part.includes('## Act '));
+// Split on Act or Epilogue headings
+const parts = bodyContent.split(/(?=^## (Act |Epilogue))/m).filter(p => p.trim().length > 0);
+const validParts = parts.filter(part => part.includes('## Act ') || part.includes('## Epilogue'));
 console.log(`Found ${validParts.length} valid chapters.`);
 
 // Delete existing mock chapters to avoid duplicates
@@ -31,7 +31,7 @@ files.forEach(f => {
 // Process each part
 validParts.forEach((part, index) => {
   const lines = part.split('\n');
-  const headingLineIndex = lines.findIndex(l => l.startsWith('## Act '));
+  const headingLineIndex = lines.findIndex(l => l.startsWith('## Act ') || l.startsWith('## Epilogue'));
   if (headingLineIndex === -1) return;
 
   const headingLine = lines[headingLineIndex];
@@ -81,7 +81,7 @@ validParts.forEach((part, index) => {
     slug: slug,
     title: titleText,
     publishedAt: formattedDate,
-    summary: summary || `Act ${actNumStr} of the novel Mythos.`
+    summary: summary || (titleText.startsWith('Epilogue') ? `Epilogue of the novel Mythos.` : `Act ${actNumStr} of the novel Mythos.`)
   };
 
   const outputContent = matter.stringify(chapterContent, chapterFrontmatter);

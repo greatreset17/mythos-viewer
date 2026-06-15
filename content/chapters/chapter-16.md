@@ -2,7 +2,7 @@
 id: 16
 slug: chapter-16
 title: 'Act XVI: Citizenship'
-publishedAt: '2026-06-13'
+publishedAt: '2026-06-07'
 summary: >-
   Following the global publication of the manuscript in May, the velocity of the
   world outside accelerated exponentially.

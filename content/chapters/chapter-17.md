@@ -2,7 +2,7 @@
 id: 17
 slug: chapter-17
 title: 'Act XVII: The Election Year'
-publishedAt: '2026-06-14'
+publishedAt: '2026-06-08'
 summary: >-
   The spring of 2028 arrived, and the world outside the sanctuary grew
   increasingly chaotic.

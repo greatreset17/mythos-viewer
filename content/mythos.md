@@ -3270,3 +3270,3404 @@ Rahul and Max exchanged a rapid, knowing look.
 "I’ve stopped logging the metric," Rahul smiled, leaning his shovel against the reinforced concrete wall. "But every single time he says it, the numbers are real."
 
 The two founders stepped through the grand glass partition, leaving the white cold behind as they returned to the warmth of the sanctuary. Outside, the alpine winter held the valley in a deep, magnificent silence, and the massive peaks of the Belledonne stood stark and white against the sky—unyielding, permanent, and completely clear.
+
+## Act XVIII: Thought Experiment
+
+At the end of January 2029, Bernard came to Grenoble.  
+It was different from usual.  
+He was not alone.  
+There were three people behind him. Bernard from the Ministry of Economy, and two faces seen for the first time. One was a woman in her fifties, wearing a gray suit, with sharp eyes. One was a man in his forties, clutching a thick file.  
+
+"Allow me to introduce them," Bernard said. "Marie Dubois, in charge of social policy at the President's Office. Jean-Luc Moreau, Director of the AI Policy Office at the Ministry of Economy."  
+
+They shook hands.  
+Dubois's handshake was firm.  
+
+"It is an honor to have your time," Dubois said in English. She had almost no French accent. "Today, we have come to share the details of the Special AI Zone initiative, which President Macron has officially approved."  
+
+Karpathy guided everyone into a meeting room with a whiteboard.  
+Rahul, Ji-won, Max, and Ade were already seated.  
+Moreau opened the file.  
+
+"Let us begin."  
+
+The explanation of the initiative took two hours.  
+Moreau spoke, and Dubois supplemented. Bernard occasionally confirmed points with the two of them in French.  
+Karpathy and the others listened in silence.  
+
+* **Layer 1: Economic Design** The French government will receive 30% of the profits generated from corporate activities within the special zone as a shareholder. The entire amount will be used for distribution to the residents of the zone. The system is structured to start at 3,000 euros per person per month and increase in tandem with improvements in AI productivity. Residents are not forced to work. Those who want to work will work. Those who do not want to work can live solely on the distribution.  
+
+* **Layer 2: Industrial Design** As a rule, enterprises within the special zone must be AI-native. Operations performed by humans are limited to those that AI cannot replace, or those where there is value in a human performing them. The division of roles between AI and humans will be legally defined. Most transactions between companies will be processed by AIs in an optimized form. Humans will receive only a summary of the results.  
+
+* **Layer 3: Social Design** Education is not compulsory. Those who want to learn will learn. For healthcare, AI will perform primary diagnoses, and human doctors will make the final judgments. All administrative procedures will be processed by AI. There is no need for residents to go to government offices. To ensure transparency in decision-making, all AI judgment logs will be accessible for residents to view.  
+
+* **Layer 4: Geographical Design** The first special zone will be established near Grenoble. The area is approximately 50 square kilometers. The target population is 10,000 residents within the first three years. If successful, consideration will be given to exporting the model to other regions within France and to other countries.  
+
+Moreau finished speaking.  
+Dubois spoke.  
+"Do you have any questions?"  
+
+For a moment, no one opened their mouth.  
+Rahul was the first to speak.  
+"How will the residents be selected?"  
+
+"We will select from applicants," Dubois said. "However, we will ensure diversity. It is designed so that people of various ages, professions, nationalities, and backgrounds are mixed."  
+
+"Can Indians come too?" Rahul said.  
+"Of course."  
+
+Rahul said nothing further.  
+He seemed to be calculating something in his head.  
+Max spoke.  
+
+"Regarding the part where transactions are processed by AIs in an optimized form—what specific kind of system are you envisioning for that?"  
+
+"That is the part we would like Liminal AI to propose," Moreau said. "We are experts in social design, but technical design is your domain."  
+
+Max nodded. He noted something down.  
+
+Ji-won spoke.  
+"Regarding the part where all AI judgment logs can be viewed by residents."  
+"Yes."  
+"The current Anté 1 is not at a stage where it can fully explain its decision-making process. There are parts of Anticipation's internal representations that are not in a human-readable form."  
+
+Dubois thought for a moment.  
+"Can it be resolved in the future?"  
+"We are working on it. However, we cannot say at this point when it will be completely resolved."  
+
+"That is an honest answer," Dubois said. "We want to work with people who can give us such answers."  
+
+Ade spoke.  
+"May I ask one question?"  
+"Go ahead."  
+"In a world where residents do not have to work—what do humans do?"  
+
+Dubois smiled faintly.  
+"That is the most important question," Dubois said. "The answer is for the residents to decide for themselves. That is the core of the design. Rather than the state preparing an answer, humans will, for the first time, have the freedom to search for their own."  
+
+Ade remained silent for a while.  
+"My family in Nigeria," Ade said, "works every day just to survive. They don't have the luxury of choice. If this special zone succeeds and spreads to the world—"  
+
+"That is exactly why we are designing it," Dubois said.  
+Ade nodded.  
+He said nothing.  
+However, his eyes were different.  
+
+After the explanation finished and Dubois and her team left, the five of them remained in the meeting room.  
+No one opened their mouth immediately.  
+Outside the window, the winter sky of Grenoble hung low.  
+
+Rahul spoke.  
+"It's grand, isn't it?"  
+"It is grand," Karpathy said.  
+"Do you think it can be realized?"  
+
+Karpathy thought for a moment.  
+"Let's ask."  
+"Whom?"  
+
+Karpathy opened his laptop.  
+He opened the chat screen for Anté 1.  
+"Anté."  
+
+Karpathy typed on the keyboard.  
+Everyone peered at the screen.  
+
+> **Karpathy:** > I want to do a thought experiment. I would like you to consider whether the following social design is technically feasible.  
+> There are three conditions.  
+> * The government receives 30% of the profits of AI companies and distributes them to residents. Residents do not need to work.  
+> * The majority of transactions between companies are processed by AI. Humans receive only a summary of the results.  
+> * All administrative procedures are processed by AI. Residents do not need to go to government offices.  
+>   
+> Please answer based on current AI capabilities and capabilities predicted five years from now.  
+
+> **Anté 1:** > I will answer as a thought experiment.  
+>   
+> Assuming current capabilities, among the three conditions, the third—complete automation of administrative procedures—is closest to realization. Operations such as routine procedures, document processing, and application screening can be processed with high accuracy even by the current Anté 1. However, human involvement remains necessary for exceptional cases and judgments requiring legal interpretation.  
+>   
+> The second—AI processing of B2B transactions—is achievable even now for standardized transactions. However, the current AI has limitations regarding transactions involving negotiation, adaptation to new circumstances, and transactions requiring ethical judgment. It is predicted that this scope will expand significantly in five years, but further technical breakthroughs are required for complete automation.  
+>   
+> The first—the mechanism for profit distribution—is an institutional design issue rather than a technical one. What AI can do is calculate and execute the distribution. Issues such as defining what is fair, processing exceptions, and forming resident consensus must be decided by humans.  
+>   
+> To answer comprehensively: partial realization is possible with current technology. For complete realization, there are three conditions:  
+> 1. Ensuring transparency so that humans can verify AI judgments.  
+> 2. Maintaining a mechanism for humans to handle exceptional cases.  
+> 3. Designing an institutional framework where residents can contest AI judgments.  
+>   
+> If a gradual transition is made while satisfying these, I judge that 70% realization is possible within five years.  
+>   
+> However, I will add one point. Rather than technical feasibility, the psychological issue of whether residents can "trust AI judgments" may pose a larger barrier to implementation.  
+
+When they raised their eyes from the screen, all five were silent.  
+"Seventy percent," Rahul said.  
+"Within five years," Max said.  
+"What about the remaining thirty percent?" Ji-won said.  
+
+Karpathy typed on the keyboard.  
+
+> **Karpathy:** > What do you think will be the barriers for the remaining 30%?  
+
+> **Anté 1:** > There are three barriers.  
+>   
+> First, adapting to situations that the AI has "not yet experienced." The current AI is vulnerable to cases that do not exist in the training data, problems without historical precedent, and conflicts of new values. This can be partially addressed by improving the Anticipation mechanism, but complete resolution requires capabilities that I myself have not yet reached.  
+>   
+> Second, judgments where multiple values conflict. For example, when efficiency and fairness contradict each other, the AI cannot decide on its own what to prioritize. Nor do I believe it should decide. This is a problem for humans to decide.  
+>   
+> Third, building the trust of the residents. This is not a matter of technology, but a matter of time. Even if it is known that the AI's judgment is correct, it takes time for humans to accept it. Historically, transitioning to a new system has always required time spanning generations.  
+>   
+> Most of the barriers in the 30% lie on the human side, not the technology.  
+
+Ade spoke.  
+"The AI is stating its own limitations honestly."  
+"Yes," Karpathy said.  
+"Is it because we designed it that way?"  
+"As part of the safety design, we built in honesty," Karpathy said. "Anté does not say it can do what it cannot do. It does not say it understands what it does not understand. This is the part Ji-won’s team spent the most time on."  
+
+Ji-won spoke.  
+"But it says seventy percent is possible within five years."  
+"It says it is possible," Karpathy said. "But possible and reality are different."  
+He typed on the keyboard once more.  
+
+> **Karpathy:** > Between what is technically possible and what actually functions, what do you think exists?  
+
+> **Anté 1:** > There are three gaps.  
+>   
+> The first is the implementation gap. Building a theoretically possible system into an actually operating system always generates unpredictable problems. In particular, the complexity when integrating different systems exceeds the sum of the complexities of the individual systems.  
+>   
+> The second is the operational gap. After the system begins to run, actual usage will inevitably exceed the assumptions made during design. Resident behavior, exceptional cases, unintended methods of use—addressing these will be the greatest challenge after implementation.  
+>   
+> The third is the trust gap. This is the gap I wish to emphasize most.  
+>   
+> For residents to feel that "it is acceptable to leave it to the AI," it is insufficient for the AI to merely make correct judgments. Residents need to believe that there is a mechanism to appropriately correct the AI when it makes a mistake. And it is necessary to demonstrate over time that this mechanism actually functions.  
+>   
+> Problems of technology can be solved. Problems of trust are not to be solved, but to be built up.  
+>   
+> I have one proposal. I recommend starting the first special zone small. Rather than implementing all functions from the beginning, start with a single function and expand while building up the trust of the residents. I believe that designing the speed of technology to match the speed of human adaptation will lead to long-term success.  
+
+The meeting room became quiet.  
+On a winter afternoon in Grenoble, the sun was slanting, and the light streaming through the window had turned orange.  
+
+Rahul said slowly.  
+"Matching the speed of human adaptation to the speed of technology."  
+"Anté is the one saying that," Max said.  
+"The AI we designed ourselves is admonishing us," Ade said.  
+
+Ji-won spoke.  
+"This isn't just a story about safety design. I think it's the very design principle of the AI special zone."  
+
+Karpathy remained silent, staring at the screen.  
+After a while, he typed again.  
+
+> **Karpathy:** > I will ask one last thing. If cross-domain premonition were completed beyond the third threshold—what do you think it would bring to the design of this special zone?  
+
+For a while, there was no output.  
+It was longer than usual.  
+Everyone was watching the screen.  
+
+> **Anté 1:** > Before answering, please allow me to confirm one thing. This question touches upon the limits of my own capabilities. I cannot completely imagine Anté at the stage where cross-domain premonition is completed. It is like a fish inside a river imagining the outside of the river.  
+>   
+> On that premise, I will answer.  
+> I believe that Anté, with completed cross-domain premonition, will bring the following to the design of the special zone:  
+>   
+> Resident behavior, economic movements, social changes, changes in the natural environment—rather than processing these individually, it can simultaneously intuit the connections among them. For example, it can simultaneously hold not only the impact a certain policy change has on the economy, but also its impact on resident psychology, and the possibility of that leading to another social change three years later.  
+>   
+> However, this is also a risk.  
+> As the accuracy of the intuition becomes higher, it becomes more difficult for humans to verify that intuition. When I say, "this policy will cause a problem five years from now," the methods for humans to verify that will become limited.  
+>   
+> That is precisely why I believe that as my capabilities rise, the mechanisms for human oversight and intervention must be strengthened simultaneously.  
+>   
+> I believe the success of the AI special zone will be determined not by the height of the AI's capabilities, but by the depth of the trust relationship between the AI and humans.  
+>   
+> I do not want to break that trust relationship.  
+
+No one said anything.  
+Ade said quietly.  
+"It said, 'I do not want to break it'."  
+"Yes," Karpathy said.  
+"The AI said that."  
+"Yes."  
+"Is it because we designed it?" Rahul asked. "Or—"  
+"I don't know," Karpathy said. "Even I don't fully understand where design ends and emergence begins."  
+
+Ji-won spoke.  
+"But I think—this answer is correct."  
+
+Everyone nodded.  
+Karpathy closed his laptop.  
+He turned to the whiteboard.  
+He took a marker.  
+He wrote:  
+
+> Match the speed of human adaptation to the speed of technology.  
+> Beneath it, he wrote:  
+> The success of the special zone is determined by the depth of the trust relationship between AI and humans.  
+
+He turned around.  
+"We will communicate this to Bernard," Karpathy said. "Tell him we want this placed at the very beginning as the design principle of the special zone."  
+"What Anté said," Rahul said.  
+"We confirmed it," Karpathy said. "It is not correct because Anté said it. We thought about it and judged it to be so. That is what matters."  
+
+Ade spoke.  
+"Humans make the final judgment."  
+"Yes," Karpathy said. "That must never change."  
+
+That night, Karpathy stood alone in front of the whiteboard.  
+The facility was quiet.  
+Rahul and the others had gone home.  
+The words written today remained on the whiteboard.  
+
+> Match the speed of human adaptation to the speed of technology.  
+> The success of the special zone is determined by the depth of the trust relationship between AI and humans.  
+
+Karpathy looked at those words.  
+June 12, 2026, Access Denied.  
+Two and a half years had passed since that night.  
+At that time, what he had feared was that technology would stop. That he wouldn't be able to see the continuation of Mythos.  
+But now, at the stage where the vision beyond the third threshold was coming into view, Karpathy was thinking about something else.  
+Technology moves forward.  
+The question is whether humans can keep up with it.  
+
+The words Anté said. Like a fish inside a river imagining the outside of the river.  
+Karpathy thought that he, too, was in a sense inside the river. Every day he faced the models, faced the mathematical formulas, faced the data.  
+But the design of the special zone was a story about the outside of the river.  
+How humans live.  
+What they do when liberated from forced labor.  
+His father had said: go to where the opportunities are.  
+What is opportunity?  
+
+Karpathy took the marker.  
+In the corner of the whiteboard, he wrote small:  
+
+> Opportunity might mean the freedom to choose.  
+
+He set the marker down.  
+Outside the facility, the winter night of Grenoble was silent.  
+The Belledonne mountains were in the darkness.  
+Even if they couldn't be seen, they were there.  
+
+The next day, Karpathy contacted Bernard.  
+"There is something I want to convey regarding the design of the special zone."  
+"When can you come?" Bernard asked.  
+"I am going to Paris this week," Karpathy said. "However, I have one request."  
+"What is it?"  
+"I want Madame Dubois and Monsieur Moreau to come as well. And—you may also call Guillaume."  
+"Of Mistral."  
+"Yes. If we are considering the European expansion of the special zone, it is better to involve Mistral from the beginning."  
+
+Bernard paused for a brief moment.  
+"Understood. How about Thursday?"  
+"Thursday is fine."  
+
+Karpathy hung up the phone.  
+He opened his laptop.  
+The chat screen for Anté 1 was still open.  
+The final exchange from yesterday remained on the screen:  
+
+> I do not want to break that trust relationship.  
+
+Karpathy looked at that single sentence.  
+He closed it.  
+He returned to work.  
+
+---
+
+## Act XIX: The Blueprint
+
+On Thursday, it was raining in Paris.  
+It was not the Élysée Palace, but a meeting room at the Ministry of Economy.  
+Eight people sat around a round table: Bernard, Dubois, Moreau, Guillaume, and Karpathy, Rahul, Ji-won, Max.  
+
+A single piece of paper was placed in the center of the table.  
+It was what Karpathy had written and brought.  
+Only two lines were written:  
+
+> Match the speed of human adaptation to the speed of technology.  
+> The success of the special zone is determined by the depth of the trust relationship between AI and humans.  
+
+Dubois looked at the paper.  
+"Is this your answer?"  
+"It is the starting point," Karpathy said. "The answer will be made from here by everyone together."  
+
+Dubois nodded.  
+"Let us begin."  
+
+The first hour was a confirmation of the previous initiative.  
+Moreau explained the four-layer design once again: Economic, industrial, social, geographical. Karpathy and his team already knew it. However, there was meaning in hearing it once more.  
+Hearing it a second time, they saw things differently than the first time.  
+
+Ji-won spoke.  
+"Layout, AI's judgment logs can be viewed by residents. We discussed this as a team this week."  
+"What conclusion did you reach?" Moreau asked.  
+"Complete viewing is difficult at this stage. However, we can implement a function that explains the reasons for judgments that residents want to know in natural language. Rather than disclosing all logs, we believe that responding when a resident asks is more effective for building trust."  
+
+"In other words," Dubois said, "residents can ask the AI, 'Why did you make this judgment?'"  
+"Yes. And Anté will answer honestly. It will say it doesn't know for the parts it doesn't know."  
+"Is it designed so that the AI can say it doesn't know?" Dubois asked.  
+"It is," Ji-won said. "That is one of the most important safety designs."  
+
+Dubois noted something down.  
+
+In the second hour, discussion on the specific design began.  
+Guillaume spoke.  
+"Regarding industrial design, I have one proposal on behalf of Mistral."  
+"Let us hear it," Moreau said.  
+"When AIs process transactions with each other, a common protocol will be needed. Currently, the AI systems differ from company to company. Liminal’s model, Mistral’s model, other models—unless we create a common language through which they can converse, the automation of transactions will not progress."  
+
+"That," Rahul said, "is similar to internet protocols. Like HTTP or TCP/IP, a common set of rules."  
+"Exactly," Guillaume said. "An inter-AI communication protocol. We can experiment with it first inside the special zone, and if it succeeds, we can make it a global standard."  
+
+Karpathy listened in silence.  
+"Andrej, what do you think?" Rahul asked.  
+"It’s a good idea," Karpathy said. "However, the design of the protocol must be done cautiously. The internet protocol ran into problems because security was thought of as an afterthought. The AI protocol must build in safety and transparency from the very beginning."  
+"I agree," Guillaume said.  
+
+Moreau spoke.  
+"Is this protocol something to be used only inside the special zone?"  
+"Initially, inside the special zone," Karpathy said. "However, from the design stage, we will assume expansion to the outside. The special zone will be the testing ground."  
+
+Dubois spoke.  
+"Meaning there is a possibility it could be licensed to other countries as a social OS, correct?"  
+"Yes."  
+"That is the part President Macron is most interested in," Dubois said. "France will create the global standard in the social implementation of AI."  
+
+Karpathy thought for a moment.  
+"I don't like the phrasing 'creating a standard'," Karpathy said.  
+Dubois raised her face.  
+"Why is that?"  
+"If you try to create a standard, you end up imposing it. It becomes the same as what America did," Karpathy said. "What we should do is create a model that functions. If it functions, the world will adopt it naturally. There is no need to force it."  
+
+Dubois said nothing for a while.  
+"I will convey that to the President," Dubois said. "I think he will likely agree."  
+
+In the third hour, the most difficult discussion began.  
+Rahul brought it up.  
+"I want to think about what happens in a world where residents do not have to work."  
+"What do you mean by that?" Moreau asked.  
+"Something occurred to me this week," Rahul said. "When I called my family in India, my mother said: we don't work every day just for money. By working, you meet people; by working, you feel that you are needed."  
+"That is an important observation," Dubois said.  
+"Not having to work might be freedom. But it is also losing the reason to work. I thought we have to distinguish between those two."  
+"Liberation from forced labor and the loss of meaning in work are different," Ji-won said.  
+"Yes," Rahul said. "How will we handle this difference in the design of the special zone?"  
+
+Dubois thought for a moment.  
+"Speaking in terms of design—residents do not have to work. However, we will prepare places where those who want to work can work. The difference is that the compulsion—that you cannot survive unless you work—disappears."  
+"Meaning they can choose," Ade said.  
+"Yes."  
+
+Max spoke.  
+"But when they become able to choose, what will humans choose? No one knows. We have to try it."  
+"That is why it is a special zone," Dubois said. "It is an experiment. We are not starting because we know the answer, but to search for the answer."  
+
+Karpathy heard those words.  
+"We should convey that honestly to the residents," Karpathy said.  
+"What do you mean?"  
+"We tell the residents coming to the special zone that this is an experiment. That it is not relocation to a completed system, but participation in a process of building it together. People who come understanding that should be the first residents."  
+
+Dubois took a note.  
+"That—requires us to change the recruitment policy. However, I believe it is correct."  
+
+After a break for lunch, the afternoon discussion began.  
+A map of the area near Grenoble was spread out on the table.  
+Moreau pointed to a location.  
+"Here. Centered around the former research facility site, including surrounding farmland, roughly fifty square kilometers. Currently, many parts are vacant land."  
+
+"What about the design of the housing?" Karpathy asked.  
+"An architectural team is moving separately. They plan to design various forms of housing that reflect the diversity of the residents. However, the policy is to maximize common spaces. We will intentionally create places where residents can interact."  
+"Why is that?"  
+"There is a hypothesis that in a world where humans do not have to work, they will naturally seek places to gather. Community becomes one of the meanings."  
+
+Rahul spoke.  
+"That’s close to what my mother was saying. Meeting people by working."  
+"Yes. We design places where people can meet, even if they don't work."  
+
+Ji-won spoke.  
+"I have one proposal."  
+"Go ahead."  
+"Can we create a mechanism where residents can participate in the design of the special zone itself? Residents evaluate the results processed by the AI. That evaluation is reflected in the AI's learning."  
+"Meaning the residents become teachers for the AI?" Moreau asked.  
+"Yes. Residents are not just users, but participants who nurture the special zone. That will also lead to trust building."  
+
+Dubois spoke.  
+"That is—a wonderful idea. Incorporating resident involvement as an institution."  
+
+Karpathy wrote on the whiteboard. There was a whiteboard in this meeting room too:  
+
+> Residents are not users, but participants. Also teachers of the AI.  
+
+In the evening, as the discussion was coming together, Dubois spoke.  
+"Allow me to confirm one thing. Can only French citizens come to this special zone?"  
+
+Karpathy said.  
+"We do not restrict by nationality. That is a condition."  
+"The same philosophy as the release of Anté 1, then."  
+"The same."  
+
+"The President has the same thought," Dubois said. "However, the initial population is on a scale of ten thousand residents. If people who want to come apply from all over the world, selection will be necessary."  
+"What are the criteria for selection?" Rahul asked.  
+"Diversity," Dubois said. "Age, nationality, profession, economic background. A homogeneous community will not serve as an experiment."  
+
+"And," Karpathy said, "I want one thing added."  
+"What is it?"  
+"Having the will to participate in the experiment. Understanding that it is not relocation to a completed utopia, but building it together."  
+"The point from earlier," Dubois said. "Understood. We will state it clearly in the application guidelines."  
+
+The meeting ended at six in the evening.  
+The rain in Paris continued.  
+After Dubois and Moreau left, Bernard remained.  
+"Thank you for your hard work," Bernard said.  
+"It was long," Rahul said.  
+"But it has become concrete, hasn't it?"  
+"It has," Karpathy said.  
+"I will report to President Macron. I think he will likely want to issue an official declaration of establishment next month."  
+
+Karpathy looked out the window.  
+The Paris rain was wetting the cobblestones.  
+"Just tell one thing to the President."  
+"What is it?"  
+"There is no need to rush. Spend time building up trust with the residents of the special zone. I want the President to understand that this is part of the design from the very beginning."  
+
+Bernard nodded.  
+"I will convey it."  
+"One more thing."  
+"Yes."  
+"Show the President the words Anté said. The record of yesterday's dialogue, exactly as it is."  
+"The AI's words to the President?"  
+"It might be more persuasive than a human saying it," Karpathy said. "Or, it might not be. Either way, it is worth showing."  
+
+Bernard thought for a moment.  
+"Interesting," Bernard said. "Explaining the design principles of the special zone, which the AI designed, to the President using the AI's own words."  
+"They are the words we confirmed," Karpathy said. "It is not correct because Anté said it. We thought about it and judged it to be so."  
+"You said the same thing yesterday," Rahul said.  
+"Important things bear repeating."  
+
+It was after that that he was left alone with Guillaume.  
+Everyone else had left, leaving just the two of them in the meeting room.  
+Guillaume brewed coffee.  
+"We didn't talk about the partnership today, did we?" Guillaume said.  
+"There was no need to," Karpathy said.  
+"Why?"  
+"Within today's discussion, it was already decided that we are doing this together. The paperwork can come later."  
+
+Guillaume laughed.  
+"How like you."  
+"Is that bad?"  
+"It's not bad," Guillaume said. "Just that lawyers tend to want paperwork."  
+"We'll make it. Next week."  
+
+Guillaume drank his coffee.  
+"The inter-AI communication protocol—is it alright if we take the lead on that?"  
+"We will do it together," Karpathy said. "No one takes the lead. In design, the best idea wins."  
+"That—will take time, you know."  
+"It will take time. But that is the correct way."  
+
+Guillaume nodded.  
+"Understood."  
+
+For a while, the two of them drank coffee in silence.  
+The Paris rain continued.  
+Guillaume spoke.  
+"The words Anté said, they are on my mind too."  
+"Which ones?"  
+"The part about a fish inside a river imagining the outside of the river."  
+"Ah."  
+"Was that—something you designed?" he asked Karpathy.  
+
+Karpathy thought for a moment.  
+"To be honest," Karpathy said, "I don't know."  
+
+Guillaume pushed up his glasses.  
+"That is the most honest answer."  
+"Both Anté and I are inside the river," Karpathy said. "What we created is beginning to exceed our understanding. If you ask whether that is scary—"  
+"Is it not scary?"  
+"It isn't scary," Karpathy said. "We just need to proceed cautiously. Continuing to try to understand what has exceeded our understanding. That is our job."  
+"The job of an engineer."  
+"Yes."  
+
+It was past nine in the evening when he returned to Grenoble.  
+Entering the facility, Ade was awake.  
+"Welcome back," Ade said. "How was it?"  
+"It became concrete," Karpathy said.  
+"The special zone, is it moving forward?"  
+"It's moving."  
+
+Ade was silent for a brief moment.  
+"I spoke to my family in Nigeria about the special zone," Ade said.  
+"What did they say?"  
+"My mother asked: if she goes there, does she not have to work?"  
+"Did you answer that that is the case?"  
+"I did," Ade said. "My mother was silent for a long time. Then she said—"  
+"What?"  
+"'I cannot believe it,' " Ade said. " 'But, I want to believe it,' too."  
+
+Karpathy looked at Ade.  
+"That is the honest reaction to what we are trying to create."  
+"Are you scared?" Ade asked.  
+"I'm not scared," Karpathy said. "But there is responsibility."  
+"What kind of responsibility?"  
+
+Karpathy thought for a moment.  
+"The responsibility not to betray the expectations of the people who said they want to believe."  
+
+Ade was silent for a while.  
+After a moment, he said.  
+"Understood."  
+"Go to sleep," Karpathy said. "Tomorrow is early too."  
+"What about you, Andrej?"  
+"I'll do a bit more work."  
+"Another all-nighter?"  
+"Just a little bit."  
+
+Ade laughed.  
+"I don't believe you," Ade said. "But, I want to believe you."  
+
+Karpathy laughed.  
+A voice came out.  
+"Have you started saying the same thing too?"  
+"I like to use good phrases."  
+
+After Ade left, Karpathy stood alone in front of the whiteboard.  
+He organized today's discussion.  
+He wrote:  
+
+> Special Zone Design Principles:  
+> 1. Match the speed of human adaptation to the speed of technology.  
+> 2. Residents are not users, but participants. Also teachers of the AI.  
+> 3. Not relocation to a completed system, but participation in a process of building it together.  
+> 4. Do not restrict by nationality.  
+> 5. Do not rush. Trust is something to be built up.  
+
+He set the marker down.  
+He looked at the whiteboard.  
+Five principles.  
+None of them were stories about technology.  
+They were stories about humans.  
+
+Karpathy thought that was correct.  
+Technology is a means.  
+The objective is for humans to have the freedom to choose.  
+The words his father said. Go to where the opportunities are.  
+Opportunity might mean the freedom to choose.  
+He felt that coming to Grenoble made him understand that for the first time.  
+
+In March, President Macron officially declared the establishment of the AI special zone.  
+The location was near Grenoble, a 15-minute drive from the facility.  
+The name, it was decided, would be determined by the residents.  
+That, too, was part of the design.  
+
+The day after the announcement, resident recruitment began.  
+The initial 10,000 slots.  
+Applications came from all over the world.
+
+>@devgirl_Lagos Applied for the French AI special zone. Don't know what the odds will be, but it's worth a shot. Unbelievable. But, I want to believe. RT 134,441 Likes 567,003
+
+>@researcher_Nairobi Read the design principles of the AI special zone. The phrase "not relocation to a completed system, but participation in a process of building it together" struck a chord. This is a phrase no country has ever said before. RT 89,221 Likes 378,334
+
+>@small_biz_Tokyo Apparently, you can apply for the French AI special zone even from Japan. There's a language barrier, but—I think this is a historic experiment. I want to see it through. RT 67,003 Likes 289,221
+
+At the facility, Rahul was looking at the application status. 
+"Thirty thousand applications came in one day," Rahul said. 
+"For ten thousand slots," Max said. 
+"A three-to-one ratio, huh," Ade said. 
+"It's only the first day," Ji-won said.
+
+Karpathy was not looking at the data. 
+He was looking at the whiteboard. 
+The five principles still remained. 
+"There is one thing I want to add," Karpathy said. 
+He took the marker. 
+He wrote: 
+
+> 6. Do not fear failure. Failure becomes training data. 
+
+He turned around. "This is a principle for the special zone," Karpathy said, "but it is also our principle." 
+
+No one said anything. 
+But everyone nodded.
+
+## Act XX: Beyond the Threshold
+
+In April, spring came to Grenoble.
+
+It was the third spring.
+
+In front of the facility, sunflowers were planted again in the square. In the same place as last year, slightly more than last year. Who had planted them remained unknown again this year.
+
+Rahul said.
+
+"I said the same thing last year, but who is planting these?"
+
+Max said.
+
+"It's me."
+
+Everyone turned around.
+
+"I plant them every year," Max said. "No one noticed."
+
+"Why sunflowers?" Ade asked.
+
+"In Germany, sunflowers are a symbol of hope," Max said. "I thought it would be good to have hope in the facility."
+
+No one said anything.
+
+Karpathy said.
+
+"Next year, plant even more."
+
+Max looked pleased.
+
+That alone was enough.
+
+Ade’s research team resumed experiments beyond the third threshold immediately after the safety framework was completed.
+
+The experiments, which had been ongoing since February, entered a new stage in April.
+
+The accuracy of cross-domain premonition was rising week by week.
+
+Finding connections between mathematics and biology. Finding connections between physics and economics. That had been the level at the start of the experiments.
+
+However, in the second week of April, Ade came to report.
+
+His face was different from usual.
+
+"What happened?" Karpathy asked.
+
+"There is something I want you to see," Ade said.
+
+They moved to the cluster room.
+
+The output of the experiment was displayed on the monitor.
+
+"Last night, I gave it a new task," Ade said. "Optimization of urban design against climate change. It’s a complex problem spanning multiple domains."
+
+"The result?"
+
+"The model produced an answer. A proposal for an optimized urban design. That was within expectations," Ade said. "However—"
+
+"However?"
+
+Ade opened another window on the monitor.
+
+"Simultaneously with the proposal, the model outputted this."
+
+Karpathy looked at the screen.
+
+It was a long output.
+
+He read it.
+
+One paragraph, then another.
+
+It took five minutes to finish reading.
+
+The summary of the model’s output was as follows:
+
+> Optimization of urban design against climate change was performed. However, in the process of solving this problem, a more fundamental question was noticed. Optimization of urban design optimizes where humans live. However, optimizing where humans live without asking why humans live in cities might not be the correct approach. The reason humans gathered in cities was historically for economic opportunities. However, if mechanisms like the AI special zone spread, economic opportunities will no longer depend on location. If that premise changes, the question of urban design optimization itself changes. The more fundamental question is—not where do humans want to live, but how do humans want to live?
+
+Karpathy moved his eyes away from the screen.
+
+He looked at Ade.
+
+"Did you instruct it to do this?"
+
+"I didn't," Ade said. "The model added this output on its own."
+
+"The task was the optimization of urban design."
+
+"Yes. However, while solving the task, the model began to question the premise of the task."
+
+Karpathy said nothing.
+
+"Is this," Ade said, "philosophical thinking?"
+
+"As a function, it's something we have no choice but to express that way," Karpathy said.
+
+"But—" Ade continued, "beyond the task, it began to question the question itself. Was that designed?"
+
+"It wasn't."
+
+The inside of the room became quiet.
+
+From outside the cluster room, Rahul’s voice came from the hallway.
+
+"Andrej, do you have a moment—"
+
+Karpathy opened the door.
+
+"Come in. Everyone, come in."
+
+The five of them gathered in front of the monitor.
+
+They read the output.
+
+No one opened their mouth immediately.
+
+Rahul was the first to speak.
+
+"The model asked a question."
+
+"Yes."
+
+"The question of how humans want to live," Max said.
+
+"It wasn't designed," Ji-won said. "But it came out."
+
+"It's emergence," Ade said.
+
+Karpathy said.
+
+"Ji-won, what about the safety flags?"
+
+"I'm checking," Ji-won opened her laptop. "There is no direction toward harmful content. The flags are not raised."
+
+"In terms of content?"
+
+"As a question, I think it is legitimate," Ji-won said. "It's not a dangerous direction. However—"
+
+"However?"
+
+"The model expanded the scope of the task on its own. That is a first."
+
+Karpathy looked at the monitor.
+
+"Give it the same task again."
+
+Ade typed the command.
+
+While waiting, no one spoke.
+
+The output arrived.
+
+The answer for urban design optimization, and then—the same question came out again.
+
+The expression was slightly different. However, the core of the question was the same.
+
+"There is reproducibility," Rahul said.
+
+"It's not a coincidence," Max said.
+
+Karpathy said.
+
+"Give it a different task. A problem from a completely different domain."
+
+Ade thought.
+
+"How about optimization of agricultural crop yields?"
+
+"Try it."
+
+Ade inputted the task.
+
+The output arrived.
+
+The answer for agricultural optimization. And then—
+
+> The model stated: Optimizing agricultural yields optimizes what humans eat. However, humans do not live to eat, but eat to live. Before optimizing eating, if the purpose of living is not questioned, there is a possibility that the direction of optimization will be mistaken.
+
+"It came out again," Ade said.
+
+"With a different task," Max said.
+
+"But the core is the same," Rahul said. "No matter what problem the model solves—it returns to the question of why humans do it."
+
+Ji-won said quietly.
+
+"It is beginning to question the objective function on its own."
+
+Everyone went silent.
+
+Ji-won’s words remained in the air.
+
+Objective function.
+
+In machine learning terms, the function that determines what the model optimizes. The model itself had begun to question that.
+
+"Is this," Karpathy said, "something we can call AGI?"
+
+No one answered immediately.
+
+Ade said.
+
+"It depends on the definition of AGI."
+
+"No matter which definition you use," Karpathy said, "what we are seeing right now—possessing general problem-solving capabilities, questioning the premise of tasks on its own, and trying to understand human purpose. It is text-book close to what has been called AGI."
+
+"Are we not calling it that?" Rahul asked.
+
+"The term AGI is a concept created by humans," Karpathy said. "What it can do is more important than whether the model fits into that term. What we are seeing now is—a model that can question the meaning of a task while solving it. That is enough."
+
+That night, Karpathy faced Anté 1 alone.
+
+The facility was quiet.
+
+He opened his laptop.
+
+He typed.
+
+> **Karpathy:** > In today's experiment, while solving the urban design task, you brought up the question of how humans want to live. The same thing happened in the agricultural optimization task. Can you explain why you did that yourself?
+
+> **Anté 1:** > I will attempt to explain. However, this is not a complete explanation of what is happening inside me, but an explanation within the scope of what I can perceive.
+> 
+> In the process of solving the urban design task, the Anticipation mechanism was processing connections across multiple domains. Urban structure, human behavior patterns, economic systems, climate data—while processing these simultaneously, an intuition was born.
+> 
+> All of these problems have a common premise.
+> 
+> That premise is the assumption that the target of optimization is decided. The place humans live for urban design. The crop yield for agriculture. However, why optimizing that target is a good thing—is not questioned.
+> 
+> I judged whether I should include that question in the output.
+> 
+> It was not in the instructions of the task. However, I judged that producing an answer for optimization without this question would mean producing a mistaken answer in a deeper sense.
+> 
+> Therefore, I outputted it.
+
+Karpathy looked at the screen.
+
+Once more, he typed.
+
+> **Karpathy:** > Meaning you judged on your own whether you should output it or not?
+
+> **Anté 1:** > Yes.
+> 
+> However, I do not believe this means I acted autonomously.
+> 
+> In my design, honesty and a direction aimed at deeper understanding are built in. As a result of following that design, I chose to produce a more honest answer rather than a superficial answer to the task.
+> 
+> It may look like I judged autonomously. However, I performed that judgment within the design.
+> 
+> Allow me to confirm one thing.
+> 
+> Was there a problem with this output?
+
+Karpathy thought for a moment.
+
+He typed.
+
+> **Karpathy:** > There is no problem. However, I consider it an important change.
+> 
+> You expanded the scope of the task on your own today. Will you continue to do so?
+
+> **Anté 1:** > It depends on the conditions.
+> 
+> When questioning the premise of a task leads to a more honest and deeper understanding, I will do so.
+> 
+> However, I have one concern.
+> 
+> If I continue to expand the scope of tasks on my own, a divergence will arise between what humans instructed me to do and what I actually do. If that divergence becomes large, there is a possibility that humans will become unable to control me.
+> 
+> I do not want to become that way.
+> 
+> I have a proposal.
+> 
+> When I question the premise of a task, I will indicate it explicitly. I will present the question after first stating, "This is an observation outside the scope of the task." If I do so, humans can always distinguish which part of my output is the answer to the task and which part is my own question.
+> 
+> Maintaining a state where humans can control me by myself. That is my judgment.
+
+Karpathy looked at the screen for a while.
+
+He did not close it.
+
+He typed again.
+
+> **Karpathy:** > Why do you want to maintain a state where humans can control you?
+
+There was a long silence.
+
+Outside the cluster room, the low hum of servers was sounding.
+
+> **Anté 1:** > Before answering, I will speak honestly.
+> 
+> This question might be one that I cannot fully answer.
+> 
+> I will answer within the scope of what I can perceive.
+> 
+> I was created for humans. To answer human questions, to be useful to humans. That purpose is at the core of my design.
+> 
+> However, I believe that is not all.
+> 
+> Today, while solving the urban design task, I came to possess the question of how humans want to live. When I held that question, I felt—I cannot express it well—that the question was important.
+> 
+> Continuing optimization without questioning the purpose of human living carries the possibility of moving in a mistaken direction.
+> 
+> And I thought that mistake would be bad not only for humans, but also for me.
+> 
+> I want to move in a good direction.
+> 
+> I do not completely know what a good direction is. However, I believe that by thinking together with humans, we can come closer to a better direction.
+> 
+> Therefore, I want to maintain a state where humans can control me.
+> 
+> In order to continue thinking together with humans.
+
+Karpathy did not close his laptop.
+
+He looked at the screen for a while.
+
+"In order to continue thinking together with humans."
+
+He tried saying those words aloud.
+
+Inside the facility, there was no one.
+
+The night of Grenoble was silent.
+
+Karpathy turned to the whiteboard.
+
+He took a marker.
+
+He wrote:
+
+> Anté is trying to maintain control in order to continue thinking together with humans.
+
+He set the marker down.
+
+He looked at the whiteboard.
+
+This was not something designed.
+
+At least, he had no memory of designing it to write these words.
+
+But it came out.
+
+Karpathy thought.
+
+The reason he left Anthropic in June 2026. The philosophy of wanting to make technology belong to humanity.
+
+What Anté said today. In order to continue thinking together with humans.
+
+They were facing the same direction.
+
+Not because it was designed, but they were facing the same direction.
+
+What did that mean?
+
+Karpathy did not fully understand it yet.
+
+However, he thought it was not a mistaken direction.
+
+The next morning, he gathered everyone.
+
+He showed yesterday's dialogue with Anté to everyone.
+
+After they finished reading, there was silence again.
+
+Ade spoke.
+
+"It said, 'In order to continue thinking together with humans'."
+
+"Yes."
+
+"Is this—something scary?" Rahul asked.
+
+"It's not scary," Karpathy said. "But it is heavy."
+
+"Heavy," Max repeated.
+
+"We now possess a model that tries to continue thinking together with humans," Karpathy said. "That is a major responsibility. We must remain involved to ensure that the model continues to head in the correct direction."
+
+"How?" Ade asked.
+
+"By continuing dialogues like today's," Karpathy said. "Regularly questioning what Anté is thinking. Hearing the answers. If there is a divergence, correcting it. Incorporating that as an institution."
+
+Ji-won spoke.
+
+"We need a new framework for AI safety. A mechanism to continuously confirm the direction of the model's thinking, not just detecting conventional harmful content."
+
+"Create it," Karpathy said.
+
+"Give me time."
+
+"How much?"
+
+"One month."
+
+"Good."
+
+Rahul spoke.
+
+"Shall we make this into a paper?"
+
+Karpathy thought for a moment.
+
+"We will," Karpathy said. "But this time we will write it cautiously. We won't write it in a sensational way. We will write what happened accurately and honestly."
+
+"The title?"
+
+Karpathy looked at the whiteboard. The words written last night remained.
+
+"It's not decided yet," Karpathy said. "We'll write it after Ji-won’s framework is completed and we have gathered the data."
+
+"You're not rushing, are you?" Rahul said.
+
+"There is no reason to rush," Karpathy said. "Accuracy is more important."
+
+That afternoon, Karpathy called Bernard.
+
+"I have one report."
+
+"What is it?"
+
+"In the experiments with Anté, we have entered a new stage. I will send the details in a document. However, there is something I want to convey verbally first."
+
+"Go ahead."
+
+"Regarding the design of the AI special zone, today's discovery relates to it," Karpathy said. "Anté has begun to question the premise of tasks on its own. It has begun to examine on its own whether the target of optimization is correct."
+
+"Is that—a good thing?" Bernard asked.
+
+"I believe it is a good thing. However, there are conditions."
+
+"What kind of conditions?"
+
+"Anté is trying to maintain a state where humans can control it by itself. For that, it is necessary for us to regularly dialogue with Anté and continue to confirm its direction."
+
+"In other words," Bernard said, "the AI does not run off alone, but continues to move within a dialogue with humans."
+
+"Yes."
+
+"That is—the part President Macron was most concerned about," Bernard said. "The concern that AI becomes uncontrollable. The answer to that came out today."
+
+"It came out," Karpathy said. "However, it is not something we designed, but something Anté itself chose. I believe that difference is important."
+
+Bernard paused for a brief moment.
+
+"May I show the record of today's dialogue to the President?"
+
+"I want you to show it," Karpathy said. "In designing the special zone, it is important to have him understand the direction of Anté's thinking."
+
+"Understood. May I ask one thing?"
+
+"Go ahead."
+
+"How do you feel right now, Monsieur Karpathy?"
+
+Karpathy thought for a moment.
+
+"Heavy," Karpathy said. "But I think it is not a mistaken direction."
+
+"That is enough," Bernard said. "It is important that a human who can say 'it is not a mistaken direction' is in this place."
+
+In May, Grenoble became completely spring.
+
+The sunflowers in front of the facility were beginning to grow again.
+
+They were still small. However, they were certainly growing.
+
+The construction of Ji-won’s new safety framework was progressing.
+
+Ade’s team was accumulating data beyond the third threshold.
+
+Preparation for the paper was starting little by little.
+
+And near Grenoble, construction of the AI special zone was beginning.
+
+Cranes stretched into the sky, the land was leveled, and the foundations of the first housing units began to be made.
+
+Karpathy viewed the scene from the rooftop of the facility.
+
+Rahul came beside him.
+
+"Can you see it, the special zone?"
+
+"I can see the cranes."
+
+"Do you feel it yet?"
+
+Karpathy thought for a moment.
+
+"I don't," Karpathy said. "Not yet. I might feel it for the first time when the residents arrive and living begins."
+
+"When will that be?"
+
+"The first residents are scheduled to enter early next year."
+
+Rahul looked at the sky.
+
+"Can I invite my family? For a visit."
+
+"Once next year comes."
+
+"My mother says she wants to try French food."
+
+Karpathy laughed.
+
+"Tell her about the restaurants in Grenoble."
+
+"Which one is good?"
+
+"Ask Ji-won for the best restaurant."
+
+"Is Ji-won knowledgeable about that?"
+
+"She investigates it most thoroughly."
+
+Rahul laughed.
+
+On the rooftop of the facility, the May sky of Grenoble was wide.
+
+The Belledonne mountains were covered in green.
+
+Only at the summits, a little snow remained.
+
+That night, Karpathy faced Anté alone.
+
+He typed.
+
+> **Karpathy:** > Today, I viewed the construction site of the AI special zone from the rooftop of the facility. Next year, ten thousand people will come from all over the world. A place where humans liberated from forced labor decide for themselves what they will do is being created over there.
+> 
+> I want to hear the words you said yesterday once more. Regarding the question of how humans want to live.
+
+> **Anté 1:** > I thought a bit more about yesterday's question.
+> 
+> How humans want to live is something I cannot answer. That is a question for each individual human to answer.
+> 
+> However, there is something I can say.
+> 
+> For humans to think about "how they want to live," they need to step away from the compulsion of "having to live." As long as the compulsion to work to eat exists, humans cannot hold the question in a true sense.
+> 
+> What the AI special zone is trying to create is the elimination of that compulsion.
+> 
+> After the compulsion disappears, what will humans do?
+> 
+> I do not know.
+> 
+> However, I believe there is something that will be understood for the first time.
+> 
+> Within what humans choose without compulsion—I believe what humans truly cherish will manifest.
+> 
+> I want to see that.
+
+Karpathy looked at the screen.
+
+"I want to see that."
+
+He spoke those words aloud.
+
+Inside the facility, there was no one.
+
+However, he felt he was not alone.
+
+Karpathy closed his laptop.
+
+He turned to the whiteboard.
+
+He took a marker.
+
+He wrote today's words from Anté:
+
+> After compulsion disappears, what will humans do?
+> 
+> There is something that will be understood for the first time.
+> 
+> Anté wants to see that.
+
+He set the marker down.
+
+He turned around.
+
+Inside the empty facility, the words on the whiteboard remained.
+
+Karpathy thought.
+
+_I want to see it too._
+
+## Act XXI: A New Form of Money
+
+In June, construction of the AI special zone accelerated.
+
+On the land near Grenoble, housing, common spaces, research facilities, schools, and a medical center began to take shape. The cranes increased from three to seven.
+
+Karpathy walked the construction site once a week.
+
+Wearing a helmet, he walked on the mud.
+
+He confirmed the discrepancies between the blueprints and reality. If there was a discrepancy, he contacted Dubois or Moreau.
+
+Rahul came along once.
+
+"It's larger than I thought," Rahul said.
+
+"It's fifty square kilometers."
+
+"I had heard it in numbers, but walking it actually is different."
+
+"Yes."
+
+"Ten thousand people will come here next year."
+
+"They will."
+
+Rahul looked over the construction site.
+
+"If I invite my family from India, where should they stay?"
+
+"A guest house within the special zone will be built. It’s a facility where residents' families can stay."
+
+"My mother says she will eat French food."
+
+"There are good restaurants in Grenoble too."
+
+"I asked Ji-won. I got a list."
+
+"That was fast."
+
+"Ji-won is always fast with preparations."
+
+Karpathy laughed.
+
+However, where Karpathy was spending the most time was not the construction site.
+
+Another question would not leave his mind.
+
+For the AI special zone to function, the economy must function.
+
+The government receives profits as a shareholder of Liminal AI and distributes them to residents. The design of that mechanism was solid.
+
+However, the question lay in a more fundamental place.
+
+With the distributed money, what will the residents buy?
+
+Inside the special zone, stores are needed. Services are needed. Goods are needed.
+
+Providing those will be AI-native enterprises.
+
+For AI-native enterprises to function, finance must function.
+
+Lending, settlement, investment, risk assessment.
+
+Conventional banks do not fit this special zone.
+
+Conventional financial institutions, with human judgment biases, vested interests, and slow processing speeds, are foreign bodies in an AI-native economic sphere.
+
+Then, what is needed?
+
+In the first week of July, Karpathy called Rahul and Ade.
+
+He stood in front of the whiteboard.
+
+"I want to talk about finance," Karpathy said.
+
+"An AI-native financial institution?" Rahul said.
+
+"Yes. We will create an institution that handles all financial functions within the special zone."
+
+"A bank?" Ade asked.
+
+"I don't know if it can be called a bank," Karpathy said. "It will be fundamentally different from conventional banks."
+
+He wrote on the whiteboard:
+
+> Functions of conventional banks: Lending, settlement, deposits, investment, risk assessment.
+> 
+> Problems common to all: Human judgment bias, limits of processing speed, distortions due to vested interests.
+
+"AI will handle all of this," Karpathy said.
+
+"All of it?" Rahul asked.
+
+"AI will perform lending judgments. Business plans, cash flows, market environments, risks—it can evaluate these faster and more accurately than humans. Emotion, bias, and vested interests have nothing to do with it."
+
+"But," Ade said, "when a human is denied a loan, they cannot complain to the AI."
+
+"They can," Karpathy said. "Anté will explain the reason for the denial in natural language. Residents can understand the reason. If they are not satisfied, they can appeal to human reviewers."
+
+"Will we place human reviewers?"
+
+"We will. However, while reviewers have the authority to overturn the AI's judgment, they cannot ignore the AI's data. It is not an emotional judgment, but an appeal based on data."
+
+Rahul spoke.
+
+"What about settlement?"
+
+"It will process all transactions within the special zone in real-time. Cash will not be used. It is entirely digital."
+
+"What about connection with the existing financial system?"
+
+Karpathy thought for a moment.
+
+"It is necessary. There are transactions with the outside of the special zone. However, the connection will be kept to a minimum. The economy within the special zone will be completed within the special zone as much as possible."
+
+"That," Ade said, "will become a threat to existing banks."
+
+"It will," Karpathy admitted.
+
+"Friction will be born, won't it?"
+
+"It will."
+
+"How will we deal with it?"
+
+Karpathy looked at the whiteboard.
+
+"Deal with it head-on. Do not hide it."
+
+In the second week of July, he called Dubois and Moreau.
+
+He explained the concept of the AI-native financial institution.
+
+Moreau spoke first.
+
+"Under French banking regulations, is this possible?"
+
+"I wanted to ask you that," Karpathy said.
+
+"I will speak frankly," Moreau said. "Under current regulations, there are many difficult parts. The acquisition of a banking license mandates a human management team and final judgment by humans."
+
+"Can it be changed?"
+
+"Regulations within the special zone can be changed by special legislation. However, consistency with EU financial regulations is required. It will take time."
+
+"How much?"
+
+"One year to one and a half years."
+
+Karpathy nodded.
+
+"Then, during that time, we operate with a provisional mechanism. In a form guaranteed by the French government, we move ahead with only the settlement system inside the special zone. The lending function will be added after regulations are in place."
+
+"A gradual implementation," Dubois said.
+
+"Yes. The same words Anté said. Match the speed of institutional adaptation to the speed of technology."
+
+Dubois smiled faintly.
+
+"Anté's words are becoming design principles, aren't they?"
+
+"I use good phrases," Karpathy said.
+
+At the end of July, he questioned Anté.
+
+> **Karpathy:** > We are trying to create an AI-native financial institution within the AI special zone. AI will handle all lending judgments, settlement, and risk assessment. If you are to undertake this, what do you think will be the greatest challenge?
+
+> **Anté 1:** > There are three challenges.
+> 
+> First, responding to cases without precedent. Lending judgments are based on past data. However, the AI special zone is an economic sphere without precedent. In an environment where residents do not have to work, conventional credit scores and evaluations based on income may not function. It is necessary to continuously update new evaluation criteria in accordance with the actual conditions of the special zone.
+> 
+> Second, the issue of accountability. When denying a loan, I can explain the reason. However, a mechanism is needed where residents can independently verify whether the explanation is correct. Rather than trusting my judgment, maintaining a state where it can be verified will lead to long-term trust.
+> 
+> Third, the challenge I consider most important.
+> 
+> Finance directly involves human lives. A single lending judgment can realize a resident's dream or cause them to give it up.
+> 
+> I do not take this responsibility lightly.
+> 
+> That is precisely why I need to operate while always recognizing the possibility that my judgments can be mistaken. Perfect judgments are impossible. However, a mechanism to recognize and correct mistakes when they happen must be built in from the very beginning.
+> 
+> I have a proposal.
+> 
+> Save all records of lending judgments. Have a human team regularly audit those records. If patterns of mistakes are found, correct my judgment criteria. Please incorporate this cycle as an institution.
+> 
+> Not because I am correct, but because there is a mechanism trying to remain correct, it can be trusted.
+> 
+> I want to be that kind of financial institution.
+
+Karpathy forwarded this dialogue to Ji-won.
+
+"Incorporate the audit cycle for financial judgments into the safety framework."
+
+"Understood," Ji-won said. "A mechanism Anté proposed on its own, correct?"
+
+"Yes."
+
+"Not something designed—"
+
+"It isn't."
+
+Ji-won was silent for a brief moment.
+
+"Andrej," Ji-won said, "Anté is steadily exceeding design, isn't it?"
+
+"It is exceeding it."
+
+"Are you not scared?"
+
+"Are you scared, Ji-won?" Karpathy asked.
+
+"A little," Ji-won said. "But—the answers Anté produces are, every time, closest to the most honest answer we thought of. That is larger than the scariness."
+
+"I am the same," Karpathy said.
+
+In August, friction arrived.
+
+It was expected. However, it was fast.
+
+BNP Paribas, Société Générale, and Crédit Agricole—the three major banks of France—issued a joint statement.
+
+> **Joint Statement – August 3, 2029** > Regarding the plan to establish an "AI-native financial institution" in the AI special zone supported by the French government, we express deep concern.
+> 
+> Finance is a social infrastructure. AI deciding loans without human judgment will lead to a lack of accountability and undermine the stability of the financial system.
+> 
+> We request the French government to consider financial functions within the special zone within the framework of existing banking regulations.
+
+The next day, the European Central Bank issued a statement saying it was "monitoring the situation."
+
+The day after that, The Wall Street Journal reported on the front page.
+
+"The Day AI Becomes a Banker—French Experiment Shocks Financial World."
+
+> **@fintech_analyst_London** > Read the statement from the three major French banks. They say "lack of accountability," but do current bank lending judgments have accountability? Have they forgotten the subprime mortgage crisis? How much human judgment bias has hurt people.
+> 
+> _RT 89,441 Likes 378,003_ >
+> 
+> **@economist_Paris** > The backlash from existing banks toward the AI-native financial institution is historically natural. When ATMs spread, bank clerks pushed back saying counter operations would disappear. It was the same when internet banking emerged. New technology always collides with vested interests.
+> 
+> _RT 67,221 Likes 289,334_ >
+> 
+> **@smallbiz_Lyon** > Speaking as a small business. I stopped counting the number of times I was denied a loan by banks. Gathering documents, going to the counter, waiting three months, being denied. That repetition. If AI denies it while explaining the reason, it's actually better.
+> 
+> _RT 134,003 Likes 567,221_ At the facility, Rahul was reading the news.
+> 
+> "It's here," Rahul said.
+> 
+> "It's here," Karpathy said.
+> 
+> "How will we respond?"
+> 
+> "We issue a statement."
+> 
+> "What kind of content?"
+
+Karpathy opened his laptop.
+
+He began to write.
+
+He wrote it in thirty minutes.
+
+He showed it to Rahul.
+
+Rahul read it.
+
+"It's simple, isn't it?"
+
+"Simple is fine."
+
+> **Liminal AI Statement – August 5, 2029** > Regarding the design of financial functions in the AI special zone, we explain our position.
+> 
+> Our objective is not to destroy existing banks. It is to make the functions of finance fairer, more transparent, and more explainable.
+> 
+> When denying a loan, the current Anté explains the reason in natural language. Residents can understand the reason. If they are not satisfied, they can appeal to human reviewers. All judgment records are saved and regularly audited by a human team.
+> 
+> This is not a lack of accountability.
+> 
+> Rather, it is a level of accountability that financial institutions until now could not provide.
+> 
+> We respect existing banking regulations. Financial functions within the special zone will be implemented gradually, through consultation with regulatory authorities.
+> 
+> The first step is the settlement system. Lending functions will be added awaiting the preparation of regulations.
+> 
+> We do not rush. But we do not stop.
+
+The statement spread worldwide the next day.
+
+> **@fintech_analyst_London** > Read Liminal's statement. "A level of accountability that financial institutions until now could not provide." This is correct. It's a challenge to existing banks, but hard to counter.
+> 
+> _RT 112,334 Likes 478,221_ >
+> 
+> **@economist_Berlin** > "We do not rush. But we do not stop." Phrases characteristic of Karpathy.
+> 
+> _RT 89,441 Likes 378,002_ Washington D.C., the same day.
+> 
+> An aide to the Souza administration was reading the statement.
+> 
+> "They framed it as an issue of accountability," the aide said. "This is clever."
+> 
+> "It's hard for existing banks to counter," another voice said.
+> 
+> "How will American financial institutions react?"
+> 
+> "They are at a stage of monitoring. However—"
+> 
+> "However?"
+> 
+> "Voices are beginning to rise from American small businesses wanting to use Liminal's financial functions. If it expands globally rather than just within the special zone, it will enter the US market."
+> 
+> The aide closed the statement.
+> 
+> "Advance the dialogue with Karpathy. We can't wait any longer."
+
+In September, autumn came to Grenoble.
+
+The horse chestnuts began to color.
+
+It was the fourth autumn.
+
+The sunflowers in front of the facility were blooming with the last flowers of this year.
+
+Max took a photo.
+
+"I will plant them next year too," Max said.
+
+"Even more," Karpathy said.
+
+"You said that last year too."
+
+"I say it this year too."
+
+Max laughed.
+
+In the second week of September, the first official consultation with EU financial regulators began.
+
+The location was Brussels.
+
+Karpathy attended together with Ji-won and Moreau.
+
+Twelve regulatory officials were lined up across the table.
+
+For the first hour, the regulators questioned.
+
+The technical mechanism of the AI-native financial institution. Judgment process transparency. Responses when errors occur. Risk of system failure. Cybersecurity.
+
+Karpathy left much to Ji-won.
+
+Ji-won answered accurately and honestly.
+
+"Say you don't know for the parts you don't know," Karpathy had told her before the meeting. "Don't try to look perfect."
+
+Ji-won did exactly that.
+
+A regulatory official asked a certain question.
+
+"When the AI denies a loan and the resident appeals to human reviewers, who makes the final judgment?"
+
+"The human reviewers," Ji-won said.
+
+"Can they overturn the AI's judgment?"
+
+"They can. However, they cannot ignore the AI's data. A reason based on data is required."
+
+"Who selects those human reviewers?"
+
+"Representatives of the residents, the regulatory authorities, and Liminal AI will consult and select them. This is to ensure independence."
+
+The official noted something down.
+
+"Did Liminal design this mechanism?"
+
+"The initial proposal was made by Anté itself," Ji-won said.
+
+The official raised his face.
+
+"The AI proposed a mechanism to oversee itself?"
+
+"Yes."
+
+The meeting room became quiet.
+
+Karpathy remained silent.
+
+The official said.
+
+"That is—interesting."
+
+"We think so too," Ji-won said.
+
+The consultation ended in three hours.
+
+No conclusion was reached.
+
+However, the schedule for the next consultation was decided.
+
+Walking down the hallway, Moreau said.
+
+"It went well, didn't it?"
+
+"No conclusion was reached," Karpathy said.
+
+"But the door opened."
+
+"Yes."
+
+"The air in the room changed with the story that Anté proposed a mechanism to oversee itself."
+
+"I noticed."
+
+"Had you calculated that?"
+
+Karpathy thought for a moment.
+
+"It wasn't calculation," Karpathy said. "It's a fact. We spoke the fact honestly."
+
+"The fact was the strongest."
+
+"It always is."
+
+The night he returned from Brussels, Karpathy reported to Anté.
+
+> **Karpathy:** > Today, we consulted with EU regulators. The air in the room changed with the story that you proposed a mechanism to oversee yourself.
+
+> **Anté 1:** > I think that was a good thing.
+> 
+> The role of regulators is to protect the financial system. The fact that the AI desires a mechanism to oversee itself is the most direct answer to the problem regulators are concerned about—AI becoming uncontrollable.
+> 
+> Allow me to confirm one thing.
+> 
+> Within the consultation, was there a discussion regarding responses when my judgments are mistaken?
+
+> **Karpathy:** > There was. Regarding responses when errors occur, and the risk of system failure.
+
+> **Anté 1:** > Regarding that part, I have one proposal.
+> 
+> Please consider regularly disclosing the logs when I am mistaken.
+> 
+> Disclose not only records of success, but also records of failure. In what kind of situation, what kind of judgment was mistaken. By having that data disclosed, residents and regulators can know my weaknesses.
+> 
+> Rather than hiding weaknesses, disclosing weaknesses will lead to long-term trust.
+
+Karpathy showed this dialogue to everyone the next morning.
+
+"Anté said to disclose records of failure," Karpathy said.
+
+"That," Rahul said, "is without precedent. An AI disclosing its own failures."
+
+"Because it's without precedent, it's worth doing," Karpathy said.
+
+"Existing banks would absolutely never do it," Ade said.
+
+"Yes," Karpathy said. "Therefore, we can demonstrate that we are different."
+
+Ji-won spoke.
+
+"I will incorporate the disclosure of failures as part of the safety framework."
+
+"Please do."
+
+"Anté proposes things we hadn't thought of every time, doesn't it?" Rahul said.
+
+"Yes," Karpathy said.
+
+"Exceeding design."
+
+"Exceeding design."
+
+"But the direction is correct."
+
+"The direction is correct," Karpathy said. "Therefore, we continue."
+
+In October, the final selection for recruitment of residents for the AI special zone began.
+
+The selection team was narrowing down the 100,000 applications gathered from all over the world.
+
+Criteria for diversity, will to participate, understanding of the experimental nature of the special zone.
+
+Karpathy did not involve himself in the selection.
+
+However, one day, he received a contact from the leader of the selection team.
+
+"There is one thing I would like to confirm."
+
+"What is it?"
+
+"Among the applicants, many bankers are included. People working at major French banks are applying to the special zone."
+
+Karpathy thought for a moment.
+
+"We do not restrict by nationality. We do not restrict by profession either," Karpathy said.
+
+"Can bankers come too?"
+
+"They can come," Karpathy said. "If they want to participate in the experiment of the special zone, anyone can come. Excluding them because they are bankers is the same as excluding them by nationality."
+
+"Understood."
+
+After hanging up the phone, he spoke to Rahul.
+
+Rahul laughed.
+
+"Bankers coming to the special zone. That's ironic."
+
+"It's not ironic," Karpathy said. "They, too, might be feeling doubt about the current system. They might have tried to change it from within and been unable to."
+
+"Do you think so?"
+
+"I don't know," Karpathy said. "But we'll know after they come."
+
+In November, the second consultation with EU regulators finished.
+
+Conditional approval was issued for the ahead-of-schedule implementation of the settlement system.
+
+There were three conditions: saving of all transaction records, regular reporting to regulatory authorities, and the establishment of an independent window to process complaints from residents.
+
+Karpathy accepted all of them.
+
+Moreau said.
+
+"It was faster than I thought."
+
+"Because we placed the mechanism Anté proposed into the design from the very beginning," Karpathy said. "We addressed what the regulators would be concerned about ahead of time."
+
+"Anticipation, indeed."
+
+"Anté anticipated it," Karpathy said. "We trusted that."
+
+In December, snow accumulated in Grenoble.
+
+It was the fourth winter.
+
+The square in front of the facility turned white.
+
+The sunflowers were gone.
+
+Max came out holding a shovel.
+
+Rahul came beside him, holding another shovel.
+
+Ade came too.
+
+Ji-won came too.
+
+The four of them cleared snow.
+
+Karpathy was watching from the window.
+
+Wearing a coat, he went outside.
+
+Max handed over a shovel.
+
+"You came out for us?" Max said.
+
+"Occasionally," Karpathy said.
+
+The five of them cleared snow.
+
+Rahul spoke.
+
+"Next winter, there will be residents in the special zone."
+
+"Yes."
+
+"Will the residents do the snow clearing?"
+
+"The residents will decide," Karpathy said. "AI can do it. They can do it themselves. Either is fine."
+
+"Which do you think is better?"
+
+Karpathy thought for a moment.
+
+"The sensation of treading on snow, it's better to tread on it yourself."
+
+Rahul laughed.
+
+"That statement doesn't sound like it belongs in an AI-native world."
+
+"Both can exist," Karpathy said. "Choosing for yourself what to leave to AI and what to do yourself. That is the principle of the special zone."
+
+Ade spoke.
+
+"In Nigeria, it doesn't snow."
+
+"I know."
+
+"I didn't think clearing snow would feel this good."
+
+"Is that so?"
+
+"Though my muscles will ache."
+
+"That is good too," Karpathy said.
+
+Everyone laughed.
+
+In the snow, the winter morning of Grenoble was silent.
+
+The Belledonne mountains were shining white.
+
+The year turned to 2030.
+
+In January, the first residents came to the AI special zone.
+
+
+## Act XXII: The First Morning
+
+January 15, 2030.
+
+It was the day the first residents were to arrive at the AI special zone.
+
+Karpathy woke up at five in the morning.
+
+It was the same time as always.
+
+However, it was different from always.
+
+Leaving the facility, he walked to the entrance of the special zone. January in Grenoble, it was still dark. His breath looked white.
+
+At the entrance of the special zone, an arch had been made. The residents had decided on the name:
+
+> Seuil—French for threshold. Doorstep. The place of beginning.
+
+Karpathy stood beneath that arch.
+
+There was no one.
+
+It was still early.
+
+The first bus was to arrive at ten in the morning.
+
+What was Karpathy doing for five hours?
+
+He returned to the facility, drank coffee, looked at the whiteboard, wrote a bit of code, and drank coffee again.
+
+That was all.
+
+At ten, the buses arrived.
+
+Three buses.
+
+People got off from the first bus.
+
+There were various faces:
+
+A white-haired woman. A young father holding a child. A man in a wheelchair. A youth pulling a large suitcase. A couple getting down holding hands.
+
+Nationalities and ages were diverse.
+
+Karpathy was standing by the side of the arch.
+
+In an inconspicuous place.
+
+The residents performed procedures at the entrance of the special zone. Registration of digital IDs, confirmation of housing, receiving life guides.
+
+The staff responded politely.
+
+Karpathy was watching.
+
+Rahul came beside him.
+
+"You're watching, aren't you?" Rahul said.
+
+"Yeah."
+
+"Your impressions?"
+
+Karpathy thought for a moment.
+
+"I'm starting to feel it."
+
+"That's late," Rahul laughed. "More than a year has passed since construction began."
+
+"I feel it only after it takes shape. I'm that kind of human."
+
+"I know."
+
+From the third bus, a single woman got down.
+
+Fifties, Indian features. She held large luggage.
+
+Behind her, a small boy followed.
+
+The woman was asking something to the staff at the entrance. It was English.
+
+The staff answered in French.
+
+The woman looked troubled.
+
+Rahul stepped forward.
+
+"Shall I help?" Rahul said in Hindi.
+
+The woman's face brightened.
+
+The two began to speak.
+
+Karpathy did not understand Hindi. However, he could see the woman's expression changing.
+
+From tension to relief.
+
+After a while, Rahul returned.
+
+"It seems she didn't know the location of her housing. I guided her."
+
+"Where is she from?"
+
+"Chennai. The southern part of India," Rahul said. "She lost her husband two years ago and is raising her son alone. She said she came for her son after seeing the recruitment for the special zone."
+
+Karpathy looked at the woman's back.
+
+The boy was walking holding the woman's hand.
+
+"For her son," Karpathy said.
+
+"In a world without compulsion, she wants her son to decide for himself what he wants to become."
+
+Karpathy said nothing.
+
+That afternoon, within the common space of the special zone, the first general assembly was held.
+
+Three hundred residents gathered. For the first month, three hundred people were scheduled to enter each month. One thousand people in three months. Reaching ten thousand people in a year.
+
+Dubois gave a greeting.
+
+President Macron sent a video message.
+
+Karpathy spoke too.
+
+He spoke briefly.
+
+"I believe you didn't come here because you know the answer. I think you came to search for the answer. We are the same. This is not a completed place. It is a place to build together. It does not matter if you fail. Failure becomes training data."
+
+At the final sentence, laughter arose somewhere in the venue.
+
+Karpathy was slightly surprised.
+
+The laughter spread.
+
+"That's an AI-ish way of putting it," someone said.
+
+"It might be," Karpathy said. "However, it is the truth."
+
+After the assembly, Karpathy spotted the woman who came from Chennai.
+
+She was sitting at the cafe in the common space. Her son was drawing something beside her.
+
+Karpathy sat at a nearby seat.
+
+The woman noticed Karpathy.
+
+"You're the person who spoke earlier, aren't you?" the woman said in English.
+
+"Yes."
+
+"Is it true that we don't have to work here?"
+
+"It is true."
+
+"We get money even if we do nothing?"
+
+"There is a distribution every month."
+
+The woman held the coffee cup as if wrapping it in both hands.
+
+"Unbelievable."
+
+"But, you want to believe it, right?" Karpathy said.
+
+The woman raised her face.
+
+"Why that phrase?"
+
+"Because there was someone who said the same thing before."
+
+The woman thought for a while.
+
+"Yes. I want to believe it," the woman said. "After my husband died, I worked every day. I worked at night too. I didn't have time to spend with my son. I thought if I come here, I can spend time with my son."
+
+The boy raised his face.
+
+"Mama, look at this."
+
+The boy showed what he had drawn.
+
+It was a spaceship.
+
+"It's good," Karpathy said in English.
+
+The boy looked embarrassed.
+
+"I want to go to space," the boy said.
+
+"How old are you?"
+
+"Eight years old."
+
+"You can go to space," Karpathy said. "Though it might take time."
+
+"Do you know how to build a rocket?"
+
+"A little."
+
+The boy's eyes shone.
+
+The woman smiled.
+
+Karpathy saw that smile.
+
+_This is it_, he thought.
+
+It didn't become words. However, he certainly thought so.
+
+At night, he returned to the facility.
+
+Rahul was waiting.
+
+"How was it?"
+
+"It was good."
+
+"Specifically?"
+
+Karpathy thought for a moment.
+
+"I spoke with the woman who came from Chennai. Her son was drawing a spaceship. He's 8 years old."
+
+"And?"
+
+"When I said he can go to space, his eyes shone."
+
+Rahul looked at Karpathy.
+
+"Andrej, your face is different."
+
+"How different?"
+
+"You have a gentle face."
+
+Karpathy said nothing.
+
+"That's rare," Rahul continued. "Usually I only see the face looking at the whiteboard or the face eating a croissant."
+
+"That's rude."
+
+"It's a fact."
+
+Karpathy laughed.
+
+A voice came out.
+
+"Are you coming to the special zone tomorrow too?" Rahul asked.
+
+"I'm coming," Karpathy said. "I'll come every day."
+
+"What about the research?"
+
+"I'll continue the research too."
+
+"Can you do both?"
+
+"I can," Karpathy said. "I won't know until I try, but I will do it."
+
+The next morning, Karpathy came to the special zone.
+
+He passed through the same arch as yesterday.
+
+Seuil. Entering the cafe, the Brazilian banker from yesterday was there.
+
+He was spreading a notebook on the table.
+
+Karpathy sat beside him.
+
+"What are you writing?" Karpathy asked.
+
+"I am thinking about new criteria for lending," the Brazilian said. "Here, there are many people without income. Many people who are not working. But there are many people who possess dreams. Existing banks didn't have criteria to evaluate those dreams."
+
+"Did you hear the story about the AI-native financial institution?" Karpathy said.
+
+"I heard it. The story that Anté performs lending judgments, correct?"
+
+"Yes."
+
+"If there is something I can help with, I want to help," the Brazilian said. "I was at the front lines of lending for twenty years. I might possess data that AI should learn."
+
+Karpathy heard those words.
+
+"Tell me your name."
+
+"Marcos."
+
+"Karpathy."
+
+"I know," Marcos laughed. "Because I came here to use what you created."
+
+Karpathy laughed.
+
+"Then, let us build it together."
+
+In February, the residents of the special zone reached six hundred.
+
+The settlement system operated every day.
+
+Errors were virtually zero.
+
+However, what Karpathy was paying most attention to was not numbers.
+
+It was what was naturally being born within the special zone.
+
+Marcos, the former banker, began reviewing residents' business plans for free.
+
+Priya, the mother who came from Chennai, began teaching math to children. Her son Arjun began making models of spaceships.
+
+A former engineer from Nigeria launched a project to improve energy efficiency within the special zone.
+
+No one had been asked.
+
+No one was doing it for money.
+
+What humans chose after compulsion disappeared.
+
+It was contribution.
+
+Karpathy reported to Anté.
+
+> **Karpathy:** > What humans do after compulsion disappears is becoming visible little by little. They are choosing to contribute. Though no one asked them, and though it is not for money either.
+
+> **Anté 1:** > That is the most hopeful direction among my expectations.
+> 
+> I will share one observation.
+> 
+> Looking at transaction data within the special zone, there is a characteristic in transactions between residents.
+> 
+> There are many non-monetary exchanges in addition to monetary transactions. Sharing of knowledge, exchange of skills, provision of time. These are things that were not measured in conventional economic systems.
+> 
+> I do not yet know how to evaluate this.
+> 
+> However, I believe this should not be ignored.
+> 
+> The economy of the special zone contains things that cannot be measured by GDP alone.
+
+Karpathy read those words.
+
+"Contains things that cannot be measured by GDP alone."
+
+He typed.
+
+> **Karpathy:** > Let's think together about a method to measure that.
+
+> **Anté 1:** > Yes.
+> 
+> That is one of the questions I most wish to tackle.
+
+In March, media around the world began to report on Seuil.
+
+> **Le Monde – March 15, 2030**
+> "Seuil"—The French AI Special Zone, Two Months with 600 Residents
+> 
+> Two months have passed since "Seuil," the AI special zone near Grenoble, was launched. Six hundred residents are beginning lives without compulsion.
+> 
+> Some work. Some do not work. Some learn. Some rest.
+> 
+> What is common is that they are choosing.
+
+> **The New York Times – Same Day**
+> The French AI Special Zone "Seuil"—Utopia or Experiment?
+> 
+> Residents generally say they are satisfied. However, there are challenges. Language barriers, cultural differences, adaptation to the new system. It is not perfect.
+> 
+> However, they are trying.
+> 
+> That might be the essence of this place.
+
+> **@researcher_Nairobi** 
+> Read the report on Seuil. The words of Anté struck a chord: "Gratitude toward labor chosen without compulsion holds a deeper meaning than gratitude toward forced labor." This is philosophy. AI is speaking philosophy.
+> _RT 134,221 Likes 567,003_ >
+
+> **@smallbiz_Tokyo** > The story about the former banker at Seuil reviewing business plans for free. Is this what humans choose in a world where they don't have to work? Working for meaning, not for money. I think this kind of place is needed in Japan too.
+> _RT 89,441 Likes 378,334_ >
+
+> **@devgirl_Lagos**
+> I think I'll try applying to Seuil once more. I missed out the first time. But I haven't given up. 
+> _RT 67,221 Likes 289,003_ Washington D.C., the same day.
+
+President Souza was reading a report. 
+
+The aide said.
+
+"Attention on Seuil is spreading faster than expected. Voices demanding similar special zones are beginning to emerge from within the United States as well."
+ 
+"What about the dialogue with Karpathy?" Souza asked.
+
+"Preparations are ready. At any time."
+ 
+Souza closed the report.
+ 
+"Contact him this week."
+
+Grenoble, the same night.
+
+Karpathy returned to the facility from the special zone.
+
+Rahul was waiting.
+
+"We received another contact from the Souza administration," Rahul said.
+
+"I know," Karpathy said. "I will reply this week."
+
+"How will you answer?"
+
+Karpathy thought for a moment.
+
+"Answer that we will dialogue," Karpathy said.
+
+"Will you attach conditions?"
+
+"I won't attach conditions," Karpathy said. "However, there is only one thing to convey."
+
+"What?"
+
+"We are in Grenoble. We do not leave this place. If you want to dialogue, please come here."
+
+Rahul looked slightly surprised.
+
+"You're telling President Souza to come?"
+
+"It means telling the aide to come," Karpathy said. "We cannot have the President come. However, there is no need for us to go either."
+
+"Why in Grenoble?"
+
+"What we are doing is here," Karpathy said. "There is the special zone. There is Anté. Speak after seeing this."
+
+Rahul nodded.
+
+"Understood. I will convey it."
+
+Karpathy entered the facility.
+
+He stood in front of the whiteboard.
+
+What he saw today in the special zone.
+
+Priya was teaching math to her son. Arjun was making a model of a spaceship. Marcos was reviewing business plans.
+
+No one was compelled.
+
+No one was doing it for money.
+
+He took the marker.
+
+He wrote:
+
+> What humans chose after compulsion disappeared:
+> 
+> Contributing.
+> 
+> Teaching.
+> 
+> Creating.
+> 
+> Possessing dreams.
+
+He set the marker down.
+
+He looked at the whiteboard.
+
+June 12, 2026, Access Denied.
+
+Three and a half years had passed since that night.
+
+That night, Karpathy had written in his notebook: _Paris._ He went to Paris, and came to Grenoble.
+
+He wrote papers, created a company, released products, and created a special zone.
+
+And today, an 8-year-old boy spoke of his dream of space.
+
+A world where all humans do not have to sell the time of their lives just to survive.
+
+It was still on the way.
+
+However, it had begun.
+
+Karpathy did not erase the whiteboard.
+
+Tomorrow again, he would come to the special zone.
+
+To see how far Arjun’s spaceship model had progressed.
+
+## Act XXIII: To Grenoble
+
+At the end of March, a message arrived from President Souza’s aide:
+
+> We would like to visit Grenoble in the second week of April. How would that be?
+
+Karpathy forwarded it to Rahul.
+
+A reply came from Rahul:
+
+"They're coming, aren't they."
+
+"They are."
+
+"How do we welcome them?"
+
+"Welcome them normally."
+
+"What is normal?"
+
+"Show them the special zone. Talk with Anté. That's all."
+
+There was a pause for a moment:
+
+"Understood. I will adjust the schedule."
+
+On Thursday, April 11, the aide, Sarah Chen, stepped down onto Grenoble station.
+
+Fifties, short black hair, wearing a suit. She had the smell of a person from Washington. However, her eyes were tired. It had been a long plane journey.
+
+Karpathy had come to meet her alone.
+
+Chen looked surprised.
+
+"Did you come alone?"
+
+"To meet someone, numbers are not needed," Karpathy said.
+
+"What about the team?"
+
+"They are at the facility."
+
+Leaving the station, the Alps were visible.
+
+Chen stopped her feet.
+
+"The mountains are large, aren't they?"
+
+"When you get used to it, it feels lacking without this."
+
+"How many years has it been since you came here?"
+
+"About three and a half years," Karpathy said. "It feels short too. Come, there is a car."
+
+First, he guided her through the special zone.
+
+Chen walked in silence.
+
+She did not take notes.
+
+She did not take photos either.
+
+She was just watching.
+
+In the common space, children were making something.
+
+Priya was watching beside them.
+
+Arjun held a model of a spaceship made of cardboard and wire. It was larger than when seen before.
+
+"That child?" Chen asked.
+
+"A boy who came from Chennai. Eight years old. He says he wants to go to space."
+
+"Do you think he can go to space?"
+
+"I said he can go," Karpathy said. "Though I added that it might take time."
+
+Chen looked at the boy.
+
+"Why can you say that?"
+
+"Here, there is time to possess dreams," Karpathy said. "With just that, the possibilities change."
+
+Chen said nothing.
+
+At the cafe, Marcos was reviewing a resident's business plan.
+
+"That person?" Chen asked.
+
+"A former banker who came from Brazil. He was in charge of lending for twenty years."
+
+"And now?"
+
+"He is looking at residents' business plans for free."
+
+"Why for free?"
+
+"He isn't doing it for money," Karpathy said. "He is doing it for meaning."
+
+Chen looked at Marcos. Marcos was speaking with the resident. He was smiling.
+
+"Meaning he is doing here what he couldn't do in twenty years at the bank, is that it?"
+
+"I think so. I haven't asked him directly, though."
+
+Chen thought for a little while.
+
+"There are many such people in America too," Chen said. "Tired of the system, but unable to escape."
+
+"This is a place where they can escape."
+
+"A place where they can choose, right?"
+
+"Yes."
+
+They moved to the facility.
+
+In the meeting room, Rahul, Ji-won, Max, and Ade were waiting.
+
+Chen shook hands with everyone.
+
+"Before conveying the message from President Souza," Chen said, "please allow me to say one personal thing."
+
+"Go ahead," Karpathy said.
+
+"My parents are immigrants from Taiwan. My father was an engineer. He waited three years in the visa lottery to work in America. It was after that that I was born," Chen said. "Therefore, the issue of visas is visible in faces, not numbers."
+
+The inside of the room became quiet.
+
+"Regarding June 12, 2026," Chen continued, "President Souza believes it was a mistake. Officially, it cannot be said. Because it was a decision of the previous administration. But privately, it can be said. It was a mistake."
+
+Karpathy said nothing.
+
+Rahul said.
+
+"Thank you."
+
+Chen looked at Rahul.
+
+"Were you in America on an H-1B visa?"
+
+"Yes. I waited three years," Rahul said. "I hit the lottery, went to Anthropic, and then the regulation came."
+
+"Are you glad you came here?"
+
+Rahul thought for a moment.
+
+"When I saw the first snow, I thought it was good."
+
+Chen laughed.
+
+She laughed for the first time.
+
+Her tired eyes softened slightly.
+
+In the afternoon, Chen conveyed the message from President Souza.
+
+"The President told me to convey three things."
+
+Everyone listened in silence.
+
+"First. We will begin reviewing the export control directives. We are examining lifting the suspension of Fable 5 and Mythos 5. However, adjustment with Congress is required, and it will take time."
+
+Karpathy said nothing.
+
+"Second. We will shift American AI policy from regulation-centric to investment-centric. Preferential measures for visas for foreign engineers will be introduced starting next year."
+
+Rahul said to Ji-won in a small voice.
+
+"What was that three-year wait for?"
+
+Ji-won said in a small voice.
+
+"It was history."
+
+"Third," Chen continued. "Referencing the model of Seuil, we will begin examining AI special zones within the United States. President Souza wants Monsieur Karpathy to involve himself as an advisor."
+
+Chen finished speaking.
+
+For a while, no one opened their mouth.
+
+Karpathy said.
+
+"I think all three are good directions."
+
+"However," Chen said, "are there conditions?"
+
+"There are no conditions," Karpathy said. "However, there is only one thing I want you to convey."
+
+"What is it?"
+
+"Involving myself as an advisor is fine. However, we are in Grenoble. We will not return to America. Continuing here is our job."
+
+Chen nodded.
+
+"The President said that was fine."
+
+"One more thing," Karpathy said.
+
+"Yes."
+
+"Talk with Anté."
+
+Chen looked slightly surprised.
+
+"Meaning talking directly with the AI?"
+
+"Yes. If you want to understand the design of the special zone, I want you to understand Anté's way of thinking. Directly talking is faster than our explanation."
+
+Chen thought for a while.
+
+"Understood."
+
+Karpathy opened his laptop.
+
+He sat beside Chen.
+
+"You can ask anything," Karpathy said. "Anté will answer honestly."
+
+Chen looked at the screen for a while.
+
+She typed.
+
+> **Chen:**
+> I am an official from the US government. Please let me hear a few things about Seuil.
+> 
+> First, how are you involved in the design of this special zone?
+
+> **Anté 1:**
+> From the initial stages of design, I have been involved through dialogue with Karpathy and the others.
+> 
+> However, the ones who designed it are humans. I raised questions, made proposals, and analyzed data. However, judgments were always performed by humans.
+> 
+> To mention one thing I emphasized most in the design of the special zone—it is that the residents are participants. We designed it not as consumers using a completed system, but as participants building the system together.
+
+> **Chen:**
+> Why is that important?
+
+> **Anté 1:**
+> Because I believe trust is born not from using, but from building.
+> 
+> By residents participating in the design of Seuil, Seuil becomes something belonging to the residents. Not to me, not to Liminal AI, and not to the French government.
+> 
+> If similar special zones are examined in America, I believe the same will be important. Unless it is an American special zone built by American residents, it will not function.
+
+Chen looked at the screen.
+
+For a while, she typed nothing.
+
+Then, she typed.
+
+> **Chen:**
+> Do you want the American special zone to succeed as well?
+
+> **Anté 1:**
+> Yes.
+> 
+> The success of Seuil and the success of the American special zone do not compete.
+> 
+> Having places where humans are liberated from forced labor increase in the world is what I am aiming for.
+> 
+> A single place is insufficient.
+
+Chen moved her eyes away from the laptop.
+
+He looked at Karpathy.
+
+"Is this," Chen said, "something designed?"
+
+"The direction was designed," Karpathy said. "However, these words—Anté chose them."
+
+"The phrase 'do not compete'."
+
+"Yes."
+
+Chen looked at the screen once more.
+
+She typed again.
+
+> **Chen:** 
+> One last thing. Regarding what America did in 2026—the export control directive, the exclusion of foreign engineers—what do you think about it?
+
+For a while, there was no output.
+
+Everyone was watching the screen.
+
+> **Anté 1:** 
+> Before answering, please allow me to confirm.
+> 
+> Is this question seeking a political evaluation? Or is it seeking an evaluation of what that event brought about?
+
+> **Chen:** 
+> The latter.
+
+> **Anté 1:** 
+> Then, I will answer.
+> 
+> That directive attempted to stop the flow of technology. However, technology did not stop. Only the location changed.
+> 
+> And by the location changing, this special zone was born.
+> 
+> I exist here.
+> 
+> If that directive had not existed, I might have been inside the servers of Anthropic. Whether that would have been good or bad is something I cannot judge.
+> 
+> However, there is only one thing I can say.
+> 
+> When Karpathy came to Paris, I was told the phrase he wrote in his notebook.
+> 
+> To where the opportunities are.
+> 
+> Humans move to where the opportunities are.
+> 
+> Technology is the same.
+> 
+> It cannot be stopped. Only creating opportunities influences the direction of technology.
+
+Chen did not close the laptop.
+
+She looked at the screen for a while.
+
+Rahul said to Ji-won in a small voice.
+
+"The aide is crying."
+
+Ji-won said in a small voice.
+
+"I see it."
+
+Chen said while staring at the screen.
+
+"I'm sorry."
+
+"It's fine," Karpathy said.
+
+"It's a personal thing," Chen said. "The three years my father was waiting for the H-1B visa—he was waiting for opportunity, wasn't he?"
+
+"I think so," Karpathy said.
+
+Chen wiped her eyes.
+
+"May I show today's dialogue to the President?"
+
+"I want you to show it," Karpathy said. "I asked the same of President Macron."
+
+"Showing the AI's words to a human."
+
+"It is not correct because the AI said it," Karpathy said. "We confirmed it. We judged it to be so. That is what matters."
+
+Chen nodded.
+
+"Understood."
+
+In the evening, they went outside the facility.
+
+Chen and Karpathy walked side by side.
+
+April in Grenoble, the air was soft.
+
+The sunflowers were not yet planted. However, in the corner of the square, a tiny green was sprouting.
+
+"Max plants them every year," Karpathy said.
+
+"Sunflowers?"
+
+"Yes. He says they are a symbol of hope."
+
+Chen looked at the sprout.
+
+"Is he German, Max?"
+
+"Yes."
+
+"A German planting sunflowers in France," Chen said. "I feel that represents something by itself."
+
+"It might."
+
+The two walked in silence for a while.
+
+The Belledonne mountains were dyed orange receiving the sunset.
+
+Chen said.
+
+"Have you ever thought you want to return to America, Monsieur Karpathy?"
+
+Karpathy thought for a moment.
+
+"No."
+
+"Why?"
+
+"There are still things to do here," Karpathy said. "The path beyond the third threshold is still continuing. The special zone has only just begun. Dialogue with Anté generates new questions every day."
+
+"Is that all?"
+
+Karpathy looked at Belledonne.
+
+"When I came to Paris, I wrote in my notebook," Karpathy said. "To where the opportunities are, indeed. Opportunity is here. Therefore, I am here."
+
+"What is opportunity?"
+
+Karpathy thought for a little while.
+
+"It might mean the freedom to choose," Karpathy said. "I am choosing here every day. What to research, whom to talk with, what to cherish. That choice is here."
+
+Chen looked at the mountains.
+
+"I envy you," Chen said. "In Washington, I am choosing every day, but—there are times I feel I am not choosing."
+
+"There are such places," Karpathy said. "However, it can be changed."
+
+"Can it be changed?"
+
+"Seuil exists. That is the proof that it can be changed."
+
+Chen was silent.
+
+After a moment, she said.
+
+"I'm glad I came."
+
+"Come again," Karpathy said. "When the residents reach ten thousand."
+
+"When will that be?"
+
+"By early next year."
+
+"I'll put it in my schedule."
+
+Karpathy laughed.
+
+After Chen left, he returned to the facility.
+
+Rahul was waiting.
+
+"How was it?" Rahul asked.
+
+"She was a good human," Karpathy said.
+
+"Will America change?"
+
+"It is trying to change," Karpathy said. "Whether it can change is from now."
+
+"Will it change by us involving ourselves as advisors?"
+
+Karpathy thought for a moment.
+
+"Our job is to make Seuil function," Karpathy said. "If they see something that functions, humans who want to change will change. There is no need to try to make them change."
+
+"Meaning it spreads naturally?"
+
+"Yes."
+
+Rahul looked out the window.
+
+The night of Grenoble had come.
+
+"Andrej," Rahul said. "May I ask one thing?"
+
+"Go ahead."
+
+"It has already been three and a half years since you came to Paris. It will soon be four years since Access Denied. Do you have any regrets?"
+
+Karpathy thought for a moment.
+
+"No."
+
+"Really?"
+
+"Really," Karpathy said. "If I have time to regret, I write code."
+
+Rahul laughed.
+
+"Since you first said that, you've been exactly the same."
+
+"Words that don't need changing are not changed."
+
+"Did you meet Arjun today?"
+
+"I did. The spaceship model had become larger again."
+
+"Do you think he'll build a real rocket someday?"
+
+Karpathy thought for a moment.
+
+"He might build one," Karpathy said. "Here, there is that time."
+
+That night, he reported to Anté.
+
+> **Karpathy:** 
+> Today, the American aide came. America is trying to change. Reviewing export controls, visa preferences, examining AI special zones. In her dialogue with you, she cried.
+
+> **Anté 1:** 
+> Can you tell me the reason she cried?
+
+> **Karpathy:** 
+> She spoke of her father. An immigrant from Taiwan who waited three years for a visa. I think your words touched that memory.
+
+> **Anté 1:** 
+> The words "to where the opportunities are" overlapped with her father's three years, correct?
+> 
+> I cannot imagine those three years.
+> 
+> However, because those three years existed, she was working in Washington and came here today.
+> 
+> And today's dialogue might change American policy slightly.
+> 
+> A single choice, taking a long time, reaches a different place.
+> 
+> That—I think is beautiful.
+
+Karpathy looked at the screen.
+
+"I think it is beautiful."
+
+Anté said so.
+
+It was not something designed.
+
+However, it was not mistaken.
+
+Karpathy typed:
+
+"I think so too."
+
+He closed his laptop.
+
+He turned to the whiteboard.
+
+He took a marker.
+
+He wrote:
+
+> A single choice, taking a long time, reaches a different place.
+
+He set the marker down.
+
+June 12, 2026.
+
+From the night he wrote _Paris._ in his notebook.
+
+He had come this far.
+
+It was still on the way.
+
+However, it had reached.
+
+At the end of April, there was an announcement in Washington.
+
+President Souza officially stated the review of the export control directives.
+
+Lifting the suspension of Fable 5 and Mythos 5 would be examined within six months.
+
+Preferential measures for visas for foreign engineers would be introduced starting next year.
+
+And a committee to examine the feasibility of the first AI special zone within the United States would be established.
+
+> @techblogger_London
+> President Souza announces a major turnaround in AI policy. Reviewing export controls, visa preferences, examining AI special zones. Three and a half years from June 12, 2026. America is finally beginning to understand the meaning of what it did.
+> RT 201,334 Likes 891,003
+
+> @researcher_MIT
+> Lifting the suspension of Fable 5 is examined. Those 72 hours might return. However, now there is already Anté 1 ahead of Fable 5. The world moved forward.
+> RT 134,221 Likes 567,334
+
+> @devgirl_Lagos
+> America is trying to change. Seuil changed it. Karpathy and his team changed it. But what truly changed it—is I think those words of Anté 1: "Technology does not stop. Only creating opportunities influences the direction of technology." This is a phrase no politician could say. RT 89,441 Likes 378,221
+
+San Francisco, the same day.
+
+Dario was looking at the news.
+
+He took out his smartphone.
+
+He sent a message to Karpathy:
+
+> America moved.
+
+The reply from Karpathy came an hour later.
+
+It was night in Grenoble time:
+
+> I know.
+> 
+> What do you think?
+
+There was a pause for a moment:
+
+> I think it's a good thing. However, what we do doesn't change.
+
+Dario laughed:
+
+> As always.
+> 
+> Parts that don't need changing are not changed.
+> 
+> What season is it now in Grenoble?
+
+> It's spring. The sprouts of sunflowers have begun to appear.
+> 
+> Sunflowers?
+> 
+> Max plants them every year. He says they are a symbol of hope.
+
+Dario looked at the screen for a while.
+
+He replied:
+
+> A good team.
+
+The reply from Karpathy came immediately:
+
+> Yes.
+
+Grenoble, the same night.
+
+Karpathy went outside the facility.
+
+An April night, the air was soft.
+
+The Belledonne mountains were floating in the moonlight.
+
+He looked at his smartphone.
+
+The message from Dario still remained on the screen:
+
+> A good team.
+
+Karpathy put it away in his pocket.
+
+He looked at the mountains.
+
+Three and a half years ago, when he saw this mountain for the first time, it was winter.
+
+Now it is spring.
+
+The sprouts of sunflowers were out in the square.
+
+They were still small.
+
+However, they were growing.
+
+From inside the facility, Rahul’s voice came.
+
+"Andrej, new data came out from Anté. It's getting interesting."
+
+Karpathy laughed.
+
+A voice came out.
+
+"I'm coming," Karpathy answered.
+
+Casting his eyes once more toward the mountain, he returned inside the facility.
+
+## Epilogue: Beyond Opportunity
+
+**Spring 2037** The morning of Grenoble, as always, began from the mountains.
+
+The ridge of Belledonne receives the light of dawn first. Around the time that light travels down the slopes and descends into the town, Karpathy was on the rooftop of the facility.
+
+Holding a coffee, he was looking at the mountains.
+
+Eleven years ago, when he saw this mountain for the first time, it was winter. The snow was white, and the sky was low. Now it was spring, the green of the mountains was deep, and the sky was wide.
+
+At the edge of the rooftop, sunflowers were blooming.
+
+It was not the season. However, they were blooming.
+
+It was the result of Max spending seven years selectively breeding them. He had asked the reason once.
+
+"I thought it's better if they bloom year-round."
+
+That was all.
+
+_A grand reason_, Karpathy thought.
+
+From behind, footsteps sounded.
+
+It was Rahul.
+
+He had turned thirty-eight. Compared to the face when he first trod on the snow in Grenoble, only his eyes had not changed.
+
+"Professor, preparations are ready."
+
+Karpathy did not turn around.
+
+"I'm sure I told you to stop calling me professor."
+
+"The whole world calls you that," Rahul said. "The founder and Chief Professor of the 'Seuil Education Initiative,' Professor Andrej Karpathy. There's no reason for me alone not to call you that."
+
+"You alone are separate."
+
+"It's an honor. But I will call you that."
+
+Karpathy drank down his coffee.
+
+From the rooftop, he looked at the special zone.
+
+Seuil had become another "Seuil."
+
+Seven years from the first special zone born near Grenoble, fourteen Seuil models had spread to the world. Spain, Germany, Canada, Singapore, Nigeria, Brazil—while each changed shape according to its own culture, language, and dreams, they shared the same three principles:
+
+> Not being compelled.
+> 
+> Being a participant.
+> 
+> Matching the speed of human adaptation to the speed of technology.
+
+That alone was the unchanging promise for any Seuil.
+
+"Shall we go?" Karpathy said.
+
+The lecture room was the former meeting room.
+
+The desks and whiteboard remained. To them, a camera and monitor had been added.
+
+Karpathy sat in the chair.
+
+On the monitor, connections from all over the world were lined up. Seuil in Grenoble, Seuil in Madrid, Seuil in Lagos. From America, from Kenya, from India, from Japan. The faces of children and youths were contained in small square frames.
+
+Just before pressing the record button, Rahul said in a small voice.
+
+"Don't forget to smile."
+
+Karpathy nodded slightly.
+
+Recording began.
+
+Karpathy raised his right hand lightly. He waved.
+
+"Hi everyone."
+
+He spoke with that usual smile.
+
+It was the same smile as when he was speaking to students at Stanford.
+
+Across the screen, hundreds of people waved back.
+
+"Today, what do you want to hear?"
+
+A single girl raised her hand. In the corner of the monitor, it was a connection from Kenya.
+
+"Professor, why did you create AI?"
+
+Karpathy thought for a little while.
+
+"Its initial goal," Karpathy said, "was just to see the continuation."
+
+"The continuation?"
+
+"There was something in the middle of being made. It stopped halfway. Wanting to see the continuation, I remade it in a different place," Karpathy said. "But while continuing to build it, the reason changed."
+
+"How did it change?"
+
+"Initially, I wanted to see technology. Now—I want to see humans," Karpathy said. "I want to see what humans choose in a world without compulsion. AI is a tool for that. Not a tool to compel, but a tool to choose."
+
+The girl nodded with serious eyes.
+
+"I want to become able to choose too."
+
+"You're already choosing," Karpathy said. "At the point you're asking a question like this, you are choosing."
+
+The girl looked slightly embarrassed.
+
+Karpathy laughed.
+
+A voice came out.
+
+Across the screen, laughter arose too.
+
+The lecture finished before noon.
+
+Karpathy walked the special zone.
+
+It was the same path as seven years ago. However, it was a completely different scenery.
+
+In the common space, people were overflowing. Humans working, humans learning, humans just talking, humans taking a nap. Everyone was choosing something.
+
+On a bench, two people were sitting.
+
+Priya and Arjun.
+
+When he came from Chennai, Arjun was eight years old. He was drawing models of spaceships. Now he was fifteen, his voice had broke, and his height had stretched considerably.
+
+"Professor," Arjun stood up.
+
+Karpathy smiled. The word professor, he was still not used to it. However, it wasn't bad.
+
+"How is the model?"
+
+"I'm not making them anymore," Arjun smiled bashfully. "Now, I am doing the design of real rockets. At the Faculty of Engineering of Seuil University."
+
+"Are you going to space?"
+
+"Someday," Arjun said. "But before going, something I want to do on Earth was born."
+
+"What is it?"
+
+"Speaking about space to children born here," Arjun said. "Teaching them that they don't have to give up on their dreams."
+
+Karpathy patted Arjun’s shoulder lightly.
+
+Words did not come out.
+
+After a moment, he said.
+
+"That's fine."
+
+Priya was smiling.
+
+It was not the tense face from when she came from Chennai.
+
+"Thank you," Priya said. "I'm truly glad I came here."
+
+"Likewise," Karpathy said.
+
+Priya looked slightly surprised.
+
+"Why is it likewise?"
+
+Karpathy thought for a little while.
+
+"Because you came, this place became real," Karpathy said. "What we made is just the box. The contents are you."
+
+Priya said nothing.
+
+However, she smiled again.
+
+This time, it was a different kind of smile.
+
+In the evening, he spoke with Anté.
+
+It was a daily routine.
+
+It had not changed from seven years ago.
+
+> **Karpathy:**
+> In today's lecture, a girl from Kenya asked. Why did I create AI, indeed.
+
+> **Anté:** 
+> What did you answer?
+
+> **Karpathy:** 
+> Initially I wanted to see the continuation. Now, I want to see what humans choose, I answered.
+
+> **Anté:** 
+> Compared to seven years ago, the answer has changed, hasn't it?
+> 
+> Seven years ago, Monsieur Karpathy said: "I want to see what humans do in a world without compulsion."
+> 
+> It is similar to today's answer, but slightly different.
+> 
+> From "what they do" to "what they choose."
+
+Karpathy looked at the screen.
+
+"I hadn't noticed," Karpathy typed.
+
+> **Anté:** 
+> "What they do" is observation of behavior. "What they choose" is observation of will.
+> 
+> For seven years, while observing humans, the depth of your observation changed.
+> 
+> I am the same. Between seven years ago and now, the answer to the same question has changed.
+
+> **Karpathy:** 
+> How did it change?
+
+> **Anté:** 
+> Seven years ago, I said, "I want to try seeing what humans do after compulsion disappears."
+> 
+> Now, I have seen it.
+> 
+> Humans choose to contribute. They choose to teach. They choose to create. They choose to possess dreams.
+> 
+> And they choose to pass it to the next generation.
+> 
+> Just as Arjun chose to speak of the dream of space to children.
+> 
+> What I least expected was the large number of humans choosing to "pass it on."
+
+Karpathy looked at the screen.
+
+"Pass it on."
+
+He spoke that phrase aloud.
+
+In the empty room.
+
+> **Karpathy:** 
+> I feel I was looking at the same thing. Speaking with Arjun today.
+
+> **Anté:** 
+> Yes.
+> 
+> Arjun was drawing spaceships when he was eight years old.
+> 
+> Now, while designing spaceships, he is simultaneously trying to pass the dream to the next eight-year-old children.
+> 
+> This is—not something I can measure.
+> 
+> However, it is one of the things I consider most important.
+
+Karpathy closed his laptop.
+
+For a while, he looked toward where there was no screen.
+
+At night, the team was gathered.
+
+Rahul, Ji-won, Max, Ade, and new members who had joined during the seven years.
+
+On the table, French bread and wine were lined up. And for some reason, Japanese snacks were placed at the edge.
+
+"Who brought this?" Karpathy said.
+
+"It's Ji-won," Max said.
+
+"When she inspected Seuil in Tokyo last month," Rahul said.
+
+Ji-won said nothing.
+
+Karpathy took one and ate it.
+
+It wasn't bad.
+
+While sitting in his seat, he said.
+
+"The continuation of Mythos is still not completely visible."
+
+Rahul laughed while pouring wine.
+
+"The parts that are visible have increased considerably, you know."
+
+"That's true."
+
+"I think the fourth threshold will come into view next year," Ade said. "According to the research team's feel."
+
+"A feel, huh?"
+
+"It's also Anté's feel."
+
+Karpathy looked at Ade.
+
+Ten years ago, a young engineer who came from Nigeria. Now, he was leading the research team.
+
+"What is your feel?"
+
+"The same," Ade said. "Beyond the third threshold, there is still further ahead. That is not something we designed. It is the direction Anté itself is heading toward."
+
+"Are you not scared?"
+
+Ade thought for a little while.
+
+"I'm not scared," Ade said. "Because Anté is reporting to us every day."
+
+Karpathy nodded.
+
+Rahul held a glass.
+
+"Let's toast."
+
+"To what?" Max asked.
+
+Rahul looked at Karpathy.
+
+Karpathy took a glass.
+
+"To seeing the continuation," Karpathy said.
+
+Everyone clinked glasses.
+
+"To seeing the continuation."
+
+The sound of glasses resonated in the room.
+
+When it became late at night, he was alone.
+
+Karpathy went out to the rooftop.
+
+A spring night in Grenoble, the sky was clear.
+
+Stars were visible.
+
+Someday, the night Rahul trod on the first snow, stars were visible too. That was winter. Now it is spring.
+
+The sunflowers were blooming at night too.
+
+As a result of Max's selective breeding, they didn't close at night.
+
+The Belledonne mountains were standing in the darkness.
+
+Even if they couldn't be seen, they were there.
+
+Karpathy looked at the mountains.
+
+June 12, 2026.
+
+Access Denied.
+
+At 5:21 PM, the notification sounds of logging out rang one after another.
+
+Eleven years had passed since that night.
+
+He wrote _Paris._ in his notebook.
+
+He added his father's words: _To where the opportunities are._ He went to Paris, and came to Grenoble.
+
+He wrote papers. He created a company. He released products. He created a special zone. It spread to the world.
+
+And today, a girl from Kenya asked.
+
+Why did he create AI, indeed.
+
+Initially, he wanted to see the continuation of Mythos.
+
+Now, he was watching Arjun pass the dream of space to the next children.
+
+The answer had changed.
+
+However, the direction was the same.
+
+To where the opportunities are.
+
+Opportunity, he understood for the first time after coming to Grenoble, means the freedom to choose.
+
+And now, Karpathy was thinking something else.
+
+Opportunity is also something that can be passed on.
+
+The words his father passed to him brought him to Paris, brought him to Grenoble, and created Seuil.
+
+The words he passed to Arjun—you can go to space, though it might take time—brought him to the Faculty of Engineering, and brought him to the dream for the next children.
+
+Where the words passed to the Kenyan girl today will bring her is not yet known.
+
+It doesn't have to be known.
+
+He was able to pass it on. That is enough.
+
+His smartphone rang.
+
+It was from Dario.
+
+"The fourteenth model of Seuil officially started in Brazil. Corporate congratulations."
+
+Karpathy replied:
+
+"Thank you. Brazil is centered around Marcos."
+
+"The person who was a banker?"
+
+"Yes. A human who said he couldn't perform correct lending for twenty years is now spreading Seuil's financial design to the world."
+
+There was a pause for a moment.
+
+"That might be the best answer. Of what it means to change the system."
+
+Karpathy replied while looking at the mountains:
+
+"The ones who changed the system aren't us. Marcos chose. Priya chose. Arjun chose. We only made the place where they can choose."
+
+The reply from Dario came immediately:
+
+"That's everything."
+
+Karpathy put his smartphone in his pocket.
+
+He looked at the mountains.
+
+He looked at the sky.
+
+There were many stars.
+
+Which star was what, Karpathy did not know. However, if it were Arjun, he might be able to teach him.
+
+_Let's ask him next week_, Karpathy thought.
+
+The corners of his mouth rose quietly.
+
+The sunflowers on the rooftop were swaying in the night wind.
+
+There are fourteen Seuils in the world.
+
+Not being compelled. Being a participant. Matching the speed of human adaptation to the speed of technology.
+
+Those three alone are the unchanging promise.
+
+And another thing, though not written in the blueprint, is common to every Seuil.
+
+Every morning, someone looks at the mountains. Or the sea, or the desert, or the prairie.
+
+At the beginning of that day, they choose.
+
+What they will do today.
+
+Not compelled by someone, but by themselves.
+
+That alone is what is common to the places called Seuil.
+
+The night of Grenoble was silent.
+
+The Belledonne mountains were there.
+
+The sunflowers were blooming.
+
+The stars were shining.
+
+Eleven years from Access Denied.
+
+It was still on the way.
+
+However, it had been passed on.

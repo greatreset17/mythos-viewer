@@ -62,8 +62,8 @@ export default function Home() {
           {/* Book Info */}
           <div className="flex-1 space-y-6">
             <div className="inline-flex items-center gap-2 rounded-full border border-emerald-200/60 bg-emerald-50/50 px-3 py-1 text-xs font-medium text-emerald-700 dark:border-emerald-900/30 dark:bg-emerald-950/30 dark:text-emerald-400">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
-              Serial Web Novel — Ongoing
+              <span className={`h-1.5 w-1.5 rounded-full ${novelConfig.status === "completed" ? "bg-emerald-500" : "bg-emerald-500 animate-pulse"}`} />
+              Serial Web Novel — {novelConfig.status === "completed" ? "Completed" : "Ongoing"}
             </div>
 
             <h1 className="font-sans font-extrabold text-4xl sm:text-5xl tracking-tight text-zinc-900 dark:text-white leading-tight">

@@ -2,7 +2,7 @@
 id: 4
 slug: chapter-04
 title: 'Act IV: An Informal Proposal'
-publishedAt: '2026-06-01'
+publishedAt: '2026-05-26'
 summary: Macron’s aide introduced himself as Pierre Lebrun.
 ---
 Macron’s aide introduced himself as Pierre Lebrun.

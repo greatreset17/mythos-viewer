@@ -2,4 +2,4 @@
 :HL["/mythos-viewer/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mythos-viewer/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mythos-viewer/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"chapter","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"chapter-20","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"vhsnUPmChC3axF-HOvSlE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"chapter","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"chapter-20","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4Il5fPNc7mFgbasZVMOaz"}

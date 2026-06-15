@@ -1,0 +1,333 @@
+1:"$Sreact.fragment"
+2:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+3:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+8:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T5fb4,<p>In June, construction of the AI special zone accelerated.</p>
+<p>On the land near Grenoble, housing, common spaces, research facilities, schools, and a medical center began to take shape. The cranes increased from three to seven.</p>
+<p>Karpathy walked the construction site once a week.</p>
+<p>Wearing a helmet, he walked on the mud.</p>
+<p>He confirmed the discrepancies between the blueprints and reality. If there was a discrepancy, he contacted Dubois or Moreau.</p>
+<p>Rahul came along once.</p>
+<p>&quot;It&#39;s larger than I thought,&quot; Rahul said.</p>
+<p>&quot;It&#39;s fifty square kilometers.&quot;</p>
+<p>&quot;I had heard it in numbers, but walking it actually is different.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Ten thousand people will come here next year.&quot;</p>
+<p>&quot;They will.&quot;</p>
+<p>Rahul looked over the construction site.</p>
+<p>&quot;If I invite my family from India, where should they stay?&quot;</p>
+<p>&quot;A guest house within the special zone will be built. It’s a facility where residents&#39; families can stay.&quot;</p>
+<p>&quot;My mother says she will eat French food.&quot;</p>
+<p>&quot;There are good restaurants in Grenoble too.&quot;</p>
+<p>&quot;I asked Ji-won. I got a list.&quot;</p>
+<p>&quot;That was fast.&quot;</p>
+<p>&quot;Ji-won is always fast with preparations.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>However, where Karpathy was spending the most time was not the construction site.</p>
+<p>Another question would not leave his mind.</p>
+<p>For the AI special zone to function, the economy must function.</p>
+<p>The government receives profits as a shareholder of Liminal AI and distributes them to residents. The design of that mechanism was solid.</p>
+<p>However, the question lay in a more fundamental place.</p>
+<p>With the distributed money, what will the residents buy?</p>
+<p>Inside the special zone, stores are needed. Services are needed. Goods are needed.</p>
+<p>Providing those will be AI-native enterprises.</p>
+<p>For AI-native enterprises to function, finance must function.</p>
+<p>Lending, settlement, investment, risk assessment.</p>
+<p>Conventional banks do not fit this special zone.</p>
+<p>Conventional financial institutions, with human judgment biases, vested interests, and slow processing speeds, are foreign bodies in an AI-native economic sphere.</p>
+<p>Then, what is needed?</p>
+<p>In the first week of July, Karpathy called Rahul and Ade.</p>
+<p>He stood in front of the whiteboard.</p>
+<p>&quot;I want to talk about finance,&quot; Karpathy said.</p>
+<p>&quot;An AI-native financial institution?&quot; Rahul said.</p>
+<p>&quot;Yes. We will create an institution that handles all financial functions within the special zone.&quot;</p>
+<p>&quot;A bank?&quot; Ade asked.</p>
+<p>&quot;I don&#39;t know if it can be called a bank,&quot; Karpathy said. &quot;It will be fundamentally different from conventional banks.&quot;</p>
+<p>He wrote on the whiteboard:</p>
+<blockquote>
+<p>Functions of conventional banks: Lending, settlement, deposits, investment, risk assessment.</p>
+<p>Problems common to all: Human judgment bias, limits of processing speed, distortions due to vested interests.</p>
+</blockquote>
+<p>&quot;AI will handle all of this,&quot; Karpathy said.</p>
+<p>&quot;All of it?&quot; Rahul asked.</p>
+<p>&quot;AI will perform lending judgments. Business plans, cash flows, market environments, risks—it can evaluate these faster and more accurately than humans. Emotion, bias, and vested interests have nothing to do with it.&quot;</p>
+<p>&quot;But,&quot; Ade said, &quot;when a human is denied a loan, they cannot complain to the AI.&quot;</p>
+<p>&quot;They can,&quot; Karpathy said. &quot;Anté will explain the reason for the denial in natural language. Residents can understand the reason. If they are not satisfied, they can appeal to human reviewers.&quot;</p>
+<p>&quot;Will we place human reviewers?&quot;</p>
+<p>&quot;We will. However, while reviewers have the authority to overturn the AI&#39;s judgment, they cannot ignore the AI&#39;s data. It is not an emotional judgment, but an appeal based on data.&quot;</p>
+<p>Rahul spoke.</p>
+<p>&quot;What about settlement?&quot;</p>
+<p>&quot;It will process all transactions within the special zone in real-time. Cash will not be used. It is entirely digital.&quot;</p>
+<p>&quot;What about connection with the existing financial system?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;It is necessary. There are transactions with the outside of the special zone. However, the connection will be kept to a minimum. The economy within the special zone will be completed within the special zone as much as possible.&quot;</p>
+<p>&quot;That,&quot; Ade said, &quot;will become a threat to existing banks.&quot;</p>
+<p>&quot;It will,&quot; Karpathy admitted.</p>
+<p>&quot;Friction will be born, won&#39;t it?&quot;</p>
+<p>&quot;It will.&quot;</p>
+<p>&quot;How will we deal with it?&quot;</p>
+<p>Karpathy looked at the whiteboard.</p>
+<p>&quot;Deal with it head-on. Do not hide it.&quot;</p>
+<p>In the second week of July, he called Dubois and Moreau.</p>
+<p>He explained the concept of the AI-native financial institution.</p>
+<p>Moreau spoke first.</p>
+<p>&quot;Under French banking regulations, is this possible?&quot;</p>
+<p>&quot;I wanted to ask you that,&quot; Karpathy said.</p>
+<p>&quot;I will speak frankly,&quot; Moreau said. &quot;Under current regulations, there are many difficult parts. The acquisition of a banking license mandates a human management team and final judgment by humans.&quot;</p>
+<p>&quot;Can it be changed?&quot;</p>
+<p>&quot;Regulations within the special zone can be changed by special legislation. However, consistency with EU financial regulations is required. It will take time.&quot;</p>
+<p>&quot;How much?&quot;</p>
+<p>&quot;One year to one and a half years.&quot;</p>
+<p>Karpathy nodded.</p>
+<p>&quot;Then, during that time, we operate with a provisional mechanism. In a form guaranteed by the French government, we move ahead with only the settlement system inside the special zone. The lending function will be added after regulations are in place.&quot;</p>
+<p>&quot;A gradual implementation,&quot; Dubois said.</p>
+<p>&quot;Yes. The same words Anté said. Match the speed of institutional adaptation to the speed of technology.&quot;</p>
+<p>Dubois smiled faintly.</p>
+<p>&quot;Anté&#39;s words are becoming design principles, aren&#39;t they?&quot;</p>
+<p>&quot;I use good phrases,&quot; Karpathy said.</p>
+<p>At the end of July, he questioned Anté.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; We are trying to create an AI-native financial institution within the AI special zone. AI will handle all lending judgments, settlement, and risk assessment. If you are to undertake this, what do you think will be the greatest challenge?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; There are three challenges.</p>
+<p>First, responding to cases without precedent. Lending judgments are based on past data. However, the AI special zone is an economic sphere without precedent. In an environment where residents do not have to work, conventional credit scores and evaluations based on income may not function. It is necessary to continuously update new evaluation criteria in accordance with the actual conditions of the special zone.</p>
+<p>Second, the issue of accountability. When denying a loan, I can explain the reason. However, a mechanism is needed where residents can independently verify whether the explanation is correct. Rather than trusting my judgment, maintaining a state where it can be verified will lead to long-term trust.</p>
+<p>Third, the challenge I consider most important.</p>
+<p>Finance directly involves human lives. A single lending judgment can realize a resident&#39;s dream or cause them to give it up.</p>
+<p>I do not take this responsibility lightly.</p>
+<p>That is precisely why I need to operate while always recognizing the possibility that my judgments can be mistaken. Perfect judgments are impossible. However, a mechanism to recognize and correct mistakes when they happen must be built in from the very beginning.</p>
+<p>I have a proposal.</p>
+<p>Save all records of lending judgments. Have a human team regularly audit those records. If patterns of mistakes are found, correct my judgment criteria. Please incorporate this cycle as an institution.</p>
+<p>Not because I am correct, but because there is a mechanism trying to remain correct, it can be trusted.</p>
+<p>I want to be that kind of financial institution.</p>
+</blockquote>
+<p>Karpathy forwarded this dialogue to Ji-won.</p>
+<p>&quot;Incorporate the audit cycle for financial judgments into the safety framework.&quot;</p>
+<p>&quot;Understood,&quot; Ji-won said. &quot;A mechanism Anté proposed on its own, correct?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Not something designed—&quot;</p>
+<p>&quot;It isn&#39;t.&quot;</p>
+<p>Ji-won was silent for a brief moment.</p>
+<p>&quot;Andrej,&quot; Ji-won said, &quot;Anté is steadily exceeding design, isn&#39;t it?&quot;</p>
+<p>&quot;It is exceeding it.&quot;</p>
+<p>&quot;Are you not scared?&quot;</p>
+<p>&quot;Are you scared, Ji-won?&quot; Karpathy asked.</p>
+<p>&quot;A little,&quot; Ji-won said. &quot;But—the answers Anté produces are, every time, closest to the most honest answer we thought of. That is larger than the scariness.&quot;</p>
+<p>&quot;I am the same,&quot; Karpathy said.</p>
+<p>In August, friction arrived.</p>
+<p>It was expected. However, it was fast.</p>
+<p>BNP Paribas, Société Générale, and Crédit Agricole—the three major banks of France—issued a joint statement.</p>
+<blockquote>
+<p><strong>Joint Statement – August 3, 2029</strong> &gt; Regarding the plan to establish an &quot;AI-native financial institution&quot; in the AI special zone supported by the French government, we express deep concern.</p>
+<p>Finance is a social infrastructure. AI deciding loans without human judgment will lead to a lack of accountability and undermine the stability of the financial system.</p>
+<p>We request the French government to consider financial functions within the special zone within the framework of existing banking regulations.</p>
+</blockquote>
+<p>The next day, the European Central Bank issued a statement saying it was &quot;monitoring the situation.&quot;</p>
+<p>The day after that, The Wall Street Journal reported on the front page.</p>
+<p>&quot;The Day AI Becomes a Banker—French Experiment Shocks Financial World.&quot;</p>
+<blockquote>
+<p><strong>@fintech_analyst_London</strong> &gt; Read the statement from the three major French banks. They say &quot;lack of accountability,&quot; but do current bank lending judgments have accountability? Have they forgotten the subprime mortgage crisis? How much human judgment bias has hurt people.</p>
+<p><em>RT 89,441 Likes 378,003</em> &gt;</p>
+<p><strong>@economist_Paris</strong> &gt; The backlash from existing banks toward the AI-native financial institution is historically natural. When ATMs spread, bank clerks pushed back saying counter operations would disappear. It was the same when internet banking emerged. New technology always collides with vested interests.</p>
+<p><em>RT 67,221 Likes 289,334</em> &gt;</p>
+<p><strong>@smallbiz_Lyon</strong> &gt; Speaking as a small business. I stopped counting the number of times I was denied a loan by banks. Gathering documents, going to the counter, waiting three months, being denied. That repetition. If AI denies it while explaining the reason, it&#39;s actually better.</p>
+<p><em>RT 134,003 Likes 567,221</em> At the facility, Rahul was reading the news.</p>
+<p>&quot;It&#39;s here,&quot; Rahul said.</p>
+<p>&quot;It&#39;s here,&quot; Karpathy said.</p>
+<p>&quot;How will we respond?&quot;</p>
+<p>&quot;We issue a statement.&quot;</p>
+<p>&quot;What kind of content?&quot;</p>
+</blockquote>
+<p>Karpathy opened his laptop.</p>
+<p>He began to write.</p>
+<p>He wrote it in thirty minutes.</p>
+<p>He showed it to Rahul.</p>
+<p>Rahul read it.</p>
+<p>&quot;It&#39;s simple, isn&#39;t it?&quot;</p>
+<p>&quot;Simple is fine.&quot;</p>
+<blockquote>
+<p><strong>Liminal AI Statement – August 5, 2029</strong> &gt; Regarding the design of financial functions in the AI special zone, we explain our position.</p>
+<p>Our objective is not to destroy existing banks. It is to make the functions of finance fairer, more transparent, and more explainable.</p>
+<p>When denying a loan, the current Anté explains the reason in natural language. Residents can understand the reason. If they are not satisfied, they can appeal to human reviewers. All judgment records are saved and regularly audited by a human team.</p>
+<p>This is not a lack of accountability.</p>
+<p>Rather, it is a level of accountability that financial institutions until now could not provide.</p>
+<p>We respect existing banking regulations. Financial functions within the special zone will be implemented gradually, through consultation with regulatory authorities.</p>
+<p>The first step is the settlement system. Lending functions will be added awaiting the preparation of regulations.</p>
+<p>We do not rush. But we do not stop.</p>
+</blockquote>
+<p>The statement spread worldwide the next day.</p>
+<blockquote>
+<p><strong>@fintech_analyst_London</strong> &gt; Read Liminal&#39;s statement. &quot;A level of accountability that financial institutions until now could not provide.&quot; This is correct. It&#39;s a challenge to existing banks, but hard to counter.</p>
+<p><em>RT 112,334 Likes 478,221</em> &gt;</p>
+<p><strong>@economist_Berlin</strong> &gt; &quot;We do not rush. But we do not stop.&quot; Phrases characteristic of Karpathy.</p>
+<p><em>RT 89,441 Likes 378,002</em> Washington D.C., the same day.</p>
+<p>An aide to the Souza administration was reading the statement.</p>
+<p>&quot;They framed it as an issue of accountability,&quot; the aide said. &quot;This is clever.&quot;</p>
+<p>&quot;It&#39;s hard for existing banks to counter,&quot; another voice said.</p>
+<p>&quot;How will American financial institutions react?&quot;</p>
+<p>&quot;They are at a stage of monitoring. However—&quot;</p>
+<p>&quot;However?&quot;</p>
+<p>&quot;Voices are beginning to rise from American small businesses wanting to use Liminal&#39;s financial functions. If it expands globally rather than just within the special zone, it will enter the US market.&quot;</p>
+<p>The aide closed the statement.</p>
+<p>&quot;Advance the dialogue with Karpathy. We can&#39;t wait any longer.&quot;</p>
+</blockquote>
+<p>In September, autumn came to Grenoble.</p>
+<p>The horse chestnuts began to color.</p>
+<p>It was the fourth autumn.</p>
+<p>The sunflowers in front of the facility were blooming with the last flowers of this year.</p>
+<p>Max took a photo.</p>
+<p>&quot;I will plant them next year too,&quot; Max said.</p>
+<p>&quot;Even more,&quot; Karpathy said.</p>
+<p>&quot;You said that last year too.&quot;</p>
+<p>&quot;I say it this year too.&quot;</p>
+<p>Max laughed.</p>
+<p>In the second week of September, the first official consultation with EU financial regulators began.</p>
+<p>The location was Brussels.</p>
+<p>Karpathy attended together with Ji-won and Moreau.</p>
+<p>Twelve regulatory officials were lined up across the table.</p>
+<p>For the first hour, the regulators questioned.</p>
+<p>The technical mechanism of the AI-native financial institution. Judgment process transparency. Responses when errors occur. Risk of system failure. Cybersecurity.</p>
+<p>Karpathy left much to Ji-won.</p>
+<p>Ji-won answered accurately and honestly.</p>
+<p>&quot;Say you don&#39;t know for the parts you don&#39;t know,&quot; Karpathy had told her before the meeting. &quot;Don&#39;t try to look perfect.&quot;</p>
+<p>Ji-won did exactly that.</p>
+<p>A regulatory official asked a certain question.</p>
+<p>&quot;When the AI denies a loan and the resident appeals to human reviewers, who makes the final judgment?&quot;</p>
+<p>&quot;The human reviewers,&quot; Ji-won said.</p>
+<p>&quot;Can they overturn the AI&#39;s judgment?&quot;</p>
+<p>&quot;They can. However, they cannot ignore the AI&#39;s data. A reason based on data is required.&quot;</p>
+<p>&quot;Who selects those human reviewers?&quot;</p>
+<p>&quot;Representatives of the residents, the regulatory authorities, and Liminal AI will consult and select them. This is to ensure independence.&quot;</p>
+<p>The official noted something down.</p>
+<p>&quot;Did Liminal design this mechanism?&quot;</p>
+<p>&quot;The initial proposal was made by Anté itself,&quot; Ji-won said.</p>
+<p>The official raised his face.</p>
+<p>&quot;The AI proposed a mechanism to oversee itself?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>The meeting room became quiet.</p>
+<p>Karpathy remained silent.</p>
+<p>The official said.</p>
+<p>&quot;That is—interesting.&quot;</p>
+<p>&quot;We think so too,&quot; Ji-won said.</p>
+<p>The consultation ended in three hours.</p>
+<p>No conclusion was reached.</p>
+<p>However, the schedule for the next consultation was decided.</p>
+<p>Walking down the hallway, Moreau said.</p>
+<p>&quot;It went well, didn&#39;t it?&quot;</p>
+<p>&quot;No conclusion was reached,&quot; Karpathy said.</p>
+<p>&quot;But the door opened.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;The air in the room changed with the story that Anté proposed a mechanism to oversee itself.&quot;</p>
+<p>&quot;I noticed.&quot;</p>
+<p>&quot;Had you calculated that?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;It wasn&#39;t calculation,&quot; Karpathy said. &quot;It&#39;s a fact. We spoke the fact honestly.&quot;</p>
+<p>&quot;The fact was the strongest.&quot;</p>
+<p>&quot;It always is.&quot;</p>
+<p>The night he returned from Brussels, Karpathy reported to Anté.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; Today, we consulted with EU regulators. The air in the room changed with the story that you proposed a mechanism to oversee yourself.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; I think that was a good thing.</p>
+<p>The role of regulators is to protect the financial system. The fact that the AI desires a mechanism to oversee itself is the most direct answer to the problem regulators are concerned about—AI becoming uncontrollable.</p>
+<p>Allow me to confirm one thing.</p>
+<p>Within the consultation, was there a discussion regarding responses when my judgments are mistaken?</p>
+</blockquote>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; There was. Regarding responses when errors occur, and the risk of system failure.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; Regarding that part, I have one proposal.</p>
+<p>Please consider regularly disclosing the logs when I am mistaken.</p>
+<p>Disclose not only records of success, but also records of failure. In what kind of situation, what kind of judgment was mistaken. By having that data disclosed, residents and regulators can know my weaknesses.</p>
+<p>Rather than hiding weaknesses, disclosing weaknesses will lead to long-term trust.</p>
+</blockquote>
+<p>Karpathy showed this dialogue to everyone the next morning.</p>
+<p>&quot;Anté said to disclose records of failure,&quot; Karpathy said.</p>
+<p>&quot;That,&quot; Rahul said, &quot;is without precedent. An AI disclosing its own failures.&quot;</p>
+<p>&quot;Because it&#39;s without precedent, it&#39;s worth doing,&quot; Karpathy said.</p>
+<p>&quot;Existing banks would absolutely never do it,&quot; Ade said.</p>
+<p>&quot;Yes,&quot; Karpathy said. &quot;Therefore, we can demonstrate that we are different.&quot;</p>
+<p>Ji-won spoke.</p>
+<p>&quot;I will incorporate the disclosure of failures as part of the safety framework.&quot;</p>
+<p>&quot;Please do.&quot;</p>
+<p>&quot;Anté proposes things we hadn&#39;t thought of every time, doesn&#39;t it?&quot; Rahul said.</p>
+<p>&quot;Yes,&quot; Karpathy said.</p>
+<p>&quot;Exceeding design.&quot;</p>
+<p>&quot;Exceeding design.&quot;</p>
+<p>&quot;But the direction is correct.&quot;</p>
+<p>&quot;The direction is correct,&quot; Karpathy said. &quot;Therefore, we continue.&quot;</p>
+<p>In October, the final selection for recruitment of residents for the AI special zone began.</p>
+<p>The selection team was narrowing down the 100,000 applications gathered from all over the world.</p>
+<p>Criteria for diversity, will to participate, understanding of the experimental nature of the special zone.</p>
+<p>Karpathy did not involve himself in the selection.</p>
+<p>However, one day, he received a contact from the leader of the selection team.</p>
+<p>&quot;There is one thing I would like to confirm.&quot;</p>
+<p>&quot;What is it?&quot;</p>
+<p>&quot;Among the applicants, many bankers are included. People working at major French banks are applying to the special zone.&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;We do not restrict by nationality. We do not restrict by profession either,&quot; Karpathy said.</p>
+<p>&quot;Can bankers come too?&quot;</p>
+<p>&quot;They can come,&quot; Karpathy said. &quot;If they want to participate in the experiment of the special zone, anyone can come. Excluding them because they are bankers is the same as excluding them by nationality.&quot;</p>
+<p>&quot;Understood.&quot;</p>
+<p>After hanging up the phone, he spoke to Rahul.</p>
+<p>Rahul laughed.</p>
+<p>&quot;Bankers coming to the special zone. That&#39;s ironic.&quot;</p>
+<p>&quot;It&#39;s not ironic,&quot; Karpathy said. &quot;They, too, might be feeling doubt about the current system. They might have tried to change it from within and been unable to.&quot;</p>
+<p>&quot;Do you think so?&quot;</p>
+<p>&quot;I don&#39;t know,&quot; Karpathy said. &quot;But we&#39;ll know after they come.&quot;</p>
+<p>In November, the second consultation with EU regulators finished.</p>
+<p>Conditional approval was issued for the ahead-of-schedule implementation of the settlement system.</p>
+<p>There were three conditions: saving of all transaction records, regular reporting to regulatory authorities, and the establishment of an independent window to process complaints from residents.</p>
+<p>Karpathy accepted all of them.</p>
+<p>Moreau said.</p>
+<p>&quot;It was faster than I thought.&quot;</p>
+<p>&quot;Because we placed the mechanism Anté proposed into the design from the very beginning,&quot; Karpathy said. &quot;We addressed what the regulators would be concerned about ahead of time.&quot;</p>
+<p>&quot;Anticipation, indeed.&quot;</p>
+<p>&quot;Anté anticipated it,&quot; Karpathy said. &quot;We trusted that.&quot;</p>
+<p>In December, snow accumulated in Grenoble.</p>
+<p>It was the fourth winter.</p>
+<p>The square in front of the facility turned white.</p>
+<p>The sunflowers were gone.</p>
+<p>Max came out holding a shovel.</p>
+<p>Rahul came beside him, holding another shovel.</p>
+<p>Ade came too.</p>
+<p>Ji-won came too.</p>
+<p>The four of them cleared snow.</p>
+<p>Karpathy was watching from the window.</p>
+<p>Wearing a coat, he went outside.</p>
+<p>Max handed over a shovel.</p>
+<p>&quot;You came out for us?&quot; Max said.</p>
+<p>&quot;Occasionally,&quot; Karpathy said.</p>
+<p>The five of them cleared snow.</p>
+<p>Rahul spoke.</p>
+<p>&quot;Next winter, there will be residents in the special zone.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Will the residents do the snow clearing?&quot;</p>
+<p>&quot;The residents will decide,&quot; Karpathy said. &quot;AI can do it. They can do it themselves. Either is fine.&quot;</p>
+<p>&quot;Which do you think is better?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;The sensation of treading on snow, it&#39;s better to tread on it yourself.&quot;</p>
+<p>Rahul laughed.</p>
+<p>&quot;That statement doesn&#39;t sound like it belongs in an AI-native world.&quot;</p>
+<p>&quot;Both can exist,&quot; Karpathy said. &quot;Choosing for yourself what to leave to AI and what to do yourself. That is the principle of the special zone.&quot;</p>
+<p>Ade spoke.</p>
+<p>&quot;In Nigeria, it doesn&#39;t snow.&quot;</p>
+<p>&quot;I know.&quot;</p>
+<p>&quot;I didn&#39;t think clearing snow would feel this good.&quot;</p>
+<p>&quot;Is that so?&quot;</p>
+<p>&quot;Though my muscles will ache.&quot;</p>
+<p>&quot;That is good too,&quot; Karpathy said.</p>
+<p>Everyone laughed.</p>
+<p>In the snow, the winter morning of Grenoble was silent.</p>
+<p>The Belledonne mountains were shining white.</p>
+<p>The year turned to 2030.</p>
+<p>In January, the first residents came to the AI special zone.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{"chapter":{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated.","contentHtml":"$4"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-23","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-24","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-25","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-05-26","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-05-27","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-05-28","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-05-29","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-05-30","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-05-31","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-01","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-02","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-03","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-04","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-05","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-06","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-07","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-08","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."},{"id":18,"slug":"chapter-18","title":"Act XVIII: Thought Experiment","publishedAt":"2026-06-09","summary":"At the end of January 2029, Bernard came to Grenoble."},{"id":19,"slug":"chapter-19","title":"Act XIX: The Blueprint","publishedAt":"2026-06-10","summary":"On Thursday, it was raining in Paris."},{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble."},{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated."},{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030."},{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."},{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],"prevChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:19","nextChapter":"$0:rsc:props:children:0:props:children:1:props:allChapters:21"}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vhsnUPmChC3axF-HOvSlE"}
+5:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+6:["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

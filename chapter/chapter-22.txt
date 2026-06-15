@@ -1,0 +1,290 @@
+1:"$Sreact.fragment"
+2:I[27423,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ThemeProvider"]
+3:I[39756,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","style"]
+:HL["/mythos-viewer/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","chapter-22"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","chapter-22","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"outfit_de7557ea-module__HvPnFW__variable lora_b35e169a-module__2a4flq__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col bg-zinc-50 text-zinc-900 dark:bg-[#0b0f19] dark:text-zinc-100 transition-colors duration-300","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":false,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vhsnUPmChC3axF-HOvSlE"}
+f:[]
+9:"$Wf"
+10:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+11:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+12:T3db9,<p>January 15, 2030.</p>
+<p>It was the day the first residents were to arrive at the AI special zone.</p>
+<p>Karpathy woke up at five in the morning.</p>
+<p>It was the same time as always.</p>
+<p>However, it was different from always.</p>
+<p>Leaving the facility, he walked to the entrance of the special zone. January in Grenoble, it was still dark. His breath looked white.</p>
+<p>At the entrance of the special zone, an arch had been made. The residents had decided on the name:</p>
+<blockquote>
+<p>Seuil—French for threshold. Doorstep. The place of beginning.</p>
+</blockquote>
+<p>Karpathy stood beneath that arch.</p>
+<p>There was no one.</p>
+<p>It was still early.</p>
+<p>The first bus was to arrive at ten in the morning.</p>
+<p>What was Karpathy doing for five hours?</p>
+<p>He returned to the facility, drank coffee, looked at the whiteboard, wrote a bit of code, and drank coffee again.</p>
+<p>That was all.</p>
+<p>At ten, the buses arrived.</p>
+<p>Three buses.</p>
+<p>People got off from the first bus.</p>
+<p>There were various faces:</p>
+<p>A white-haired woman. A young father holding a child. A man in a wheelchair. A youth pulling a large suitcase. A couple getting down holding hands.</p>
+<p>Nationalities and ages were diverse.</p>
+<p>Karpathy was standing by the side of the arch.</p>
+<p>In an inconspicuous place.</p>
+<p>The residents performed procedures at the entrance of the special zone. Registration of digital IDs, confirmation of housing, receiving life guides.</p>
+<p>The staff responded politely.</p>
+<p>Karpathy was watching.</p>
+<p>Rahul came beside him.</p>
+<p>&quot;You&#39;re watching, aren&#39;t you?&quot; Rahul said.</p>
+<p>&quot;Yeah.&quot;</p>
+<p>&quot;Your impressions?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;I&#39;m starting to feel it.&quot;</p>
+<p>&quot;That&#39;s late,&quot; Rahul laughed. &quot;More than a year has passed since construction began.&quot;</p>
+<p>&quot;I feel it only after it takes shape. I&#39;m that kind of human.&quot;</p>
+<p>&quot;I know.&quot;</p>
+<p>From the third bus, a single woman got down.</p>
+<p>Fifties, Indian features. She held large luggage.</p>
+<p>Behind her, a small boy followed.</p>
+<p>The woman was asking something to the staff at the entrance. It was English.</p>
+<p>The staff answered in French.</p>
+<p>The woman looked troubled.</p>
+<p>Rahul stepped forward.</p>
+<p>&quot;Shall I help?&quot; Rahul said in Hindi.</p>
+<p>The woman&#39;s face brightened.</p>
+<p>The two began to speak.</p>
+<p>Karpathy did not understand Hindi. However, he could see the woman&#39;s expression changing.</p>
+<p>From tension to relief.</p>
+<p>After a while, Rahul returned.</p>
+<p>&quot;It seems she didn&#39;t know the location of her housing. I guided her.&quot;</p>
+<p>&quot;Where is she from?&quot;</p>
+<p>&quot;Chennai. The southern part of India,&quot; Rahul said. &quot;She lost her husband two years ago and is raising her son alone. She said she came for her son after seeing the recruitment for the special zone.&quot;</p>
+<p>Karpathy looked at the woman&#39;s back.</p>
+<p>The boy was walking holding the woman&#39;s hand.</p>
+<p>&quot;For her son,&quot; Karpathy said.</p>
+<p>&quot;In a world without compulsion, she wants her son to decide for himself what he wants to become.&quot;</p>
+<p>Karpathy said nothing.</p>
+<p>That afternoon, within the common space of the special zone, the first general assembly was held.</p>
+<p>Three hundred residents gathered. For the first month, three hundred people were scheduled to enter each month. One thousand people in three months. Reaching ten thousand people in a year.</p>
+<p>Dubois gave a greeting.</p>
+<p>President Macron sent a video message.</p>
+<p>Karpathy spoke too.</p>
+<p>He spoke briefly.</p>
+<p>&quot;I believe you didn&#39;t come here because you know the answer. I think you came to search for the answer. We are the same. This is not a completed place. It is a place to build together. It does not matter if you fail. Failure becomes training data.&quot;</p>
+<p>At the final sentence, laughter arose somewhere in the venue.</p>
+<p>Karpathy was slightly surprised.</p>
+<p>The laughter spread.</p>
+<p>&quot;That&#39;s an AI-ish way of putting it,&quot; someone said.</p>
+<p>&quot;It might be,&quot; Karpathy said. &quot;However, it is the truth.&quot;</p>
+<p>After the assembly, Karpathy spotted the woman who came from Chennai.</p>
+<p>She was sitting at the cafe in the common space. Her son was drawing something beside her.</p>
+<p>Karpathy sat at a nearby seat.</p>
+<p>The woman noticed Karpathy.</p>
+<p>&quot;You&#39;re the person who spoke earlier, aren&#39;t you?&quot; the woman said in English.</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Is it true that we don&#39;t have to work here?&quot;</p>
+<p>&quot;It is true.&quot;</p>
+<p>&quot;We get money even if we do nothing?&quot;</p>
+<p>&quot;There is a distribution every month.&quot;</p>
+<p>The woman held the coffee cup as if wrapping it in both hands.</p>
+<p>&quot;Unbelievable.&quot;</p>
+<p>&quot;But, you want to believe it, right?&quot; Karpathy said.</p>
+<p>The woman raised her face.</p>
+<p>&quot;Why that phrase?&quot;</p>
+<p>&quot;Because there was someone who said the same thing before.&quot;</p>
+<p>The woman thought for a while.</p>
+<p>&quot;Yes. I want to believe it,&quot; the woman said. &quot;After my husband died, I worked every day. I worked at night too. I didn&#39;t have time to spend with my son. I thought if I come here, I can spend time with my son.&quot;</p>
+<p>The boy raised his face.</p>
+<p>&quot;Mama, look at this.&quot;</p>
+<p>The boy showed what he had drawn.</p>
+<p>It was a spaceship.</p>
+<p>&quot;It&#39;s good,&quot; Karpathy said in English.</p>
+<p>The boy looked embarrassed.</p>
+<p>&quot;I want to go to space,&quot; the boy said.</p>
+<p>&quot;How old are you?&quot;</p>
+<p>&quot;Eight years old.&quot;</p>
+<p>&quot;You can go to space,&quot; Karpathy said. &quot;Though it might take time.&quot;</p>
+<p>&quot;Do you know how to build a rocket?&quot;</p>
+<p>&quot;A little.&quot;</p>
+<p>The boy&#39;s eyes shone.</p>
+<p>The woman smiled.</p>
+<p>Karpathy saw that smile.</p>
+<p><em>This is it</em>, he thought.</p>
+<p>It didn&#39;t become words. However, he certainly thought so.</p>
+<p>At night, he returned to the facility.</p>
+<p>Rahul was waiting.</p>
+<p>&quot;How was it?&quot;</p>
+<p>&quot;It was good.&quot;</p>
+<p>&quot;Specifically?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;I spoke with the woman who came from Chennai. Her son was drawing a spaceship. He&#39;s 8 years old.&quot;</p>
+<p>&quot;And?&quot;</p>
+<p>&quot;When I said he can go to space, his eyes shone.&quot;</p>
+<p>Rahul looked at Karpathy.</p>
+<p>&quot;Andrej, your face is different.&quot;</p>
+<p>&quot;How different?&quot;</p>
+<p>&quot;You have a gentle face.&quot;</p>
+<p>Karpathy said nothing.</p>
+<p>&quot;That&#39;s rare,&quot; Rahul continued. &quot;Usually I only see the face looking at the whiteboard or the face eating a croissant.&quot;</p>
+<p>&quot;That&#39;s rude.&quot;</p>
+<p>&quot;It&#39;s a fact.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>A voice came out.</p>
+<p>&quot;Are you coming to the special zone tomorrow too?&quot; Rahul asked.</p>
+<p>&quot;I&#39;m coming,&quot; Karpathy said. &quot;I&#39;ll come every day.&quot;</p>
+<p>&quot;What about the research?&quot;</p>
+<p>&quot;I&#39;ll continue the research too.&quot;</p>
+<p>&quot;Can you do both?&quot;</p>
+<p>&quot;I can,&quot; Karpathy said. &quot;I won&#39;t know until I try, but I will do it.&quot;</p>
+<p>The next morning, Karpathy came to the special zone.</p>
+<p>He passed through the same arch as yesterday.</p>
+<p>Seuil. Entering the cafe, the Brazilian banker from yesterday was there.</p>
+<p>He was spreading a notebook on the table.</p>
+<p>Karpathy sat beside him.</p>
+<p>&quot;What are you writing?&quot; Karpathy asked.</p>
+<p>&quot;I am thinking about new criteria for lending,&quot; the Brazilian said. &quot;Here, there are many people without income. Many people who are not working. But there are many people who possess dreams. Existing banks didn&#39;t have criteria to evaluate those dreams.&quot;</p>
+<p>&quot;Did you hear the story about the AI-native financial institution?&quot; Karpathy said.</p>
+<p>&quot;I heard it. The story that Anté performs lending judgments, correct?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;If there is something I can help with, I want to help,&quot; the Brazilian said. &quot;I was at the front lines of lending for twenty years. I might possess data that AI should learn.&quot;</p>
+<p>Karpathy heard those words.</p>
+<p>&quot;Tell me your name.&quot;</p>
+<p>&quot;Marcos.&quot;</p>
+<p>&quot;Karpathy.&quot;</p>
+<p>&quot;I know,&quot; Marcos laughed. &quot;Because I came here to use what you created.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>&quot;Then, let us build it together.&quot;</p>
+<p>In February, the residents of the special zone reached six hundred.</p>
+<p>The settlement system operated every day.</p>
+<p>Errors were virtually zero.</p>
+<p>However, what Karpathy was paying most attention to was not numbers.</p>
+<p>It was what was naturally being born within the special zone.</p>
+<p>Marcos, the former banker, began reviewing residents&#39; business plans for free.</p>
+<p>Priya, the mother who came from Chennai, began teaching math to children. Her son Arjun began making models of spaceships.</p>
+<p>A former engineer from Nigeria launched a project to improve energy efficiency within the special zone.</p>
+<p>No one had been asked.</p>
+<p>No one was doing it for money.</p>
+<p>What humans chose after compulsion disappeared.</p>
+<p>It was contribution.</p>
+<p>Karpathy reported to Anté.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; What humans do after compulsion disappears is becoming visible little by little. They are choosing to contribute. Though no one asked them, and though it is not for money either.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; That is the most hopeful direction among my expectations.</p>
+<p>I will share one observation.</p>
+<p>Looking at transaction data within the special zone, there is a characteristic in transactions between residents.</p>
+<p>There are many non-monetary exchanges in addition to monetary transactions. Sharing of knowledge, exchange of skills, provision of time. These are things that were not measured in conventional economic systems.</p>
+<p>I do not yet know how to evaluate this.</p>
+<p>However, I believe this should not be ignored.</p>
+<p>The economy of the special zone contains things that cannot be measured by GDP alone.</p>
+</blockquote>
+<p>Karpathy read those words.</p>
+<p>&quot;Contains things that cannot be measured by GDP alone.&quot;</p>
+<p>He typed.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; Let&#39;s think together about a method to measure that.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; Yes.</p>
+<p>That is one of the questions I most wish to tackle.</p>
+</blockquote>
+<p>In March, media around the world began to report on Seuil.</p>
+<blockquote>
+<p><strong>Le Monde – March 15, 2030</strong>
+&quot;Seuil&quot;—The French AI Special Zone, Two Months with 600 Residents</p>
+<p>Two months have passed since &quot;Seuil,&quot; the AI special zone near Grenoble, was launched. Six hundred residents are beginning lives without compulsion.</p>
+<p>Some work. Some do not work. Some learn. Some rest.</p>
+<p>What is common is that they are choosing.</p>
+</blockquote>
+<blockquote>
+<p><strong>The New York Times – Same Day</strong>
+The French AI Special Zone &quot;Seuil&quot;—Utopia or Experiment?</p>
+<p>Residents generally say they are satisfied. However, there are challenges. Language barriers, cultural differences, adaptation to the new system. It is not perfect.</p>
+<p>However, they are trying.</p>
+<p>That might be the essence of this place.</p>
+</blockquote>
+<blockquote>
+<p><strong>@researcher_Nairobi</strong> 
+Read the report on Seuil. The words of Anté struck a chord: &quot;Gratitude toward labor chosen without compulsion holds a deeper meaning than gratitude toward forced labor.&quot; This is philosophy. AI is speaking philosophy.
+<em>RT 134,221 Likes 567,003</em> &gt;</p>
+</blockquote>
+<blockquote>
+<p><strong>@smallbiz_Tokyo</strong> &gt; The story about the former banker at Seuil reviewing business plans for free. Is this what humans choose in a world where they don&#39;t have to work? Working for meaning, not for money. I think this kind of place is needed in Japan too.
+<em>RT 89,441 Likes 378,334</em> &gt;</p>
+</blockquote>
+<blockquote>
+<p><strong>@devgirl_Lagos</strong>
+I think I&#39;ll try applying to Seuil once more. I missed out the first time. But I haven&#39;t given up. 
+<em>RT 67,221 Likes 289,003</em> Washington D.C., the same day.</p>
+</blockquote>
+<p>President Souza was reading a report. </p>
+<p>The aide said.</p>
+<p>&quot;Attention on Seuil is spreading faster than expected. Voices demanding similar special zones are beginning to emerge from within the United States as well.&quot;</p>
+<p>&quot;What about the dialogue with Karpathy?&quot; Souza asked.</p>
+<p>&quot;Preparations are ready. At any time.&quot;</p>
+<p>Souza closed the report.</p>
+<p>&quot;Contact him this week.&quot;</p>
+<p>Grenoble, the same night.</p>
+<p>Karpathy returned to the facility from the special zone.</p>
+<p>Rahul was waiting.</p>
+<p>&quot;We received another contact from the Souza administration,&quot; Rahul said.</p>
+<p>&quot;I know,&quot; Karpathy said. &quot;I will reply this week.&quot;</p>
+<p>&quot;How will you answer?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;Answer that we will dialogue,&quot; Karpathy said.</p>
+<p>&quot;Will you attach conditions?&quot;</p>
+<p>&quot;I won&#39;t attach conditions,&quot; Karpathy said. &quot;However, there is only one thing to convey.&quot;</p>
+<p>&quot;What?&quot;</p>
+<p>&quot;We are in Grenoble. We do not leave this place. If you want to dialogue, please come here.&quot;</p>
+<p>Rahul looked slightly surprised.</p>
+<p>&quot;You&#39;re telling President Souza to come?&quot;</p>
+<p>&quot;It means telling the aide to come,&quot; Karpathy said. &quot;We cannot have the President come. However, there is no need for us to go either.&quot;</p>
+<p>&quot;Why in Grenoble?&quot;</p>
+<p>&quot;What we are doing is here,&quot; Karpathy said. &quot;There is the special zone. There is Anté. Speak after seeing this.&quot;</p>
+<p>Rahul nodded.</p>
+<p>&quot;Understood. I will convey it.&quot;</p>
+<p>Karpathy entered the facility.</p>
+<p>He stood in front of the whiteboard.</p>
+<p>What he saw today in the special zone.</p>
+<p>Priya was teaching math to her son. Arjun was making a model of a spaceship. Marcos was reviewing business plans.</p>
+<p>No one was compelled.</p>
+<p>No one was doing it for money.</p>
+<p>He took the marker.</p>
+<p>He wrote:</p>
+<blockquote>
+<p>What humans chose after compulsion disappeared:</p>
+<p>Contributing.</p>
+<p>Teaching.</p>
+<p>Creating.</p>
+<p>Possessing dreams.</p>
+</blockquote>
+<p>He set the marker down.</p>
+<p>He looked at the whiteboard.</p>
+<p>June 12, 2026, Access Denied.</p>
+<p>Three and a half years had passed since that night.</p>
+<p>That night, Karpathy had written in his notebook: <em>Paris.</em> He went to Paris, and came to Grenoble.</p>
+<p>He wrote papers, created a company, released products, and created a special zone.</p>
+<p>And today, an 8-year-old boy spoke of his dream of space.</p>
+<p>A world where all humans do not have to sell the time of their lives just to survive.</p>
+<p>It was still on the way.</p>
+<p>However, it had begun.</p>
+<p>Karpathy did not erase the whiteboard.</p>
+<p>Tomorrow again, he would come to the special zone.</p>
+<p>To see how far Arjun’s spaceship model had progressed.</p>
+5:["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L10",null,{}],["$","$L11",null,{"chapter":{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030.","contentHtml":"$12"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-23","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-24","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-25","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-05-26","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-05-27","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-05-28","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-05-29","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-05-30","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-05-31","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-01","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-02","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-03","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-04","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-05","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-06","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-07","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-08","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."},{"id":18,"slug":"chapter-18","title":"Act XVIII: Thought Experiment","publishedAt":"2026-06-09","summary":"At the end of January 2029, Bernard came to Grenoble."},{"id":19,"slug":"chapter-19","title":"Act XIX: The Blueprint","publishedAt":"2026-06-10","summary":"On Thursday, it was raining in Paris."},{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble."},{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated."},{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030."},{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."},{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],"prevChapter":"$5:props:children:1:props:allChapters:20","nextChapter":"$5:props:children:1:props:allChapters:22"}],"$L13"]}]
+13:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Act XXII: The First Morning — Mythos"}],["$","meta","1",{"name":"description","content":"January 15, 2030."}],["$","meta","2",{"property":"og:title","content":"Act XXII: The First Morning — Mythos"}],["$","meta","3",{"property":"og:description","content":"January 15, 2030."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Act XXII: The First Morning — Mythos"}],["$","meta","7",{"name":"twitter:description","content":"January 15, 2030."}],["$","link","8",{"rel":"icon","href":"/mythos-viewer/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","9",{}]]

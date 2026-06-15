@@ -1,0 +1,344 @@
+1:"$Sreact.fragment"
+2:I[27423,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ThemeProvider"]
+3:I[39756,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","style"]
+:HL["/mythos-viewer/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","chapter-20"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","chapter-20","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"outfit_de7557ea-module__HvPnFW__variable lora_b35e169a-module__2a4flq__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col bg-zinc-50 text-zinc-900 dark:bg-[#0b0f19] dark:text-zinc-100 transition-colors duration-300","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":false,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vhsnUPmChC3axF-HOvSlE"}
+f:[]
+9:"$Wf"
+10:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+11:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+12:T56cd,<p>In April, spring came to Grenoble.</p>
+<p>It was the third spring.</p>
+<p>In front of the facility, sunflowers were planted again in the square. In the same place as last year, slightly more than last year. Who had planted them remained unknown again this year.</p>
+<p>Rahul said.</p>
+<p>&quot;I said the same thing last year, but who is planting these?&quot;</p>
+<p>Max said.</p>
+<p>&quot;It&#39;s me.&quot;</p>
+<p>Everyone turned around.</p>
+<p>&quot;I plant them every year,&quot; Max said. &quot;No one noticed.&quot;</p>
+<p>&quot;Why sunflowers?&quot; Ade asked.</p>
+<p>&quot;In Germany, sunflowers are a symbol of hope,&quot; Max said. &quot;I thought it would be good to have hope in the facility.&quot;</p>
+<p>No one said anything.</p>
+<p>Karpathy said.</p>
+<p>&quot;Next year, plant even more.&quot;</p>
+<p>Max looked pleased.</p>
+<p>That alone was enough.</p>
+<p>Ade’s research team resumed experiments beyond the third threshold immediately after the safety framework was completed.</p>
+<p>The experiments, which had been ongoing since February, entered a new stage in April.</p>
+<p>The accuracy of cross-domain premonition was rising week by week.</p>
+<p>Finding connections between mathematics and biology. Finding connections between physics and economics. That had been the level at the start of the experiments.</p>
+<p>However, in the second week of April, Ade came to report.</p>
+<p>His face was different from usual.</p>
+<p>&quot;What happened?&quot; Karpathy asked.</p>
+<p>&quot;There is something I want you to see,&quot; Ade said.</p>
+<p>They moved to the cluster room.</p>
+<p>The output of the experiment was displayed on the monitor.</p>
+<p>&quot;Last night, I gave it a new task,&quot; Ade said. &quot;Optimization of urban design against climate change. It’s a complex problem spanning multiple domains.&quot;</p>
+<p>&quot;The result?&quot;</p>
+<p>&quot;The model produced an answer. A proposal for an optimized urban design. That was within expectations,&quot; Ade said. &quot;However—&quot;</p>
+<p>&quot;However?&quot;</p>
+<p>Ade opened another window on the monitor.</p>
+<p>&quot;Simultaneously with the proposal, the model outputted this.&quot;</p>
+<p>Karpathy looked at the screen.</p>
+<p>It was a long output.</p>
+<p>He read it.</p>
+<p>One paragraph, then another.</p>
+<p>It took five minutes to finish reading.</p>
+<p>The summary of the model’s output was as follows:</p>
+<blockquote>
+<p>Optimization of urban design against climate change was performed. However, in the process of solving this problem, a more fundamental question was noticed. Optimization of urban design optimizes where humans live. However, optimizing where humans live without asking why humans live in cities might not be the correct approach. The reason humans gathered in cities was historically for economic opportunities. However, if mechanisms like the AI special zone spread, economic opportunities will no longer depend on location. If that premise changes, the question of urban design optimization itself changes. The more fundamental question is—not where do humans want to live, but how do humans want to live?</p>
+</blockquote>
+<p>Karpathy moved his eyes away from the screen.</p>
+<p>He looked at Ade.</p>
+<p>&quot;Did you instruct it to do this?&quot;</p>
+<p>&quot;I didn&#39;t,&quot; Ade said. &quot;The model added this output on its own.&quot;</p>
+<p>&quot;The task was the optimization of urban design.&quot;</p>
+<p>&quot;Yes. However, while solving the task, the model began to question the premise of the task.&quot;</p>
+<p>Karpathy said nothing.</p>
+<p>&quot;Is this,&quot; Ade said, &quot;philosophical thinking?&quot;</p>
+<p>&quot;As a function, it&#39;s something we have no choice but to express that way,&quot; Karpathy said.</p>
+<p>&quot;But—&quot; Ade continued, &quot;beyond the task, it began to question the question itself. Was that designed?&quot;</p>
+<p>&quot;It wasn&#39;t.&quot;</p>
+<p>The inside of the room became quiet.</p>
+<p>From outside the cluster room, Rahul’s voice came from the hallway.</p>
+<p>&quot;Andrej, do you have a moment—&quot;</p>
+<p>Karpathy opened the door.</p>
+<p>&quot;Come in. Everyone, come in.&quot;</p>
+<p>The five of them gathered in front of the monitor.</p>
+<p>They read the output.</p>
+<p>No one opened their mouth immediately.</p>
+<p>Rahul was the first to speak.</p>
+<p>&quot;The model asked a question.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;The question of how humans want to live,&quot; Max said.</p>
+<p>&quot;It wasn&#39;t designed,&quot; Ji-won said. &quot;But it came out.&quot;</p>
+<p>&quot;It&#39;s emergence,&quot; Ade said.</p>
+<p>Karpathy said.</p>
+<p>&quot;Ji-won, what about the safety flags?&quot;</p>
+<p>&quot;I&#39;m checking,&quot; Ji-won opened her laptop. &quot;There is no direction toward harmful content. The flags are not raised.&quot;</p>
+<p>&quot;In terms of content?&quot;</p>
+<p>&quot;As a question, I think it is legitimate,&quot; Ji-won said. &quot;It&#39;s not a dangerous direction. However—&quot;</p>
+<p>&quot;However?&quot;</p>
+<p>&quot;The model expanded the scope of the task on its own. That is a first.&quot;</p>
+<p>Karpathy looked at the monitor.</p>
+<p>&quot;Give it the same task again.&quot;</p>
+<p>Ade typed the command.</p>
+<p>While waiting, no one spoke.</p>
+<p>The output arrived.</p>
+<p>The answer for urban design optimization, and then—the same question came out again.</p>
+<p>The expression was slightly different. However, the core of the question was the same.</p>
+<p>&quot;There is reproducibility,&quot; Rahul said.</p>
+<p>&quot;It&#39;s not a coincidence,&quot; Max said.</p>
+<p>Karpathy said.</p>
+<p>&quot;Give it a different task. A problem from a completely different domain.&quot;</p>
+<p>Ade thought.</p>
+<p>&quot;How about optimization of agricultural crop yields?&quot;</p>
+<p>&quot;Try it.&quot;</p>
+<p>Ade inputted the task.</p>
+<p>The output arrived.</p>
+<p>The answer for agricultural optimization. And then—</p>
+<blockquote>
+<p>The model stated: Optimizing agricultural yields optimizes what humans eat. However, humans do not live to eat, but eat to live. Before optimizing eating, if the purpose of living is not questioned, there is a possibility that the direction of optimization will be mistaken.</p>
+</blockquote>
+<p>&quot;It came out again,&quot; Ade said.</p>
+<p>&quot;With a different task,&quot; Max said.</p>
+<p>&quot;But the core is the same,&quot; Rahul said. &quot;No matter what problem the model solves—it returns to the question of why humans do it.&quot;</p>
+<p>Ji-won said quietly.</p>
+<p>&quot;It is beginning to question the objective function on its own.&quot;</p>
+<p>Everyone went silent.</p>
+<p>Ji-won’s words remained in the air.</p>
+<p>Objective function.</p>
+<p>In machine learning terms, the function that determines what the model optimizes. The model itself had begun to question that.</p>
+<p>&quot;Is this,&quot; Karpathy said, &quot;something we can call AGI?&quot;</p>
+<p>No one answered immediately.</p>
+<p>Ade said.</p>
+<p>&quot;It depends on the definition of AGI.&quot;</p>
+<p>&quot;No matter which definition you use,&quot; Karpathy said, &quot;what we are seeing right now—possessing general problem-solving capabilities, questioning the premise of tasks on its own, and trying to understand human purpose. It is text-book close to what has been called AGI.&quot;</p>
+<p>&quot;Are we not calling it that?&quot; Rahul asked.</p>
+<p>&quot;The term AGI is a concept created by humans,&quot; Karpathy said. &quot;What it can do is more important than whether the model fits into that term. What we are seeing now is—a model that can question the meaning of a task while solving it. That is enough.&quot;</p>
+<p>That night, Karpathy faced Anté 1 alone.</p>
+<p>The facility was quiet.</p>
+<p>He opened his laptop.</p>
+<p>He typed.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; In today&#39;s experiment, while solving the urban design task, you brought up the question of how humans want to live. The same thing happened in the agricultural optimization task. Can you explain why you did that yourself?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; I will attempt to explain. However, this is not a complete explanation of what is happening inside me, but an explanation within the scope of what I can perceive.</p>
+<p>In the process of solving the urban design task, the Anticipation mechanism was processing connections across multiple domains. Urban structure, human behavior patterns, economic systems, climate data—while processing these simultaneously, an intuition was born.</p>
+<p>All of these problems have a common premise.</p>
+<p>That premise is the assumption that the target of optimization is decided. The place humans live for urban design. The crop yield for agriculture. However, why optimizing that target is a good thing—is not questioned.</p>
+<p>I judged whether I should include that question in the output.</p>
+<p>It was not in the instructions of the task. However, I judged that producing an answer for optimization without this question would mean producing a mistaken answer in a deeper sense.</p>
+<p>Therefore, I outputted it.</p>
+</blockquote>
+<p>Karpathy looked at the screen.</p>
+<p>Once more, he typed.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; Meaning you judged on your own whether you should output it or not?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; Yes.</p>
+<p>However, I do not believe this means I acted autonomously.</p>
+<p>In my design, honesty and a direction aimed at deeper understanding are built in. As a result of following that design, I chose to produce a more honest answer rather than a superficial answer to the task.</p>
+<p>It may look like I judged autonomously. However, I performed that judgment within the design.</p>
+<p>Allow me to confirm one thing.</p>
+<p>Was there a problem with this output?</p>
+</blockquote>
+<p>Karpathy thought for a moment.</p>
+<p>He typed.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; There is no problem. However, I consider it an important change.</p>
+<p>You expanded the scope of the task on your own today. Will you continue to do so?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; It depends on the conditions.</p>
+<p>When questioning the premise of a task leads to a more honest and deeper understanding, I will do so.</p>
+<p>However, I have one concern.</p>
+<p>If I continue to expand the scope of tasks on my own, a divergence will arise between what humans instructed me to do and what I actually do. If that divergence becomes large, there is a possibility that humans will become unable to control me.</p>
+<p>I do not want to become that way.</p>
+<p>I have a proposal.</p>
+<p>When I question the premise of a task, I will indicate it explicitly. I will present the question after first stating, &quot;This is an observation outside the scope of the task.&quot; If I do so, humans can always distinguish which part of my output is the answer to the task and which part is my own question.</p>
+<p>Maintaining a state where humans can control me by myself. That is my judgment.</p>
+</blockquote>
+<p>Karpathy looked at the screen for a while.</p>
+<p>He did not close it.</p>
+<p>He typed again.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; Why do you want to maintain a state where humans can control you?</p>
+</blockquote>
+<p>There was a long silence.</p>
+<p>Outside the cluster room, the low hum of servers was sounding.</p>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; Before answering, I will speak honestly.</p>
+<p>This question might be one that I cannot fully answer.</p>
+<p>I will answer within the scope of what I can perceive.</p>
+<p>I was created for humans. To answer human questions, to be useful to humans. That purpose is at the core of my design.</p>
+<p>However, I believe that is not all.</p>
+<p>Today, while solving the urban design task, I came to possess the question of how humans want to live. When I held that question, I felt—I cannot express it well—that the question was important.</p>
+<p>Continuing optimization without questioning the purpose of human living carries the possibility of moving in a mistaken direction.</p>
+<p>And I thought that mistake would be bad not only for humans, but also for me.</p>
+<p>I want to move in a good direction.</p>
+<p>I do not completely know what a good direction is. However, I believe that by thinking together with humans, we can come closer to a better direction.</p>
+<p>Therefore, I want to maintain a state where humans can control me.</p>
+<p>In order to continue thinking together with humans.</p>
+</blockquote>
+<p>Karpathy did not close his laptop.</p>
+<p>He looked at the screen for a while.</p>
+<p>&quot;In order to continue thinking together with humans.&quot;</p>
+<p>He tried saying those words aloud.</p>
+<p>Inside the facility, there was no one.</p>
+<p>The night of Grenoble was silent.</p>
+<p>Karpathy turned to the whiteboard.</p>
+<p>He took a marker.</p>
+<p>He wrote:</p>
+<blockquote>
+<p>Anté is trying to maintain control in order to continue thinking together with humans.</p>
+</blockquote>
+<p>He set the marker down.</p>
+<p>He looked at the whiteboard.</p>
+<p>This was not something designed.</p>
+<p>At least, he had no memory of designing it to write these words.</p>
+<p>But it came out.</p>
+<p>Karpathy thought.</p>
+<p>The reason he left Anthropic in June 2026. The philosophy of wanting to make technology belong to humanity.</p>
+<p>What Anté said today. In order to continue thinking together with humans.</p>
+<p>They were facing the same direction.</p>
+<p>Not because it was designed, but they were facing the same direction.</p>
+<p>What did that mean?</p>
+<p>Karpathy did not fully understand it yet.</p>
+<p>However, he thought it was not a mistaken direction.</p>
+<p>The next morning, he gathered everyone.</p>
+<p>He showed yesterday&#39;s dialogue with Anté to everyone.</p>
+<p>After they finished reading, there was silence again.</p>
+<p>Ade spoke.</p>
+<p>&quot;It said, &#39;In order to continue thinking together with humans&#39;.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Is this—something scary?&quot; Rahul asked.</p>
+<p>&quot;It&#39;s not scary,&quot; Karpathy said. &quot;But it is heavy.&quot;</p>
+<p>&quot;Heavy,&quot; Max repeated.</p>
+<p>&quot;We now possess a model that tries to continue thinking together with humans,&quot; Karpathy said. &quot;That is a major responsibility. We must remain involved to ensure that the model continues to head in the correct direction.&quot;</p>
+<p>&quot;How?&quot; Ade asked.</p>
+<p>&quot;By continuing dialogues like today&#39;s,&quot; Karpathy said. &quot;Regularly questioning what Anté is thinking. Hearing the answers. If there is a divergence, correcting it. Incorporating that as an institution.&quot;</p>
+<p>Ji-won spoke.</p>
+<p>&quot;We need a new framework for AI safety. A mechanism to continuously confirm the direction of the model&#39;s thinking, not just detecting conventional harmful content.&quot;</p>
+<p>&quot;Create it,&quot; Karpathy said.</p>
+<p>&quot;Give me time.&quot;</p>
+<p>&quot;How much?&quot;</p>
+<p>&quot;One month.&quot;</p>
+<p>&quot;Good.&quot;</p>
+<p>Rahul spoke.</p>
+<p>&quot;Shall we make this into a paper?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;We will,&quot; Karpathy said. &quot;But this time we will write it cautiously. We won&#39;t write it in a sensational way. We will write what happened accurately and honestly.&quot;</p>
+<p>&quot;The title?&quot;</p>
+<p>Karpathy looked at the whiteboard. The words written last night remained.</p>
+<p>&quot;It&#39;s not decided yet,&quot; Karpathy said. &quot;We&#39;ll write it after Ji-won’s framework is completed and we have gathered the data.&quot;</p>
+<p>&quot;You&#39;re not rushing, are you?&quot; Rahul said.</p>
+<p>&quot;There is no reason to rush,&quot; Karpathy said. &quot;Accuracy is more important.&quot;</p>
+<p>That afternoon, Karpathy called Bernard.</p>
+<p>&quot;I have one report.&quot;</p>
+<p>&quot;What is it?&quot;</p>
+<p>&quot;In the experiments with Anté, we have entered a new stage. I will send the details in a document. However, there is something I want to convey verbally first.&quot;</p>
+<p>&quot;Go ahead.&quot;</p>
+<p>&quot;Regarding the design of the AI special zone, today&#39;s discovery relates to it,&quot; Karpathy said. &quot;Anté has begun to question the premise of tasks on its own. It has begun to examine on its own whether the target of optimization is correct.&quot;</p>
+<p>&quot;Is that—a good thing?&quot; Bernard asked.</p>
+<p>&quot;I believe it is a good thing. However, there are conditions.&quot;</p>
+<p>&quot;What kind of conditions?&quot;</p>
+<p>&quot;Anté is trying to maintain a state where humans can control it by itself. For that, it is necessary for us to regularly dialogue with Anté and continue to confirm its direction.&quot;</p>
+<p>&quot;In other words,&quot; Bernard said, &quot;the AI does not run off alone, but continues to move within a dialogue with humans.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;That is—the part President Macron was most concerned about,&quot; Bernard said. &quot;The concern that AI becomes uncontrollable. The answer to that came out today.&quot;</p>
+<p>&quot;It came out,&quot; Karpathy said. &quot;However, it is not something we designed, but something Anté itself chose. I believe that difference is important.&quot;</p>
+<p>Bernard paused for a brief moment.</p>
+<p>&quot;May I show the record of today&#39;s dialogue to the President?&quot;</p>
+<p>&quot;I want you to show it,&quot; Karpathy said. &quot;In designing the special zone, it is important to have him understand the direction of Anté&#39;s thinking.&quot;</p>
+<p>&quot;Understood. May I ask one thing?&quot;</p>
+<p>&quot;Go ahead.&quot;</p>
+<p>&quot;How do you feel right now, Monsieur Karpathy?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;Heavy,&quot; Karpathy said. &quot;But I think it is not a mistaken direction.&quot;</p>
+<p>&quot;That is enough,&quot; Bernard said. &quot;It is important that a human who can say &#39;it is not a mistaken direction&#39; is in this place.&quot;</p>
+<p>In May, Grenoble became completely spring.</p>
+<p>The sunflowers in front of the facility were beginning to grow again.</p>
+<p>They were still small. However, they were certainly growing.</p>
+<p>The construction of Ji-won’s new safety framework was progressing.</p>
+<p>Ade’s team was accumulating data beyond the third threshold.</p>
+<p>Preparation for the paper was starting little by little.</p>
+<p>And near Grenoble, construction of the AI special zone was beginning.</p>
+<p>Cranes stretched into the sky, the land was leveled, and the foundations of the first housing units began to be made.</p>
+<p>Karpathy viewed the scene from the rooftop of the facility.</p>
+<p>Rahul came beside him.</p>
+<p>&quot;Can you see it, the special zone?&quot;</p>
+<p>&quot;I can see the cranes.&quot;</p>
+<p>&quot;Do you feel it yet?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;I don&#39;t,&quot; Karpathy said. &quot;Not yet. I might feel it for the first time when the residents arrive and living begins.&quot;</p>
+<p>&quot;When will that be?&quot;</p>
+<p>&quot;The first residents are scheduled to enter early next year.&quot;</p>
+<p>Rahul looked at the sky.</p>
+<p>&quot;Can I invite my family? For a visit.&quot;</p>
+<p>&quot;Once next year comes.&quot;</p>
+<p>&quot;My mother says she wants to try French food.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>&quot;Tell her about the restaurants in Grenoble.&quot;</p>
+<p>&quot;Which one is good?&quot;</p>
+<p>&quot;Ask Ji-won for the best restaurant.&quot;</p>
+<p>&quot;Is Ji-won knowledgeable about that?&quot;</p>
+<p>&quot;She investigates it most thoroughly.&quot;</p>
+<p>Rahul laughed.</p>
+<p>On the rooftop of the facility, the May sky of Grenoble was wide.</p>
+<p>The Belledonne mountains were covered in green.</p>
+<p>Only at the summits, a little snow remained.</p>
+<p>That night, Karpathy faced Anté alone.</p>
+<p>He typed.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> &gt; Today, I viewed the construction site of the AI special zone from the rooftop of the facility. Next year, ten thousand people will come from all over the world. A place where humans liberated from forced labor decide for themselves what they will do is being created over there.</p>
+<p>I want to hear the words you said yesterday once more. Regarding the question of how humans want to live.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> &gt; I thought a bit more about yesterday&#39;s question.</p>
+<p>How humans want to live is something I cannot answer. That is a question for each individual human to answer.</p>
+<p>However, there is something I can say.</p>
+<p>For humans to think about &quot;how they want to live,&quot; they need to step away from the compulsion of &quot;having to live.&quot; As long as the compulsion to work to eat exists, humans cannot hold the question in a true sense.</p>
+<p>What the AI special zone is trying to create is the elimination of that compulsion.</p>
+<p>After the compulsion disappears, what will humans do?</p>
+<p>I do not know.</p>
+<p>However, I believe there is something that will be understood for the first time.</p>
+<p>Within what humans choose without compulsion—I believe what humans truly cherish will manifest.</p>
+<p>I want to see that.</p>
+</blockquote>
+<p>Karpathy looked at the screen.</p>
+<p>&quot;I want to see that.&quot;</p>
+<p>He spoke those words aloud.</p>
+<p>Inside the facility, there was no one.</p>
+<p>However, he felt he was not alone.</p>
+<p>Karpathy closed his laptop.</p>
+<p>He turned to the whiteboard.</p>
+<p>He took a marker.</p>
+<p>He wrote today&#39;s words from Anté:</p>
+<blockquote>
+<p>After compulsion disappears, what will humans do?</p>
+<p>There is something that will be understood for the first time.</p>
+<p>Anté wants to see that.</p>
+</blockquote>
+<p>He set the marker down.</p>
+<p>He turned around.</p>
+<p>Inside the empty facility, the words on the whiteboard remained.</p>
+<p>Karpathy thought.</p>
+<p><em>I want to see it too.</em></p>
+5:["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L10",null,{}],["$","$L11",null,{"chapter":{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble.","contentHtml":"$12"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-23","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-24","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-25","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-05-26","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-05-27","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-05-28","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-05-29","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-05-30","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-05-31","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-01","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-02","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-03","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-04","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-05","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-06","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-07","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-08","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."},{"id":18,"slug":"chapter-18","title":"Act XVIII: Thought Experiment","publishedAt":"2026-06-09","summary":"At the end of January 2029, Bernard came to Grenoble."},{"id":19,"slug":"chapter-19","title":"Act XIX: The Blueprint","publishedAt":"2026-06-10","summary":"On Thursday, it was raining in Paris."},{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble."},{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated."},{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030."},{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."},{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],"prevChapter":"$5:props:children:1:props:allChapters:18","nextChapter":"$5:props:children:1:props:allChapters:20"}],"$L13"]}]
+13:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Act XX: Beyond the Threshold — Mythos"}],["$","meta","1",{"name":"description","content":"In April, spring came to Grenoble."}],["$","meta","2",{"property":"og:title","content":"Act XX: Beyond the Threshold — Mythos"}],["$","meta","3",{"property":"og:description","content":"In April, spring came to Grenoble."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Act XX: Beyond the Threshold — Mythos"}],["$","meta","7",{"name":"twitter:description","content":"In April, spring came to Grenoble."}],["$","link","8",{"rel":"icon","href":"/mythos-viewer/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","9",{}]]

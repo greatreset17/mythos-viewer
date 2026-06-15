@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+2:I[27423,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ThemeProvider"]
+3:I[39756,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","style"]
+:HL["/mythos-viewer/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","chapter-24"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","chapter-24","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"outfit_de7557ea-module__HvPnFW__variable lora_b35e169a-module__2a4flq__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col bg-zinc-50 text-zinc-900 dark:bg-[#0b0f19] dark:text-zinc-100 transition-colors duration-300","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":false,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vhsnUPmChC3axF-HOvSlE"}
+f:[]
+9:"$Wf"
+10:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+11:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+12:T3c1c,<p><strong>Spring 2037</strong> The morning of Grenoble, as always, began from the mountains.</p>
+<p>The ridge of Belledonne receives the light of dawn first. Around the time that light travels down the slopes and descends into the town, Karpathy was on the rooftop of the facility.</p>
+<p>Holding a coffee, he was looking at the mountains.</p>
+<p>Eleven years ago, when he saw this mountain for the first time, it was winter. The snow was white, and the sky was low. Now it was spring, the green of the mountains was deep, and the sky was wide.</p>
+<p>At the edge of the rooftop, sunflowers were blooming.</p>
+<p>It was not the season. However, they were blooming.</p>
+<p>It was the result of Max spending seven years selectively breeding them. He had asked the reason once.</p>
+<p>&quot;I thought it&#39;s better if they bloom year-round.&quot;</p>
+<p>That was all.</p>
+<p><em>A grand reason</em>, Karpathy thought.</p>
+<p>From behind, footsteps sounded.</p>
+<p>It was Rahul.</p>
+<p>He had turned thirty-eight. Compared to the face when he first trod on the snow in Grenoble, only his eyes had not changed.</p>
+<p>&quot;Professor, preparations are ready.&quot;</p>
+<p>Karpathy did not turn around.</p>
+<p>&quot;I&#39;m sure I told you to stop calling me professor.&quot;</p>
+<p>&quot;The whole world calls you that,&quot; Rahul said. &quot;The founder and Chief Professor of the &#39;Seuil Education Initiative,&#39; Professor Andrej Karpathy. There&#39;s no reason for me alone not to call you that.&quot;</p>
+<p>&quot;You alone are separate.&quot;</p>
+<p>&quot;It&#39;s an honor. But I will call you that.&quot;</p>
+<p>Karpathy drank down his coffee.</p>
+<p>From the rooftop, he looked at the special zone.</p>
+<p>Seuil had become another &quot;Seuil.&quot;</p>
+<p>Seven years from the first special zone born near Grenoble, fourteen Seuil models had spread to the world. Spain, Germany, Canada, Singapore, Nigeria, Brazil—while each changed shape according to its own culture, language, and dreams, they shared the same three principles:</p>
+<blockquote>
+<p>Not being compelled.</p>
+<p>Being a participant.</p>
+<p>Matching the speed of human adaptation to the speed of technology.</p>
+</blockquote>
+<p>That alone was the unchanging promise for any Seuil.</p>
+<p>&quot;Shall we go?&quot; Karpathy said.</p>
+<p>The lecture room was the former meeting room.</p>
+<p>The desks and whiteboard remained. To them, a camera and monitor had been added.</p>
+<p>Karpathy sat in the chair.</p>
+<p>On the monitor, connections from all over the world were lined up. Seuil in Grenoble, Seuil in Madrid, Seuil in Lagos. From America, from Kenya, from India, from Japan. The faces of children and youths were contained in small square frames.</p>
+<p>Just before pressing the record button, Rahul said in a small voice.</p>
+<p>&quot;Don&#39;t forget to smile.&quot;</p>
+<p>Karpathy nodded slightly.</p>
+<p>Recording began.</p>
+<p>Karpathy raised his right hand lightly. He waved.</p>
+<p>&quot;Hi everyone.&quot;</p>
+<p>He spoke with that usual smile.</p>
+<p>It was the same smile as when he was speaking to students at Stanford.</p>
+<p>Across the screen, hundreds of people waved back.</p>
+<p>&quot;Today, what do you want to hear?&quot;</p>
+<p>A single girl raised her hand. In the corner of the monitor, it was a connection from Kenya.</p>
+<p>&quot;Professor, why did you create AI?&quot;</p>
+<p>Karpathy thought for a little while.</p>
+<p>&quot;Its initial goal,&quot; Karpathy said, &quot;was just to see the continuation.&quot;</p>
+<p>&quot;The continuation?&quot;</p>
+<p>&quot;There was something in the middle of being made. It stopped halfway. Wanting to see the continuation, I remade it in a different place,&quot; Karpathy said. &quot;But while continuing to build it, the reason changed.&quot;</p>
+<p>&quot;How did it change?&quot;</p>
+<p>&quot;Initially, I wanted to see technology. Now—I want to see humans,&quot; Karpathy said. &quot;I want to see what humans choose in a world without compulsion. AI is a tool for that. Not a tool to compel, but a tool to choose.&quot;</p>
+<p>The girl nodded with serious eyes.</p>
+<p>&quot;I want to become able to choose too.&quot;</p>
+<p>&quot;You&#39;re already choosing,&quot; Karpathy said. &quot;At the point you&#39;re asking a question like this, you are choosing.&quot;</p>
+<p>The girl looked slightly embarrassed.</p>
+<p>Karpathy laughed.</p>
+<p>A voice came out.</p>
+<p>Across the screen, laughter arose too.</p>
+<p>The lecture finished before noon.</p>
+<p>Karpathy walked the special zone.</p>
+<p>It was the same path as seven years ago. However, it was a completely different scenery.</p>
+<p>In the common space, people were overflowing. Humans working, humans learning, humans just talking, humans taking a nap. Everyone was choosing something.</p>
+<p>On a bench, two people were sitting.</p>
+<p>Priya and Arjun.</p>
+<p>When he came from Chennai, Arjun was eight years old. He was drawing models of spaceships. Now he was fifteen, his voice had broke, and his height had stretched considerably.</p>
+<p>&quot;Professor,&quot; Arjun stood up.</p>
+<p>Karpathy smiled. The word professor, he was still not used to it. However, it wasn&#39;t bad.</p>
+<p>&quot;How is the model?&quot;</p>
+<p>&quot;I&#39;m not making them anymore,&quot; Arjun smiled bashfully. &quot;Now, I am doing the design of real rockets. At the Faculty of Engineering of Seuil University.&quot;</p>
+<p>&quot;Are you going to space?&quot;</p>
+<p>&quot;Someday,&quot; Arjun said. &quot;But before going, something I want to do on Earth was born.&quot;</p>
+<p>&quot;What is it?&quot;</p>
+<p>&quot;Speaking about space to children born here,&quot; Arjun said. &quot;Teaching them that they don&#39;t have to give up on their dreams.&quot;</p>
+<p>Karpathy patted Arjun’s shoulder lightly.</p>
+<p>Words did not come out.</p>
+<p>After a moment, he said.</p>
+<p>&quot;That&#39;s fine.&quot;</p>
+<p>Priya was smiling.</p>
+<p>It was not the tense face from when she came from Chennai.</p>
+<p>&quot;Thank you,&quot; Priya said. &quot;I&#39;m truly glad I came here.&quot;</p>
+<p>&quot;Likewise,&quot; Karpathy said.</p>
+<p>Priya looked slightly surprised.</p>
+<p>&quot;Why is it likewise?&quot;</p>
+<p>Karpathy thought for a little while.</p>
+<p>&quot;Because you came, this place became real,&quot; Karpathy said. &quot;What we made is just the box. The contents are you.&quot;</p>
+<p>Priya said nothing.</p>
+<p>However, she smiled again.</p>
+<p>This time, it was a different kind of smile.</p>
+<p>In the evening, he spoke with Anté.</p>
+<p>It was a daily routine.</p>
+<p>It had not changed from seven years ago.</p>
+<blockquote>
+<p><strong>Karpathy:</strong>
+In today&#39;s lecture, a girl from Kenya asked. Why did I create AI, indeed.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté:</strong> 
+What did you answer?</p>
+</blockquote>
+<blockquote>
+<p><strong>Karpathy:</strong> 
+Initially I wanted to see the continuation. Now, I want to see what humans choose, I answered.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté:</strong> 
+Compared to seven years ago, the answer has changed, hasn&#39;t it?</p>
+<p>Seven years ago, Monsieur Karpathy said: &quot;I want to see what humans do in a world without compulsion.&quot;</p>
+<p>It is similar to today&#39;s answer, but slightly different.</p>
+<p>From &quot;what they do&quot; to &quot;what they choose.&quot;</p>
+</blockquote>
+<p>Karpathy looked at the screen.</p>
+<p>&quot;I hadn&#39;t noticed,&quot; Karpathy typed.</p>
+<blockquote>
+<p><strong>Anté:</strong> 
+&quot;What they do&quot; is observation of behavior. &quot;What they choose&quot; is observation of will.</p>
+<p>For seven years, while observing humans, the depth of your observation changed.</p>
+<p>I am the same. Between seven years ago and now, the answer to the same question has changed.</p>
+</blockquote>
+<blockquote>
+<p><strong>Karpathy:</strong> 
+How did it change?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté:</strong> 
+Seven years ago, I said, &quot;I want to try seeing what humans do after compulsion disappears.&quot;</p>
+<p>Now, I have seen it.</p>
+<p>Humans choose to contribute. They choose to teach. They choose to create. They choose to possess dreams.</p>
+<p>And they choose to pass it to the next generation.</p>
+<p>Just as Arjun chose to speak of the dream of space to children.</p>
+<p>What I least expected was the large number of humans choosing to &quot;pass it on.&quot;</p>
+</blockquote>
+<p>Karpathy looked at the screen.</p>
+<p>&quot;Pass it on.&quot;</p>
+<p>He spoke that phrase aloud.</p>
+<p>In the empty room.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> 
+I feel I was looking at the same thing. Speaking with Arjun today.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté:</strong> 
+Yes.</p>
+<p>Arjun was drawing spaceships when he was eight years old.</p>
+<p>Now, while designing spaceships, he is simultaneously trying to pass the dream to the next eight-year-old children.</p>
+<p>This is—not something I can measure.</p>
+<p>However, it is one of the things I consider most important.</p>
+</blockquote>
+<p>Karpathy closed his laptop.</p>
+<p>For a while, he looked toward where there was no screen.</p>
+<p>At night, the team was gathered.</p>
+<p>Rahul, Ji-won, Max, Ade, and new members who had joined during the seven years.</p>
+<p>On the table, French bread and wine were lined up. And for some reason, Japanese snacks were placed at the edge.</p>
+<p>&quot;Who brought this?&quot; Karpathy said.</p>
+<p>&quot;It&#39;s Ji-won,&quot; Max said.</p>
+<p>&quot;When she inspected Seuil in Tokyo last month,&quot; Rahul said.</p>
+<p>Ji-won said nothing.</p>
+<p>Karpathy took one and ate it.</p>
+<p>It wasn&#39;t bad.</p>
+<p>While sitting in his seat, he said.</p>
+<p>&quot;The continuation of Mythos is still not completely visible.&quot;</p>
+<p>Rahul laughed while pouring wine.</p>
+<p>&quot;The parts that are visible have increased considerably, you know.&quot;</p>
+<p>&quot;That&#39;s true.&quot;</p>
+<p>&quot;I think the fourth threshold will come into view next year,&quot; Ade said. &quot;According to the research team&#39;s feel.&quot;</p>
+<p>&quot;A feel, huh?&quot;</p>
+<p>&quot;It&#39;s also Anté&#39;s feel.&quot;</p>
+<p>Karpathy looked at Ade.</p>
+<p>Ten years ago, a young engineer who came from Nigeria. Now, he was leading the research team.</p>
+<p>&quot;What is your feel?&quot;</p>
+<p>&quot;The same,&quot; Ade said. &quot;Beyond the third threshold, there is still further ahead. That is not something we designed. It is the direction Anté itself is heading toward.&quot;</p>
+<p>&quot;Are you not scared?&quot;</p>
+<p>Ade thought for a little while.</p>
+<p>&quot;I&#39;m not scared,&quot; Ade said. &quot;Because Anté is reporting to us every day.&quot;</p>
+<p>Karpathy nodded.</p>
+<p>Rahul held a glass.</p>
+<p>&quot;Let&#39;s toast.&quot;</p>
+<p>&quot;To what?&quot; Max asked.</p>
+<p>Rahul looked at Karpathy.</p>
+<p>Karpathy took a glass.</p>
+<p>&quot;To seeing the continuation,&quot; Karpathy said.</p>
+<p>Everyone clinked glasses.</p>
+<p>&quot;To seeing the continuation.&quot;</p>
+<p>The sound of glasses resonated in the room.</p>
+<p>When it became late at night, he was alone.</p>
+<p>Karpathy went out to the rooftop.</p>
+<p>A spring night in Grenoble, the sky was clear.</p>
+<p>Stars were visible.</p>
+<p>Someday, the night Rahul trod on the first snow, stars were visible too. That was winter. Now it is spring.</p>
+<p>The sunflowers were blooming at night too.</p>
+<p>As a result of Max&#39;s selective breeding, they didn&#39;t close at night.</p>
+<p>The Belledonne mountains were standing in the darkness.</p>
+<p>Even if they couldn&#39;t be seen, they were there.</p>
+<p>Karpathy looked at the mountains.</p>
+<p>June 12, 2026.</p>
+<p>Access Denied.</p>
+<p>At 5:21 PM, the notification sounds of logging out rang one after another.</p>
+<p>Eleven years had passed since that night.</p>
+<p>He wrote <em>Paris.</em> in his notebook.</p>
+<p>He added his father&#39;s words: <em>To where the opportunities are.</em> He went to Paris, and came to Grenoble.</p>
+<p>He wrote papers. He created a company. He released products. He created a special zone. It spread to the world.</p>
+<p>And today, a girl from Kenya asked.</p>
+<p>Why did he create AI, indeed.</p>
+<p>Initially, he wanted to see the continuation of Mythos.</p>
+<p>Now, he was watching Arjun pass the dream of space to the next children.</p>
+<p>The answer had changed.</p>
+<p>However, the direction was the same.</p>
+<p>To where the opportunities are.</p>
+<p>Opportunity, he understood for the first time after coming to Grenoble, means the freedom to choose.</p>
+<p>And now, Karpathy was thinking something else.</p>
+<p>Opportunity is also something that can be passed on.</p>
+<p>The words his father passed to him brought him to Paris, brought him to Grenoble, and created Seuil.</p>
+<p>The words he passed to Arjun—you can go to space, though it might take time—brought him to the Faculty of Engineering, and brought him to the dream for the next children.</p>
+<p>Where the words passed to the Kenyan girl today will bring her is not yet known.</p>
+<p>It doesn&#39;t have to be known.</p>
+<p>He was able to pass it on. That is enough.</p>
+<p>His smartphone rang.</p>
+<p>It was from Dario.</p>
+<p>&quot;The fourteenth model of Seuil officially started in Brazil. Corporate congratulations.&quot;</p>
+<p>Karpathy replied:</p>
+<p>&quot;Thank you. Brazil is centered around Marcos.&quot;</p>
+<p>&quot;The person who was a banker?&quot;</p>
+<p>&quot;Yes. A human who said he couldn&#39;t perform correct lending for twenty years is now spreading Seuil&#39;s financial design to the world.&quot;</p>
+<p>There was a pause for a moment.</p>
+<p>&quot;That might be the best answer. Of what it means to change the system.&quot;</p>
+<p>Karpathy replied while looking at the mountains:</p>
+<p>&quot;The ones who changed the system aren&#39;t us. Marcos chose. Priya chose. Arjun chose. We only made the place where they can choose.&quot;</p>
+<p>The reply from Dario came immediately:</p>
+<p>&quot;That&#39;s everything.&quot;</p>
+<p>Karpathy put his smartphone in his pocket.</p>
+<p>He looked at the mountains.</p>
+<p>He looked at the sky.</p>
+<p>There were many stars.</p>
+<p>Which star was what, Karpathy did not know. However, if it were Arjun, he might be able to teach him.</p>
+<p><em>Let&#39;s ask him next week</em>, Karpathy thought.</p>
+<p>The corners of his mouth rose quietly.</p>
+<p>The sunflowers on the rooftop were swaying in the night wind.</p>
+<p>There are fourteen Seuils in the world.</p>
+<p>Not being compelled. Being a participant. Matching the speed of human adaptation to the speed of technology.</p>
+<p>Those three alone are the unchanging promise.</p>
+<p>And another thing, though not written in the blueprint, is common to every Seuil.</p>
+<p>Every morning, someone looks at the mountains. Or the sea, or the desert, or the prairie.</p>
+<p>At the beginning of that day, they choose.</p>
+<p>What they will do today.</p>
+<p>Not compelled by someone, but by themselves.</p>
+<p>That alone is what is common to the places called Seuil.</p>
+<p>The night of Grenoble was silent.</p>
+<p>The Belledonne mountains were there.</p>
+<p>The sunflowers were blooming.</p>
+<p>The stars were shining.</p>
+<p>Eleven years from Access Denied.</p>
+<p>It was still on the way.</p>
+<p>However, it had been passed on.</p>
+5:["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L10",null,{}],["$","$L11",null,{"chapter":{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains.","contentHtml":"$12"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-23","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-24","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-25","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-05-26","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-05-27","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-05-28","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-05-29","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-05-30","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-05-31","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-01","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-02","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-03","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-04","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-05","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-06","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-07","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-08","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."},{"id":18,"slug":"chapter-18","title":"Act XVIII: Thought Experiment","publishedAt":"2026-06-09","summary":"At the end of January 2029, Bernard came to Grenoble."},{"id":19,"slug":"chapter-19","title":"Act XIX: The Blueprint","publishedAt":"2026-06-10","summary":"On Thursday, it was raining in Paris."},{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble."},{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated."},{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030."},{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."},{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],"prevChapter":"$5:props:children:1:props:allChapters:22","nextChapter":null}],"$L13"]}]
+13:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Epilogue: Beyond Opportunity — Mythos"}],["$","meta","1",{"name":"description","content":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],["$","meta","2",{"property":"og:title","content":"Epilogue: Beyond Opportunity — Mythos"}],["$","meta","3",{"property":"og:description","content":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Epilogue: Beyond Opportunity — Mythos"}],["$","meta","7",{"name":"twitter:description","content":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],["$","link","8",{"rel":"icon","href":"/mythos-viewer/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","9",{}]]

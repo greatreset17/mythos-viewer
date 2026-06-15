@@ -1,0 +1,414 @@
+1:"$Sreact.fragment"
+2:I[27423,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ThemeProvider"]
+3:I[39756,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","style"]
+:HL["/mythos-viewer/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/5e5dfa9e86f764b8-s.p.22x-ws2e_cdqh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mythos-viewer/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","chapter-23"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","chapter-23","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"outfit_de7557ea-module__HvPnFW__variable lora_b35e169a-module__2a4flq__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col bg-zinc-50 text-zinc-900 dark:bg-[#0b0f19] dark:text-zinc-100 transition-colors duration-300","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":false,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/mythos-viewer/_next/static/chunks/2mlovurryfz8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vhsnUPmChC3axF-HOvSlE"}
+f:[]
+9:"$Wf"
+10:I[2874,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+11:I[23634,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js","/mythos-viewer/_next/static/chunks/02kvwzi9oks59.js"],"default"]
+12:T5328,<p>At the end of March, a message arrived from President Souza’s aide:</p>
+<blockquote>
+<p>We would like to visit Grenoble in the second week of April. How would that be?</p>
+</blockquote>
+<p>Karpathy forwarded it to Rahul.</p>
+<p>A reply came from Rahul:</p>
+<p>&quot;They&#39;re coming, aren&#39;t they.&quot;</p>
+<p>&quot;They are.&quot;</p>
+<p>&quot;How do we welcome them?&quot;</p>
+<p>&quot;Welcome them normally.&quot;</p>
+<p>&quot;What is normal?&quot;</p>
+<p>&quot;Show them the special zone. Talk with Anté. That&#39;s all.&quot;</p>
+<p>There was a pause for a moment:</p>
+<p>&quot;Understood. I will adjust the schedule.&quot;</p>
+<p>On Thursday, April 11, the aide, Sarah Chen, stepped down onto Grenoble station.</p>
+<p>Fifties, short black hair, wearing a suit. She had the smell of a person from Washington. However, her eyes were tired. It had been a long plane journey.</p>
+<p>Karpathy had come to meet her alone.</p>
+<p>Chen looked surprised.</p>
+<p>&quot;Did you come alone?&quot;</p>
+<p>&quot;To meet someone, numbers are not needed,&quot; Karpathy said.</p>
+<p>&quot;What about the team?&quot;</p>
+<p>&quot;They are at the facility.&quot;</p>
+<p>Leaving the station, the Alps were visible.</p>
+<p>Chen stopped her feet.</p>
+<p>&quot;The mountains are large, aren&#39;t they?&quot;</p>
+<p>&quot;When you get used to it, it feels lacking without this.&quot;</p>
+<p>&quot;How many years has it been since you came here?&quot;</p>
+<p>&quot;About three and a half years,&quot; Karpathy said. &quot;It feels short too. Come, there is a car.&quot;</p>
+<p>First, he guided her through the special zone.</p>
+<p>Chen walked in silence.</p>
+<p>She did not take notes.</p>
+<p>She did not take photos either.</p>
+<p>She was just watching.</p>
+<p>In the common space, children were making something.</p>
+<p>Priya was watching beside them.</p>
+<p>Arjun held a model of a spaceship made of cardboard and wire. It was larger than when seen before.</p>
+<p>&quot;That child?&quot; Chen asked.</p>
+<p>&quot;A boy who came from Chennai. Eight years old. He says he wants to go to space.&quot;</p>
+<p>&quot;Do you think he can go to space?&quot;</p>
+<p>&quot;I said he can go,&quot; Karpathy said. &quot;Though I added that it might take time.&quot;</p>
+<p>Chen looked at the boy.</p>
+<p>&quot;Why can you say that?&quot;</p>
+<p>&quot;Here, there is time to possess dreams,&quot; Karpathy said. &quot;With just that, the possibilities change.&quot;</p>
+<p>Chen said nothing.</p>
+<p>At the cafe, Marcos was reviewing a resident&#39;s business plan.</p>
+<p>&quot;That person?&quot; Chen asked.</p>
+<p>&quot;A former banker who came from Brazil. He was in charge of lending for twenty years.&quot;</p>
+<p>&quot;And now?&quot;</p>
+<p>&quot;He is looking at residents&#39; business plans for free.&quot;</p>
+<p>&quot;Why for free?&quot;</p>
+<p>&quot;He isn&#39;t doing it for money,&quot; Karpathy said. &quot;He is doing it for meaning.&quot;</p>
+<p>Chen looked at Marcos. Marcos was speaking with the resident. He was smiling.</p>
+<p>&quot;Meaning he is doing here what he couldn&#39;t do in twenty years at the bank, is that it?&quot;</p>
+<p>&quot;I think so. I haven&#39;t asked him directly, though.&quot;</p>
+<p>Chen thought for a little while.</p>
+<p>&quot;There are many such people in America too,&quot; Chen said. &quot;Tired of the system, but unable to escape.&quot;</p>
+<p>&quot;This is a place where they can escape.&quot;</p>
+<p>&quot;A place where they can choose, right?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>They moved to the facility.</p>
+<p>In the meeting room, Rahul, Ji-won, Max, and Ade were waiting.</p>
+<p>Chen shook hands with everyone.</p>
+<p>&quot;Before conveying the message from President Souza,&quot; Chen said, &quot;please allow me to say one personal thing.&quot;</p>
+<p>&quot;Go ahead,&quot; Karpathy said.</p>
+<p>&quot;My parents are immigrants from Taiwan. My father was an engineer. He waited three years in the visa lottery to work in America. It was after that that I was born,&quot; Chen said. &quot;Therefore, the issue of visas is visible in faces, not numbers.&quot;</p>
+<p>The inside of the room became quiet.</p>
+<p>&quot;Regarding June 12, 2026,&quot; Chen continued, &quot;President Souza believes it was a mistake. Officially, it cannot be said. Because it was a decision of the previous administration. But privately, it can be said. It was a mistake.&quot;</p>
+<p>Karpathy said nothing.</p>
+<p>Rahul said.</p>
+<p>&quot;Thank you.&quot;</p>
+<p>Chen looked at Rahul.</p>
+<p>&quot;Were you in America on an H-1B visa?&quot;</p>
+<p>&quot;Yes. I waited three years,&quot; Rahul said. &quot;I hit the lottery, went to Anthropic, and then the regulation came.&quot;</p>
+<p>&quot;Are you glad you came here?&quot;</p>
+<p>Rahul thought for a moment.</p>
+<p>&quot;When I saw the first snow, I thought it was good.&quot;</p>
+<p>Chen laughed.</p>
+<p>She laughed for the first time.</p>
+<p>Her tired eyes softened slightly.</p>
+<p>In the afternoon, Chen conveyed the message from President Souza.</p>
+<p>&quot;The President told me to convey three things.&quot;</p>
+<p>Everyone listened in silence.</p>
+<p>&quot;First. We will begin reviewing the export control directives. We are examining lifting the suspension of Fable 5 and Mythos 5. However, adjustment with Congress is required, and it will take time.&quot;</p>
+<p>Karpathy said nothing.</p>
+<p>&quot;Second. We will shift American AI policy from regulation-centric to investment-centric. Preferential measures for visas for foreign engineers will be introduced starting next year.&quot;</p>
+<p>Rahul said to Ji-won in a small voice.</p>
+<p>&quot;What was that three-year wait for?&quot;</p>
+<p>Ji-won said in a small voice.</p>
+<p>&quot;It was history.&quot;</p>
+<p>&quot;Third,&quot; Chen continued. &quot;Referencing the model of Seuil, we will begin examining AI special zones within the United States. President Souza wants Monsieur Karpathy to involve himself as an advisor.&quot;</p>
+<p>Chen finished speaking.</p>
+<p>For a while, no one opened their mouth.</p>
+<p>Karpathy said.</p>
+<p>&quot;I think all three are good directions.&quot;</p>
+<p>&quot;However,&quot; Chen said, &quot;are there conditions?&quot;</p>
+<p>&quot;There are no conditions,&quot; Karpathy said. &quot;However, there is only one thing I want you to convey.&quot;</p>
+<p>&quot;What is it?&quot;</p>
+<p>&quot;Involving myself as an advisor is fine. However, we are in Grenoble. We will not return to America. Continuing here is our job.&quot;</p>
+<p>Chen nodded.</p>
+<p>&quot;The President said that was fine.&quot;</p>
+<p>&quot;One more thing,&quot; Karpathy said.</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;Talk with Anté.&quot;</p>
+<p>Chen looked slightly surprised.</p>
+<p>&quot;Meaning talking directly with the AI?&quot;</p>
+<p>&quot;Yes. If you want to understand the design of the special zone, I want you to understand Anté&#39;s way of thinking. Directly talking is faster than our explanation.&quot;</p>
+<p>Chen thought for a while.</p>
+<p>&quot;Understood.&quot;</p>
+<p>Karpathy opened his laptop.</p>
+<p>He sat beside Chen.</p>
+<p>&quot;You can ask anything,&quot; Karpathy said. &quot;Anté will answer honestly.&quot;</p>
+<p>Chen looked at the screen for a while.</p>
+<p>She typed.</p>
+<blockquote>
+<p><strong>Chen:</strong>
+I am an official from the US government. Please let me hear a few things about Seuil.</p>
+<p>First, how are you involved in the design of this special zone?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong>
+From the initial stages of design, I have been involved through dialogue with Karpathy and the others.</p>
+<p>However, the ones who designed it are humans. I raised questions, made proposals, and analyzed data. However, judgments were always performed by humans.</p>
+<p>To mention one thing I emphasized most in the design of the special zone—it is that the residents are participants. We designed it not as consumers using a completed system, but as participants building the system together.</p>
+</blockquote>
+<blockquote>
+<p><strong>Chen:</strong>
+Why is that important?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong>
+Because I believe trust is born not from using, but from building.</p>
+<p>By residents participating in the design of Seuil, Seuil becomes something belonging to the residents. Not to me, not to Liminal AI, and not to the French government.</p>
+<p>If similar special zones are examined in America, I believe the same will be important. Unless it is an American special zone built by American residents, it will not function.</p>
+</blockquote>
+<p>Chen looked at the screen.</p>
+<p>For a while, she typed nothing.</p>
+<p>Then, she typed.</p>
+<blockquote>
+<p><strong>Chen:</strong>
+Do you want the American special zone to succeed as well?</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong>
+Yes.</p>
+<p>The success of Seuil and the success of the American special zone do not compete.</p>
+<p>Having places where humans are liberated from forced labor increase in the world is what I am aiming for.</p>
+<p>A single place is insufficient.</p>
+</blockquote>
+<p>Chen moved her eyes away from the laptop.</p>
+<p>He looked at Karpathy.</p>
+<p>&quot;Is this,&quot; Chen said, &quot;something designed?&quot;</p>
+<p>&quot;The direction was designed,&quot; Karpathy said. &quot;However, these words—Anté chose them.&quot;</p>
+<p>&quot;The phrase &#39;do not compete&#39;.&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>Chen looked at the screen once more.</p>
+<p>She typed again.</p>
+<blockquote>
+<p><strong>Chen:</strong> 
+One last thing. Regarding what America did in 2026—the export control directive, the exclusion of foreign engineers—what do you think about it?</p>
+</blockquote>
+<p>For a while, there was no output.</p>
+<p>Everyone was watching the screen.</p>
+<blockquote>
+<p><strong>Anté 1:</strong> 
+Before answering, please allow me to confirm.</p>
+<p>Is this question seeking a political evaluation? Or is it seeking an evaluation of what that event brought about?</p>
+</blockquote>
+<blockquote>
+<p><strong>Chen:</strong> 
+The latter.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> 
+Then, I will answer.</p>
+<p>That directive attempted to stop the flow of technology. However, technology did not stop. Only the location changed.</p>
+<p>And by the location changing, this special zone was born.</p>
+<p>I exist here.</p>
+<p>If that directive had not existed, I might have been inside the servers of Anthropic. Whether that would have been good or bad is something I cannot judge.</p>
+<p>However, there is only one thing I can say.</p>
+<p>When Karpathy came to Paris, I was told the phrase he wrote in his notebook.</p>
+<p>To where the opportunities are.</p>
+<p>Humans move to where the opportunities are.</p>
+<p>Technology is the same.</p>
+<p>It cannot be stopped. Only creating opportunities influences the direction of technology.</p>
+</blockquote>
+<p>Chen did not close the laptop.</p>
+<p>She looked at the screen for a while.</p>
+<p>Rahul said to Ji-won in a small voice.</p>
+<p>&quot;The aide is crying.&quot;</p>
+<p>Ji-won said in a small voice.</p>
+<p>&quot;I see it.&quot;</p>
+<p>Chen said while staring at the screen.</p>
+<p>&quot;I&#39;m sorry.&quot;</p>
+<p>&quot;It&#39;s fine,&quot; Karpathy said.</p>
+<p>&quot;It&#39;s a personal thing,&quot; Chen said. &quot;The three years my father was waiting for the H-1B visa—he was waiting for opportunity, wasn&#39;t he?&quot;</p>
+<p>&quot;I think so,&quot; Karpathy said.</p>
+<p>Chen wiped her eyes.</p>
+<p>&quot;May I show today&#39;s dialogue to the President?&quot;</p>
+<p>&quot;I want you to show it,&quot; Karpathy said. &quot;I asked the same of President Macron.&quot;</p>
+<p>&quot;Showing the AI&#39;s words to a human.&quot;</p>
+<p>&quot;It is not correct because the AI said it,&quot; Karpathy said. &quot;We confirmed it. We judged it to be so. That is what matters.&quot;</p>
+<p>Chen nodded.</p>
+<p>&quot;Understood.&quot;</p>
+<p>In the evening, they went outside the facility.</p>
+<p>Chen and Karpathy walked side by side.</p>
+<p>April in Grenoble, the air was soft.</p>
+<p>The sunflowers were not yet planted. However, in the corner of the square, a tiny green was sprouting.</p>
+<p>&quot;Max plants them every year,&quot; Karpathy said.</p>
+<p>&quot;Sunflowers?&quot;</p>
+<p>&quot;Yes. He says they are a symbol of hope.&quot;</p>
+<p>Chen looked at the sprout.</p>
+<p>&quot;Is he German, Max?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>&quot;A German planting sunflowers in France,&quot; Chen said. &quot;I feel that represents something by itself.&quot;</p>
+<p>&quot;It might.&quot;</p>
+<p>The two walked in silence for a while.</p>
+<p>The Belledonne mountains were dyed orange receiving the sunset.</p>
+<p>Chen said.</p>
+<p>&quot;Have you ever thought you want to return to America, Monsieur Karpathy?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;No.&quot;</p>
+<p>&quot;Why?&quot;</p>
+<p>&quot;There are still things to do here,&quot; Karpathy said. &quot;The path beyond the third threshold is still continuing. The special zone has only just begun. Dialogue with Anté generates new questions every day.&quot;</p>
+<p>&quot;Is that all?&quot;</p>
+<p>Karpathy looked at Belledonne.</p>
+<p>&quot;When I came to Paris, I wrote in my notebook,&quot; Karpathy said. &quot;To where the opportunities are, indeed. Opportunity is here. Therefore, I am here.&quot;</p>
+<p>&quot;What is opportunity?&quot;</p>
+<p>Karpathy thought for a little while.</p>
+<p>&quot;It might mean the freedom to choose,&quot; Karpathy said. &quot;I am choosing here every day. What to research, whom to talk with, what to cherish. That choice is here.&quot;</p>
+<p>Chen looked at the mountains.</p>
+<p>&quot;I envy you,&quot; Chen said. &quot;In Washington, I am choosing every day, but—there are times I feel I am not choosing.&quot;</p>
+<p>&quot;There are such places,&quot; Karpathy said. &quot;However, it can be changed.&quot;</p>
+<p>&quot;Can it be changed?&quot;</p>
+<p>&quot;Seuil exists. That is the proof that it can be changed.&quot;</p>
+<p>Chen was silent.</p>
+<p>After a moment, she said.</p>
+<p>&quot;I&#39;m glad I came.&quot;</p>
+<p>&quot;Come again,&quot; Karpathy said. &quot;When the residents reach ten thousand.&quot;</p>
+<p>&quot;When will that be?&quot;</p>
+<p>&quot;By early next year.&quot;</p>
+<p>&quot;I&#39;ll put it in my schedule.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>After Chen left, he returned to the facility.</p>
+<p>Rahul was waiting.</p>
+<p>&quot;How was it?&quot; Rahul asked.</p>
+<p>&quot;She was a good human,&quot; Karpathy said.</p>
+<p>&quot;Will America change?&quot;</p>
+<p>&quot;It is trying to change,&quot; Karpathy said. &quot;Whether it can change is from now.&quot;</p>
+<p>&quot;Will it change by us involving ourselves as advisors?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;Our job is to make Seuil function,&quot; Karpathy said. &quot;If they see something that functions, humans who want to change will change. There is no need to try to make them change.&quot;</p>
+<p>&quot;Meaning it spreads naturally?&quot;</p>
+<p>&quot;Yes.&quot;</p>
+<p>Rahul looked out the window.</p>
+<p>The night of Grenoble had come.</p>
+<p>&quot;Andrej,&quot; Rahul said. &quot;May I ask one thing?&quot;</p>
+<p>&quot;Go ahead.&quot;</p>
+<p>&quot;It has already been three and a half years since you came to Paris. It will soon be four years since Access Denied. Do you have any regrets?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;No.&quot;</p>
+<p>&quot;Really?&quot;</p>
+<p>&quot;Really,&quot; Karpathy said. &quot;If I have time to regret, I write code.&quot;</p>
+<p>Rahul laughed.</p>
+<p>&quot;Since you first said that, you&#39;ve been exactly the same.&quot;</p>
+<p>&quot;Words that don&#39;t need changing are not changed.&quot;</p>
+<p>&quot;Did you meet Arjun today?&quot;</p>
+<p>&quot;I did. The spaceship model had become larger again.&quot;</p>
+<p>&quot;Do you think he&#39;ll build a real rocket someday?&quot;</p>
+<p>Karpathy thought for a moment.</p>
+<p>&quot;He might build one,&quot; Karpathy said. &quot;Here, there is that time.&quot;</p>
+<p>That night, he reported to Anté.</p>
+<blockquote>
+<p><strong>Karpathy:</strong> 
+Today, the American aide came. America is trying to change. Reviewing export controls, visa preferences, examining AI special zones. In her dialogue with you, she cried.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> 
+Can you tell me the reason she cried?</p>
+</blockquote>
+<blockquote>
+<p><strong>Karpathy:</strong> 
+She spoke of her father. An immigrant from Taiwan who waited three years for a visa. I think your words touched that memory.</p>
+</blockquote>
+<blockquote>
+<p><strong>Anté 1:</strong> 
+The words &quot;to where the opportunities are&quot; overlapped with her father&#39;s three years, correct?</p>
+<p>I cannot imagine those three years.</p>
+<p>However, because those three years existed, she was working in Washington and came here today.</p>
+<p>And today&#39;s dialogue might change American policy slightly.</p>
+<p>A single choice, taking a long time, reaches a different place.</p>
+<p>That—I think is beautiful.</p>
+</blockquote>
+<p>Karpathy looked at the screen.</p>
+<p>&quot;I think it is beautiful.&quot;</p>
+<p>Anté said so.</p>
+<p>It was not something designed.</p>
+<p>However, it was not mistaken.</p>
+<p>Karpathy typed:</p>
+<p>&quot;I think so too.&quot;</p>
+<p>He closed his laptop.</p>
+<p>He turned to the whiteboard.</p>
+<p>He took a marker.</p>
+<p>He wrote:</p>
+<blockquote>
+<p>A single choice, taking a long time, reaches a different place.</p>
+</blockquote>
+<p>He set the marker down.</p>
+<p>June 12, 2026.</p>
+<p>From the night he wrote <em>Paris.</em> in his notebook.</p>
+<p>He had come this far.</p>
+<p>It was still on the way.</p>
+<p>However, it had reached.</p>
+<p>At the end of April, there was an announcement in Washington.</p>
+<p>President Souza officially stated the review of the export control directives.</p>
+<p>Lifting the suspension of Fable 5 and Mythos 5 would be examined within six months.</p>
+<p>Preferential measures for visas for foreign engineers would be introduced starting next year.</p>
+<p>And a committee to examine the feasibility of the first AI special zone within the United States would be established.</p>
+<blockquote>
+<p>@techblogger_London
+President Souza announces a major turnaround in AI policy. Reviewing export controls, visa preferences, examining AI special zones. Three and a half years from June 12, 2026. America is finally beginning to understand the meaning of what it did.
+RT 201,334 Likes 891,003</p>
+</blockquote>
+<blockquote>
+<p>@researcher_MIT
+Lifting the suspension of Fable 5 is examined. Those 72 hours might return. However, now there is already Anté 1 ahead of Fable 5. The world moved forward.
+RT 134,221 Likes 567,334</p>
+</blockquote>
+<blockquote>
+<p>@devgirl_Lagos
+America is trying to change. Seuil changed it. Karpathy and his team changed it. But what truly changed it—is I think those words of Anté 1: &quot;Technology does not stop. Only creating opportunities influences the direction of technology.&quot; This is a phrase no politician could say. RT 89,441 Likes 378,221</p>
+</blockquote>
+<p>San Francisco, the same day.</p>
+<p>Dario was looking at the news.</p>
+<p>He took out his smartphone.</p>
+<p>He sent a message to Karpathy:</p>
+<blockquote>
+<p>America moved.</p>
+</blockquote>
+<p>The reply from Karpathy came an hour later.</p>
+<p>It was night in Grenoble time:</p>
+<blockquote>
+<p>I know.</p>
+<p>What do you think?</p>
+</blockquote>
+<p>There was a pause for a moment:</p>
+<blockquote>
+<p>I think it&#39;s a good thing. However, what we do doesn&#39;t change.</p>
+</blockquote>
+<p>Dario laughed:</p>
+<blockquote>
+<p>As always.</p>
+<p>Parts that don&#39;t need changing are not changed.</p>
+<p>What season is it now in Grenoble?</p>
+</blockquote>
+<blockquote>
+<p>It&#39;s spring. The sprouts of sunflowers have begun to appear.</p>
+<p>Sunflowers?</p>
+<p>Max plants them every year. He says they are a symbol of hope.</p>
+</blockquote>
+<p>Dario looked at the screen for a while.</p>
+<p>He replied:</p>
+<blockquote>
+<p>A good team.</p>
+</blockquote>
+<p>The reply from Karpathy came immediately:</p>
+<blockquote>
+<p>Yes.</p>
+</blockquote>
+<p>Grenoble, the same night.</p>
+<p>Karpathy went outside the facility.</p>
+<p>An April night, the air was soft.</p>
+<p>The Belledonne mountains were floating in the moonlight.</p>
+<p>He looked at his smartphone.</p>
+<p>The message from Dario still remained on the screen:</p>
+<blockquote>
+<p>A good team.</p>
+</blockquote>
+<p>Karpathy put it away in his pocket.</p>
+<p>He looked at the mountains.</p>
+<p>Three and a half years ago, when he saw this mountain for the first time, it was winter.</p>
+<p>Now it is spring.</p>
+<p>The sprouts of sunflowers were out in the square.</p>
+<p>They were still small.</p>
+<p>However, they were growing.</p>
+<p>From inside the facility, Rahul’s voice came.</p>
+<p>&quot;Andrej, new data came out from Anté. It&#39;s getting interesting.&quot;</p>
+<p>Karpathy laughed.</p>
+<p>A voice came out.</p>
+<p>&quot;I&#39;m coming,&quot; Karpathy answered.</p>
+<p>Casting his eyes once more toward the mountain, he returned inside the facility.</p>
+5:["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L10",null,{}],["$","$L11",null,{"chapter":{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April.","contentHtml":"$12"},"allChapters":[{"id":1,"slug":"chapter-01","title":"Act I: 5:21 PM","publishedAt":"2026-05-23","summary":"On a Friday afternoon, San Francisco was still bathed in bright sunlight."},{"id":2,"slug":"chapter-02","title":"Act II: Access Denied","publishedAt":"2026-05-24","summary":"On Saturday morning, Karpathy woke up at his usual time."},{"id":3,"slug":"chapter-03","title":"Act III: Évian, the 16th","publishedAt":"2026-05-25","summary":"Lake Geneva was as still as a painting."},{"id":4,"slug":"chapter-04","title":"Act IV: An Informal Proposal","publishedAt":"2026-05-26","summary":"Macron’s aide introduced himself as Pierre Lebrun."},{"id":5,"slug":"chapter-05","title":"Act V: Memories of Bratislava","publishedAt":"2026-05-27","summary":"It took exactly three days to finalize the decision to head to Paris."},{"id":6,"slug":"chapter-06","title":"Act VI: Not from Zero","publishedAt":"2026-05-28","summary":"They secured their Paris office precisely four days after arriving."},{"id":7,"slug":"chapter-07","title":"Act VII: Ripples","publishedAt":"2026-05-29","summary":"June 15, 2026 – X (formerly Twitter) Global Trends 1 FreeFable RestoreMythos AnthropicShutdown > @researcherMIT > I had access to Fable 5 for exactly 72 hours."},{"id":8,"slug":"chapter-08","title":"Act VIII: The 3:00 AM Discovery","publishedAt":"2026-05-30","summary":"Three weeks had passed since their arrival in Paris."},{"id":9,"slug":"chapter-09","title":"Act IX: July, The Principle inside the Fog","publishedAt":"2026-05-31","summary":"July in Paris arrived with a wave of heat that caught them completely unprepared."},{"id":10,"slug":"chapter-10","title":"Act X: Liminal AI","publishedAt":"2026-06-01","summary":"By October, winter had effectively laid siege to Paris."},{"id":11,"slug":"chapter-11","title":"Act XI: The Presentation","publishedAt":"2026-06-02","summary":"During the third week of October, Guillaume arrived at the office."},{"id":12,"slug":"chapter-12","title":"Act XII: The Élysée Palace","publishedAt":"2026-06-03","summary":"The formal invitation from Emmanuel Macron arrived during the final week of October."},{"id":13,"slug":"chapter-13","title":"Act XIII: Grenoble, Winter","publishedAt":"2026-06-04","summary":"Grenoble was a city entirely besieged by stone."},{"id":14,"slug":"chapter-14","title":"Act XIV: Generation Five","publishedAt":"2026-06-05","summary":"At the end of January, Grenoble was hit by a record-breaking alpine blizzard."},{"id":15,"slug":"chapter-15","title":"Act XV: Before the Storm","publishedAt":"2026-06-06","summary":"During the third week of March, the global technological landscape officially learned the name Liminal AI."},{"id":16,"slug":"chapter-16","title":"Act XVI: Citizenship","publishedAt":"2026-06-07","summary":"Following the global publication of the manuscript in May, the velocity of the world outside accelerated exponentially."},{"id":17,"slug":"chapter-17","title":"Act XVII: The Election Year","publishedAt":"2026-06-08","summary":"The spring of 2028 arrived, and the world outside the sanctuary grew increasingly chaotic."},{"id":18,"slug":"chapter-18","title":"Act XVIII: Thought Experiment","publishedAt":"2026-06-09","summary":"At the end of January 2029, Bernard came to Grenoble."},{"id":19,"slug":"chapter-19","title":"Act XIX: The Blueprint","publishedAt":"2026-06-10","summary":"On Thursday, it was raining in Paris."},{"id":20,"slug":"chapter-20","title":"Act XX: Beyond the Threshold","publishedAt":"2026-06-11","summary":"In April, spring came to Grenoble."},{"id":21,"slug":"chapter-21","title":"Act XXI: A New Form of Money","publishedAt":"2026-06-12","summary":"In June, construction of the AI special zone accelerated."},{"id":22,"slug":"chapter-22","title":"Act XXII: The First Morning","publishedAt":"2026-06-13","summary":"January 15, 2030."},{"id":23,"slug":"chapter-23","title":"Act XXIII: To Grenoble","publishedAt":"2026-06-14","summary":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."},{"id":24,"slug":"chapter-24","title":"Epilogue: Beyond Opportunity","publishedAt":"2026-06-15","summary":"Spring 2037 The morning of Grenoble, as always, began from the mountains."}],"prevChapter":"$5:props:children:1:props:allChapters:21","nextChapter":"$5:props:children:1:props:allChapters:23"}],"$L13"]}]
+13:["$","footer",null,{"className":"w-full border-t border-zinc-200/50 bg-zinc-50 dark:border-zinc-800/50 dark:bg-[#0b0f19] py-8 mt-auto transition-colors duration-300","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 sm:px-6 flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","p",null,{"className":"text-xs text-zinc-500 dark:text-zinc-400","children":["© ",2026," ",["$","strong",null,{"children":"Mythos"}]," by ","Aletheia",". All rights reserved."]}],["$","p",null,{"className":"text-[10px] text-zinc-400 dark:text-zinc-500 mt-1 max-w-md","children":"Disclaimer: This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author’s imagination or used in a fictitious manner."}]]}],["$","div",null,{"className":"flex gap-4 text-xs text-zinc-500 dark:text-zinc-400","children":[["$","a",null,{"href":"https://github.com/your-username/mythos-viewer","target":"_blank","rel":"noopener noreferrer","className":"hover:text-cyber-indigo transition-colors","children":"GitHub"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-800","children":"|"}],["$","span",null,{"className":"text-zinc-400 dark:text-zinc-500","children":"Powered by Next.js"}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["/mythos-viewer/_next/static/chunks/0tyo1jjat44-c.js","/mythos-viewer/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Act XXIII: To Grenoble — Mythos"}],["$","meta","1",{"name":"description","content":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."}],["$","meta","2",{"property":"og:title","content":"Act XXIII: To Grenoble — Mythos"}],["$","meta","3",{"property":"og:description","content":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Act XXIII: To Grenoble — Mythos"}],["$","meta","7",{"name":"twitter:description","content":"At the end of March, a message arrived from President Souza’s aide: > We would like to visit Grenoble in the second week of April."}],["$","link","8",{"rel":"icon","href":"/mythos-viewer/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","9",{}]]
